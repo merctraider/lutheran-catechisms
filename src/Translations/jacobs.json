@@ -391,7 +391,7 @@
             {
                 "id":"duties-general",
                 "mainHeading":"To all in Common",
-                "content":"<p>Thou shalt love thy neighbor as thyself. Herein are comprehended all the commandments. Rom. 13:9. </p> <p>And persevere in prayer for all men. 1 Tim. 2:1. </p> <p>Let each his lesson learn with care, <br>And all the household well shall fare. </p> <p>Lord, open Thou my heart to hear, <br>And by Thy Word to me draw near,<br>Let me Thy Word still pure retain,<br>Let me Thy child and heir remain.   </p> <p>Thy Word doth move the inmost heart, <br> Thy Word doth perfect health impart, <br> Thy Word my soul with joy doth bless, <br> Thy Word brings peace and happiness. <br></p> <p>Glory to God, the Father, Son, <br> And Holy Spirit, Three in One! <br> To Thee, O blessed Trinity, <br> Be praise throughout Eternity! </p> <p>JOHN OLEARIUS, 1671.</p>"
+                "content":"<p>Thou shalt love thy neighbor as thyself. Herein are comprehended all the commandments. Rom. 13:9. </p> <p>And persevere in prayer for all men. 1 Tim. 2:1. </p> <div> <p>Let each his lesson learn with care, <br>And all the household well shall fare. </p> <p>Lord, open Thou my heart to hear, <br>And by Thy Word to me draw near,<br>Let me Thy Word still pure retain,<br>Let me Thy child and heir remain. </p> <p>Thy Word doth move the inmost heart, <br> Thy Word doth perfect health impart, <br> Thy Word my soul with joy doth bless, <br> Thy Word brings peace and happiness. <br></p> <p>Glory to God, the Father, Son, <br> And Holy Spirit, Three in One! <br> To Thee, O blessed Trinity, <br> Be praise throughout Eternity! </p> <p class='blockquote-footer'>JOHN OLEARIUS, 1671.</p> </div>"
             }
         ]
     }
