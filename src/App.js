@@ -14,6 +14,7 @@ import { Navbar, Container, Form, Collapse, NavbarBrand } from 'react-bootstrap'
 
 import './App.css';
 import Home from './Home';
+import { Helmet } from 'react-helmet';
 
 
 function App() {
@@ -47,6 +48,11 @@ function App() {
 
   return (
     <div className="App">
+      <Helmet>
+        <title>Luther’s Small Catechism by Dr. Martin Luther</title>
+        <meta name="description" content="Read the Small Catechism of Dr. Martin Luther online" />
+        <meta name="keywords" content="christian instruction book, the small catechism, luther's small catechism, luthers small catechism, small catechism online, free small catechism, enchiridion"></meta>
+      </Helmet>
       <Navbar bg="light" className='sticky-top'>
 
 
