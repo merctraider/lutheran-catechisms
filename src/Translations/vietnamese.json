@@ -1,0 +1,375 @@
+{
+    "preface":{
+        "heading":{
+            "title": "PREFACE OF DR. MARTIN LUTHER.",
+            "subtitle":""
+        },
+        "sections":[
+            {
+                "id": "preface-content",
+                "mainHeading":"",
+                "content": "<p>Translation not found. Select another translation.</p>"
+            }
+        ]
+    },
+    "tencommandments":{
+        "heading":{
+            "title": "MƯỜI ĐIỀU RĂN:",
+            "subtitle":"Là Chủ Gia Đình Nên Dạy Chúng Một Cách Đơn Giản Cho Gia Đình Của Mình."
+        },
+        "sections":[
+            {
+                "id":"ten-commandments-01",
+                "mainHeading":"Ngươi không được có thần nào khác.",
+                "additionalHeading":"Điều Răn Đầu Tiên",
+                "content": "<i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Chúng ta nên kính sợ, yêu mến và tin cậy nơi Đức Chúa Trời trên hết mọi sự.</p>"
+            },
+            {
+                "id":"ten-commandments-02",
+                "mainHeading":"Ngươi chớ kêu danh Giê-hô-va Đức Chúa Trời ngươi một cách vô ích.",
+                "additionalHeading":"Điều Răn Thứ Hai",
+                "content": "<i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Chúng ta nên kính sợ và yêu mến Đức Chúa Trời, để chúng ta không được nguyền rủa, thề thốt, sử dụng phép thuật phù thủy, nói dối hoặc lừa dối nhân danh Ngài; nhưng hãy kêu cầu nó trong mọi khó khăn, cầu nguyện, ngợi khen và cảm tạ.</p>"
+            },
+            {
+                "id":"ten-commandments-03",
+                "mainHeading":"Ngươi hãy thánh hóa ngày Sabbath.",
+                "additionalHeading":"Điều Răn Thứ Ba.",
+                "content": "<i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Chúng ta nên kính sợ và yêu mến Đức Chúa Trời, để chúng ta không được khinh thường sự giảng dạy Phúc Âm và Lời của Ngài; nhưng hãy giữ nó thiêng liêng, sốt sắng lắng nghe và học nó.</p>"
+            },
+            {
+                "id":"ten-commandments-04",
+                "mainHeading":"Ngươi phải hiếu kính cha mẹ ngươi.",
+                "additionalHeading":"Điều Răn Thứ Tư",
+                "content": "<i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Chúng ta nên kính sợ và yêu mến Đức Chúa Trời, để chúng ta không khinh thường, chọc giận cha mẹ và người giám hộ; nhưng hãy tôn trọng, phục vụ và vâng lời họ, và giữ họ trong tình yêu và sự kính trọng.</p>"
+            },
+            {
+                "id":"ten-commandments-05",
+                "mainHeading":"Ngươi không được giết người.",
+                "additionalHeading":"Điều Răn Thứ Năm",
+                "content": "<i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Chúng ta nên kính sợ và yêu mến Đức Chúa Trời, hầu cho chúng ta không làm tổn thương thân thể và xâm phạm đến an nguy của người lân cận; nhưng hãy giúp đỡ anh ấy trong mọi nhu cầu của cơ thể và trước mọi sự hiểm nguy.</p>"
+            },
+            {
+                "id":"ten-commandments-06",
+                "mainHeading":"Ngươi chớ phạm tội ngoại tình.",
+                "additionalHeading":"Điều Răn Thứ Sáu",
+                "content": "<i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Chúng ta nên kính sợ và yêu mến Đức Chúa Trời, để có thể sống trong sạch và đàng hoàng trong lời nói và việc làm, và mỗi người đều yêu thương và tôn trọng người phối ngẫu của người khác.</p>"
+            },
+            {
+                "id":"ten-commandments-07",
+                "mainHeading":"Ngươi không được trộm cắp.",
+                "additionalHeading":"Điều Răn Thứ Bảy",
+                "content": "<i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Chúng ta nên kính sợ và yêu mến Đức Chúa Trời, hầu cho chúng ta không lấy tiền bạc hoặc tài sản của người lân cận, cũng như không làm những việc ấy qua việc trao đổi những món hàng không tương xứng với giá trị, hoặc những thương vụ gian dối; Trái lại, hãy giúp anh ta cải thiện và bảo vệ tài sản cùng công việc kinh doanh của mình.</p>"
+            },
+            {
+                "id":"ten-commandments-08",
+                "mainHeading":"Ngươi chớ làm chứng dối về kẻ lân cận mình.",
+                "additionalHeading":"Điều Răn Thứ Tám",
+                "content": "<i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Chúng ta nên kính sợ và yêu mến Đức Chúa Trời, để chúng ta không gian dối, phản bội, vu khống, cũng như nói xấu người lân cận của mình; nhưng hãy bênh vực anh ta, nói tốt về anh ta, và diễn giải mọi thứ cho thật sáng tỏ.</p>"
+            },
+            {
+                "id":"ten-commandments-09",
+                "mainHeading":"Ngươi chớ thèm muốn nhà hàng xóm của ngươi.",
+                "additionalHeading":"Điều Răn Thứ Chín",
+                "content": "<i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Chúng ta nên kính sợ và yêu mến Đức Chúa Trời, để chúng ta không cố ý tìm cách lấy cơ nghiệp hoặc nhà của người hàng xóm, cũng như lợi dụng luật pháp để chiếm đoạt; nhưng hãy giúp đỡ và phục vụ anh ta trong việc gìn giữ tài sản của mình.</p>"
+            },
+            {
+                "id":"ten-commandments-10",
+                "mainHeading":"Ngươi không được thèm muốn vợ của người hàng xóm, tôi trai tớ gái của hắn, gia súc của hắn, cũng như bất cứ thứ gì là của hàng xóm của ngươi.",
+                "additionalHeading":"Điều Răn Thứ Mười",
+                "content": "<i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Chúng ta nên kính sợ và yêu mến Đức Chúa Trời, hầu cho ta không được lôi kéo, cưỡng bách hoặc tước đoạt vợ, tài sản, gia súc của người hàng xóm của mình; nhưng hãy thúc giục họ ở lại và làm tròn nhiệm vụ với người hàng xóm.</p>"
+            },
+            {
+                "id":"ten-commandments-conclusion",
+                "mainHeading":"Đức Chúa Trời nói gì về tất cả các điều răn này?",
+                "content": "<p><i>Câu trả lời: </i>Ngài nói như vậy: Ngươi chớ quì lạy trước các hình tượng đó, và cũng đừng hầu việc chúng nó; vì ta là Giê-hô-va Đức Chúa Trời ngươi, tức là Đức Chúa Trời kỵ tà, hễ ai ghét ta, ta sẽ nhân tội tổ phụ phạt lại con cháu đến ba bốn đời, và sẽ làm ơn đến ngàn đời cho những kẻ yêu mến ta và giữ các điều răn ta.</p><i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Đức Chúa Trời đe dọa sẽ trừng phạt tất cả những ai vi phạm các điều răn này. Vì vậy, chúng ta nên khiếp sợ cơn thịnh nộ của Ngài, và không hành động trái ngược với chúng. Nhưng Ngài hứa ban ân điển và mọi phước lành cho tất cả những ai tuân giữ các điều răn này. Vì vậy, chúng ta cũng nên yêu mến và tin cậy nơi Ngài, và vui lòng làm theo các điều răn của Ngài.</p>"
+            }
+            
+        ]
+    },
+    "creed":{
+        "heading":{
+            "title": "CÁC TÍN ĐIỀU:",
+            "subtitle":"Là Chủ Gia Đình Nên Dạy Điều Đó Thật Đơn Giản Cho Gia Đình Của Mình."
+        },
+        "sections":[
+            {
+                "id":"creed-1",
+                "additionalHeading":"Điều Đầu Tiên.",
+                "mainHeading":"Về Sự Sáng Tạo",
+                "content": "<p>Tôi tin vào Đức Chúa Trời là Cha toàn năng, Đấng tạo dựng trời và đất.</p><i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Tôi tin rằng Đức Chúa Trời đã tạo ra tôi và tất cả các tạo vật; rằng Ngài đã ban cho tôi thể xác và linh hồn, mắt, tai, cùng mọi chi thể, lý trí và mọi giác quan của tôi, và vẫn gìn giữ chúng; hơn nữa Ngài cũng ban cho tôi quần áo và giày dép, thịt và thức uống, nhà cửa, vợ con, ruộng đồng, gia súc, và mọi của cải; rằng hàng ngày Ngài cung cấp cho tôi tất cả những gì tôi cần để nuôi thân thể và sự sống này cách đầy đủ; rằng Ngài bảo vệ tôi trước mọi nguy hiểm, và gìn giữ tôi khỏi mọi điều ác; và tất cả những điều Thiên Chúa làm đều hoàn toàn xuất phát từ lòng tốt và lòng thương xót của người cha, thiêng liêng, không có bất kỳ công lao hay sự xứng đáng nào trong tôi; Và vì tất cả những điều ấy, tôi có bổn phận phải cảm tạ và ngợi khen, phục vụ và vâng lời Ngài. Đây chắc chắn là sự thật.</p>"
+            },
+            {
+                "id":"creed-2",
+                "additionalHeading":"Điều Thứ Hai.",
+                "mainHeading":"Về Sự Cứu Chuộc",
+                "content": "<p>Tôi tin Giê-xu Christ, là Con độc sanh của Đức Chúa Trời và Chúa chúng ta: Ngài được thai dựng bởi Thánh Linh, sanh bởi nữ đồng trinh Mary, chịu thương khó dưới tay Bôn-xơ Phi-lát, bị đóng đinh trên thập tự giá, chịu chết và chôn. Ngài xuống âm phủ, đến ngày thứ ba, Ngài từ kẻ chết sống lại. Ngài thăng thiên ngồi bên hữu Đức Chúa Trời Toàn Năng, là Cha. Từ đó Ngài sẽ trở lại để xét đoán kẻ sống và kẻ chết.</p><i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Tôi tin rằng Chúa Giê Su Ky Tô, Đức Chúa Trời thật, sinh ra từ Cha từ cõi đời đời, và cũng là người thật do Đức Trinh Nữ Maria sinh ra, là Chúa của tôi, Đấng đã cứu chuộc tôi, một tạo vật bị hư mất và bị kết án. Chúa đã mua chuộc tôi khỏi cái giá của tội lỗi, khỏi sự chết và khỏi quyền lực của ma quỷ, không phải bằng vàng hay bạc, nhưng bằng huyết quý thánh của Ngài và với sự đau khổ và sự chết vô tội của Ngài, hầu cho tôi được thuộc về Ngài, được sống dưới quyền Ngài trong vương quốc của Ngài, và hầu việc Ngài đời đời trong sự công bình, vô tội và phước hạnh, ngay cả khi Ngài đã sống lại từ cõi chết, sống và trị vì đến muôn đời. Đây chắc chắn là sự thật.</p>"
+            },
+            {
+                "id":"creed-3",
+                "additionalHeading":"Điều Thứ Ba.",
+                "mainHeading":"Sự Thánh Hóa",
+                "content": "<p>Tôi tin kính Đức Chúa Thánh Thần; tôi tin Hội Thánh của Chúa,sự hiệp thông của các thánh đồ; tôi tin xác loài người ngày sau sống lại và sự sống đời đời, Amen.</p><i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Tôi tin rằng tôi không thể bằng lý trí hoặc sức riêng của mình mà tin vào Chúa Giê Su Ky Tô, Chúa của tôi, hoặc đến với Ngài; nhưng Đức Thánh Linh đã gọi tôi bởi phúc âm, soi sáng cho tôi bằng các ân tứ của Ngài, thánh hóa và giữ tôi trong đức tin thật; cũng như Ngài kêu gọi, quy tụ, soi sáng, và thánh hoá toàn thể Hội Thánh Cơ Đốc trên đất, và giữ nó với Chúa Giê Su Ky Tô trong một đức tin chân chính duy nhất: trong Hội Thánh Cơ Đốc, Ngài hằng ngày tha thứ mọi tội lỗi cho tôi và mọi tín đồ, và vào ngày sau rốt, Ngài sẽ làm cho tôi cùng tất cả những người đã chết sống dậy, và ban cho tôi cùng mọi tín đồ trong Đấng Christ sự sống đời đời. Đây chắc chắn là sự thật.</p>"
+            }
+        ]
+    },
+    "lordsprayer":{
+        "heading":{
+            "title": "TBÀI CẦU NGUYỆN CHÚA DẠY",
+            "subtitle":"Là Chủ Gia Đình Nên Dạy Điều Đó Thật Đơn Giản Cho Gia Đình Của Mình."
+        },
+        "sections":[
+            {
+                "id":"lords-prayer-intro",
+                "additionalHeading":"Lời Tựa.",
+                "mainHeading":"Lạy Cha chúng con ở trên trời,",
+                "content": "<i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Bằng những lời này, Đức Chúa Trời dịu dàng mời gọi chúng ta tin rằng Ngài đích thật là Cha của chúng ta, và chúng ta đích thật là con cái của Ngài, để chúng ta có thể với tất cả sự mạnh dạn và tin tưởng mà cầu xin Ngài, như những đứa con thân yêu cầu xin người Cha giàu tình thương của chúng.</p>"
+            },
+            {
+                "id":"lords-prayer-1",
+                "additionalHeading":"Lời Thỉnh Cầu Đầu Tiên.",
+                "mainHeading":"Danh Cha được tôn thánh;",
+                "content": "<i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Danh của Đức Chúa Trời tự bản thân thật sự đã là Thánh; nhưng chúng ta cầu nguyện trong lời thỉnh cầu này rằng nó cũng có thể là Thánh giữa chúng ta.</p><i>Làm thế nào điều này xảy ra được?</i><p><i>Câu trả lời: </i> Khi lời của Đức Chúa Trời được giảng dạy theo lẽ thật và trong sạch, thì chúng ta với tư cách là con cái của Đức Chúa Trời cũng sống một đời sống thánh khiết theo lời ấy. Khi thực hiện những điều này, may chăng Cha Thiên Thượng sẽ tương trợ cho chúng ta. Nhưng người nào dạy và sống khác với lời Chúa dạy, làm xúc phạm danh Chúa ở giữa chúng ta. Nghịch với điều ấy, may chăng Cha Thiên Thượng gìn giữ chúng ta.</p>"
+            },
+            {
+                "id":"lords-prayer-2",
+                "additionalHeading":"Lời Thỉnh Cầu Thứ Hai.",
+                "mainHeading":"Vương quốc Cha được đến.",
+                "content": "<i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Tuy rằng vương quốc của Đức Chúa Trời thực sự đến mà không cần lời cầu nguyện của chúng ta, nhưng chúng ta cầu nguyện trong lời thỉnh cầu này xin rằng vương quốc của Cha cũng có thể đến với chúng ta.</p><i>Làm thế nào điều này xảy ra được?</i><p><i>Câu trả lời: </i>Khi Cha Thiên Thượng ban cho chúng ta Đức Thánh Linh của Ngài, để nhờ ân điển của Ngài, chúng ta tin lời thánh của Ngài và sống một cuộc sống tin kính, ngay lúc này và cả mãi mãi về sau.</p>"
+            },
+            {
+                "id":"lords-prayer-3",
+                "additionalHeading":"Lời Thình Cầu Thứ Ba.",
+                "mainHeading":"Ý Cha được nên, ở đất như ở trời!",
+                "content": "<i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Ý muốn tốt lành và nhân từ của Đức Chúa Trời thực sự được thực hiện mà không cần đến lời cầu nguyện của chúng ta; nhưng chúng ta cầu nguyện trong lời thỉnh cầu này rằng nó cũng có thể được thực hiện bởi chúng ta.</p><i>Làm thế nào là điều này được thực hiện?</i><p><i>Câu trả lời: </i> Khi Đức Chúa Trời phá vỡ mọi tà niệm và ý muốn xấu xa ngăn cản sự tôn Thánh của danh Đức Chúa Trời cũng như không cho vương quốc của Ngài đến, - chẳng hạn như những gì thuộc về ma quỷ, thế gian và xác thịt chúng ta; Và khi Ngài thêm sức và giữ chặt chúng ta trong Lời và Đức Tin cho đến tận cùng. Đây là thiện ý và lòng nhân từ của Ngài.</p>"
+            },
+            {
+                "id":"lords-prayer-4",
+                "additionalHeading":"Lời Thình Cầu Thứ Tư.",
+                "mainHeading":"Xin cho chúng con hôm nay thức ăn đủ ngày;",
+                "content": "<i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Quả thật, Đức Chúa Trời ban lương thực hằng ngày cho chúng ta và cũng cho tất cả những kẻ gian ác mà không cần lời cầu nguyện của chúng ta; nhưng chúng ta cầu nguyện trong lời thỉnh cầu này rằng Ngài sẽ dẫn chúng ta biết sự thiện lành của Ngài, và để chúng ta có thể nhận lấy lương thực với lòng tạ ơn.</p><i>Vậy thì lương thực hàng ngày có nghĩa là gì?</i><p><i>Câu trả lời: </i>Là những thứ nuôi dưỡng và thiết thật cho cơ thể, chẳng hạn như đồ ăn, thức uống, quần áo, giày dép, nhà ở, nhà cửa, cánh đồng, gia súc, tiền bạc, hàng hóa, một người vợ ngoan đạo, những đứa con ngoan đạo, những người hầu ngoan đạo, những người cai trị ngoan đạo và trung thành, chính phủ liêm chính, mùa màng tốt tươi, hòa bình, sức khỏe, sự kỷ luật, tự trọng, những người bạn tốt, những hàng xóm trung thành, và những thứ tốt lành tương tự.</p>"
+            },
+            {
+                "id":"lords-prayer-5",
+                "additionalHeading":"Lời Thình Cầu Thứ Năm.",
+                "mainHeading":"Xin tha tội cho chúng con, Như chúng con đã tha những kẻ có lỗi với chúng con.",
+                "content": "<i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Trong lời thỉnh cầu này, chúng tôi cầu nguyện rằng Cha của chúng tôi ở trên trời sẽ không nhìn vào tội lỗi của chúng tôi, cũng như vì cớ tội lỗi mà từ chối lời cầu nguyện của chúng tôi; vì chúng ta không xứng đáng với những điều chúng ta cầu nguyện; nhưng ta cầu xin Ngài sẽ ban tất cả những điều ấy chúng cho chúng ta vì lòng thương xót; vì chúng ta hằng ngày phạm tội nhiều lần và quả thật chẳng đáng gì ngoài sự trừng phạt; chúng ta cũng sẽ thành tâm tha thứ và sẵn sàng làm điều tốt cho những ai phạm tội với chúng ta.</p>"
+            },
+            {
+                "id":"lords-prayer-6",
+                "additionalHeading":"Lời Thình Cầu Thứ Sáu.",
+                "mainHeading":"Xin đừng để chúng con bị cám dỗ,",
+                "content": "<i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Đức Chúa Trời quả thật không cám dỗ ai cả; nhưng chúng ta cầu nguyện này thỉnh cầu này rằng Đức Chúa Trời sẽ bảo vệ và gìn giữ chúng ta, để ma quỷ, thế gian và xác thịt chúng ta không lừa dối chúng ta, cũng như dụ dỗ chúng ta vào niềm tin sai lầm, tuyệt vọng, và những sự nhục nhã lớn lao khác; và mặc dù chúng ta bị cám dỗ, nhưng cuối cùng chúng ta vẫn có thể vượt qua và giành được chiến thắng.</p>"
+            },
+            {
+                "id":"lords-prayer-7",
+                "additionalHeading":"Lời Thình Cầu Thứ Bảy.",
+                "mainHeading":"Nhưng cứu chúng con khỏi điều ác!",
+                "content": "<i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Chúng ta cầu xin trong lời thỉnh cầu này, như tổng thể, rằng Cha chúng ta ở trên trời sẽ giải cứu chúng ta khỏi mọi điều dữ về thể xác và linh hồn, tài sản và danh dự, và cuối cùng, khi thời khắc đến, ban cho chúng ta một cái chết lành và đón nhận chúng ta vào nước Thiên Đàng cách đầy thương xót, bỏ lại phía sau thế giới đày khổ đau này và đến nơi vinh hiển.</p>"
+            },
+            {
+                "id":"lords-prayer-conclusion",
+                "mainHeading":"Amen.",
+                "content": "<i>Điều đó có nghĩa là gì?</i><p><i>Câu trả lời: </i>Tôi phải chắc chắn rằng những lời thỉnh cầu này được Cha chúng ta ở trên trời chấp nhận và đã được lắng nghe; vì chính Ngài đã truyền cho chúng ta phải cầu nguyện, và đã hứa sẽ lắng nghe chúng ta. Amen, Amen, nghĩa là, vâng, vâng, nó sẽ như vậy.</p>"
+            }
+        ]
+    },
+    "baptism":{
+        "heading":{
+            "title": "BÍ TÍCH RỬA TỘI:",
+            "subtitle":"Là Chủ Gia Đình Nên Dạy Điều Đó Thật Đơn Giản Cho Gia Đình Của Mình."
+        },
+        "sections":[
+            {
+                "id":"baptism-1",
+                "additionalHeading":"Điều đầu Tiên",
+                "mainHeading":"Bí tích Rửa tội là gì?",
+                "content": "<p><i>Câu trả lời: </i>Bí tích Rửa tội không chỉ là nước đơn thuần, nhưng nó là nước được bao gồm trong mệnh lệnh của Đức Chúa Trời và được kết nối với lời của Đức Chúa Trời.</p>"
+            },
+            {
+                "id":"baptism-2",
+                "mainHeading":"Đâu là Lời của Đức Chúa Trời?",
+                "content": "<p><i>Câu trả lời: </i>Chúa Giê-su Christ, Chúa chúng ta, đã nói trong chương cuối cùng của Phúc Âm theo Thánh Ma-thi-ơ: Hãy đi dạy dỗ muôn dân, làm báp têm cho họ nhân danh Cha, Con và Thánh Linh.</p>"
+            },
+            {
+                "id":"baptism-3",
+                "additionalHeading":"Điều Thứ Hai",
+                "mainHeading":"Phép Rửa mang lại lợi ích gì?",
+                "content": "<p><i>Câu trả lời: </i>Nó có tác dụng tha thứ tội lỗi, giải thoát khỏi cái chết và ma quỷ, và ban sự cứu rỗi đời đời cho tất cả những ai tin vào điều nó, theo như những Lời và Tuyên Bố của Đức Chúa Trời.</p>"
+            },
+            {
+                "id":"baptism-4",
+                "mainHeading":"Đó là những Lời và Tuyên Bố nào của Đức Chúa Trời?",
+                "content": "<p><i>Câu trả lời: </i>Chúa Giê-su Christ, Chúa chúng ta, đã nói trong chương cuối cùng của Phúc Âm theo Thánh Mác: Ai tin và chịu phép báp têm, thì sẽ được cứu; nhưng kẻ không tin, sẽ bị hình phạt.</p>"
+            },
+            {
+                "id":"baptism-5",
+                "additionalHeading":"Điều Thứ Ba",
+                "mainHeading":"Làm thế nào mà nước có thể làm được những điều tuyệt vời như vậy?",
+                "content": "<p><i>Câu trả lời: </i>Quả thật không phải nước làm được những điều đó, mà là Lời của Đức Chúa Trời ở trong và cùng với nước, và Đức Tin tin cậy lời của Đức Chúa Trời trong nước. Vì không có lời của Đức Chúa Trời, nước là nước đơn sơ, và không có phép báp-tem. Nhưng với Lời của Đức Chúa Trời, đó là một phép báp têm, tức là một nước ban ơn của sự sống và sự rửa sạch được tái sinh trong Đức Thánh Linh, như Thánh Phao-lô đã nói, Tít, chương thứ ba: Bởi sự rửa về sự lại sanh và sự đổi mới của Đức Thánh Linh mà Ngài đã rải ra trên chúng ta cách dư dật bởi Đức Chúa Jêsus Christ, Cứu Chúa chúng ta; hầu cho chúng ta nhờ ơn Ngài được xưng công bình, trở nên con kế tự của Ngài trong sự trông cậy của sự sống đời đời. Đây chắc chắn là sự thật.</p>"
+            },
+            {
+                "id":"baptism-6",
+                "additionalHeading":"Điều Thứ Tư",
+                "mainHeading":"Phép báp têm bằng nước như vậy có ý nghĩa gì?",
+                "content": "<p><i>Câu trả lời: </i>Nó biểu thị rằng con người cũ trong chúng ta cùng với tất cả tội lỗi và dục vọng tội ác bị dìm chết đi hằng ngày trong sự ăn năn và thống hối, và vì thế, mỗi ngày một con người mới trỗi dậy và phát sinh, sống trước mặt Đức Chúa Trời trong sự công bình và trong sạch mãi mãi.</p>"
+            },
+            {
+                "id":"baptism-7",
+                "mainHeading":"Điều này được viết ở đâu?",
+                "content": "<p><i>Câu trả lời: </i>Thánh Phao-lô nói trong Thánh Thư Rô-ma, chương thứ sáu: Chúng ta được chôn với Chúa Giê-su Christ bằng phép báp têm trong sự chết; giống như Ngài đã được sống lại từ kẻ chết bởi sự vinh hiển của Đức Chúa Cha, thì chúng ta cũng nên bước đi trong sự sống mới.</p>"
+            }
+        ]
+    },
+    "confession":{
+        "heading":{
+            "title": "VỀ SỰ XƯNG TỘI:",
+            "subtitle":""
+        },
+        "sections":[
+            {
+                "id":"confession-1",
+                "mainHeading":"Thế nào là sự công xưng tội lỗi?",
+                "content": "<p><i>Câu trả lời: </i>Sự xưng tội gồm hai phần: điều đầu tiên là sự nhận biết về tội lỗi; còn lại là sự tiếp nhận sự tha tội từ người tiếp nhận giải tội hoặc thừa tác viên của Phúc Âm, cũng như từ chính Đức Chúa Trời; để người ta không nên nghi ngờ, nhưng tin chắc rằng tội lỗi được tha thứ trước mặt Đức Chúa Trời ở trên trời.</p>"
+            },
+            {
+                "id":"confession-2",
+                "mainHeading":"Những tội lỗi nào nên được xưng ra?",
+                "content": "<p><i>Câu trả lời: </i>Trước mặt Chúa, chúng ta nên thừa nhận mình có tội về mọi tội lỗi, ngay cả những tội lỗi mà chúng ta không biết, như chúng ta làm trong Bài Cầu Nguyện Chúa Dạy. Nhưng trước mặt thừa tác viên, chúng ta chỉ nên thú nhận những tội lỗi mà chúng ta biết và cảm thấy trong lòng.</p>"
+            },
+            {
+                "id":"confession-3",
+                "mainHeading":"Nó là những điều gì?",
+                "content": "<p><i>Câu trả lời: </i>Mỗi người hãy kiểm tra tình trạng của mình theo Mười Điều Răn, bất cứ mối quan hệ nào mà người đó có, dù là cha, mẹ, con trai, con gái, chủ hay tình nhân, một người đầy tớ hay một người hầu gái; cho dù anh ta đã không vâng lời, không trung thành, buông thả; cho dù anh ta đã gây thương tích cho bất kỳ người nào bằng lời nói hoặc việc làm; cho dù anh ta đã ăn cắp vặt, cẩu thả, hoặc đã gây hại.</p>"
+            },
+            {
+                "id":"confession-form",
+                "mainHeading":"Một mẫu xưng tội đơn giản.",
+                "content": "<i>Ở đây bạn phải nói với thừa tác viên:</i> <p>Thật chính đáng và kính mến thưa Cha, tôi mong muốn Cha nghe lời thú tội của tôi, và loan báo sự tha thứ cho tôi vì Chúa.</p> <p>Tôi, một tội nhân khốn khổ, tự xưng mình trước mặt Đức Chúa Trời về mọi tội lỗi; đặc biệt tôi thú nhận trước mặt ngài rằng tôi với tư cách là một người hầu, một người hầu gái,v,v,..., phục vụ ông/bà chủ của mình một cách không trung thành; Tôi đã không thực hiện những gì họ đã truyền cho tôi; Tôi đã xúi giục họ, khiến họ kêu danh Chúa một cách vô ích; Tôi đã lơ là trước nỗi đau của người khác. Tôi cũng đã không khiêm tốn trong lời nói và hành động; Tôi đã tức giận với các đồng sự của mình, lẩm bẩm và thốt ra những lời lẽ không chính đáng chống lại người bạn đời của tôi,v,v... Vì tất cả những điều này, tôi xin lỗi, tôi cầu xin ân sủng, và có ý định cải tạo cuộc sống của tôi.</p> <i>Đối với những người làm ông/bà chủ thì sẽ nói:</i> <p>Đặc biệt tôi thú nhận trước mặt ngài, rằng tôi cô phụ sự vinh hiển của Đức Chúa Trời, trung thành nuôi dạy con cái và gia đình của tôi. Tôi đã phạm thượng, làm gương xấu bằng những lời nói và hành động khiếm nhã, gây thương tích cho người hàng xóm và nói điều xấu với anh ta; Tôi đã lừa gạt, gian dối, cân thiếu và làm nhiều sự không thành thật trong kinh doanh,....</p> <p>Và bất cứ điều gì khác mà anh ta có thể đã làm mà chống lại mệnh lệnh của Chúa,v,v,... cũng có thể được xưng ra. Nhưng nếu ai không thấy mình bị áp lực bởi những điều này, hoặc những tội lỗi lớn hơn, thì người đó không nên truy cùng, hoặc cố gắng ngụy tạo những tội lỗi tưởng tượng, và biến việc xưng tội thành một sự tra trấn, nhưng hãy đề cập đến một hoặc hai tội mà người ấy biết rõ. Như là: —Đặc biệt, tôi thú nhận rằng tôi đã từng làm ô danh Đức Chúa Trời; một lần nữa, tôi đã từng thiếu lịch sự trong cách diễn đạt, đã từng bỏ bê điều này điều kia,v,v,... Hãy để những điều ấy là đủ.</p> <p>Nhưng nếu anh ấy không rõ về bất cứ tội lỗi nào của mình (điều này hầu như không thể xảy ra), hãy để anh ta không đề cập cụ thể đến điều ấy, nhưng nhận được sự tha tội sau khi đã tuyên xưng chung với Đức Chúa Trời trước sự chứng kiến của thừa tác viên.</p> <i>Thừa tác viên sẽ nói: </i> <p>Xin Chúa thương xót cho anh và củng cố đức tin của anh. Amen.</p> <p><i>Người nghe Xưng Tội phải nói thêm:—</i>Anh có tin sự tha thứ mà tôi công bố, là sự tha thứ của Đức Chúa Trời không? Trả lời: Vâng, thưa có ạ.</p> <i>Sau đó thừa tác viên sẽ nói: </i> <p>Điều ấy sẽ được nên, như con tin. Và tôi, theo mệnh lệnh của Đức Chúa Jêsus Christ, Chúa chúng ta, loan báo sự tha thứ tội lỗi của anh, nhân danh Cha, và Con, và Đức Thánh Linh. Amen. Anh hãy đi bình an.</p> <p>Nhưng những ai có lương tâm đau khổ, hoặc đang đau buồn và bị quấy rầy, thì mục sư đừng ngại mà an ủi những cá nhân ấy bằng nhiều đoạn Kinh Thánh hơn, và thôi thúc đức tin. Đây sẽ chỉ là một hình thức thú tội phổ biến dành cho những người bình dân.</p>"
+            }
+        ]
+    },
+    "lordsSupper":{
+        "heading":{
+            "title": "VỀ TIỆC THÁNH:",
+            "subtitle":"Người Cha phải trình bày cách giản dị trong gia đình của mình."
+        },
+        "sections":[
+            {
+                "id":"eucharist-1",
+                "mainHeading":"Bí tích Thánh Thể là gì?",
+                "content": "<p><i>Câu trả lời: </i>Đó là Mình và Máu thật của Đức Chúa Jêsus Christ chúng ta, trong bánh và rượu, do chính Đấng Christ thiết lập, để Cơ-đốc nhân chúng ta ăn và uống.</p>"
+            },
+            {
+                "id":"eucharist-2",
+                "mainHeading":"Điều ấy được viết ở đâu?",
+                "content": "<p><i>Câu trả lời: </i>Trong Phúc Âm theo Thánh Matthew, Mark, Luke và trong các Thánh Thư của Thánh Paul đã viết rằng:</p><p>“Chúa Jesus Christ Chúa chúng ta trong đêm chịu phản nộp, Ngài lấy bánh, tạ ơn Đức Chúa Trời, bẻ ra, phân phát cho mọi người và nói rằng: Nầy là thân thể ta, đã vì các ngươi mà phó cho, hãy làm sự nầy mà nhớ đến ta.</p><p>Cùng một thể ấy, sau bữa ăn tối, Ngài cầm lấy chén, tạ ơn và đưa cho họ và nói rằng: Hãy nhận lấy, và uống, tất cả các người; Chén này là Giao Ước Mới trong máu ta, đổ ra cho các ngươi và cho nhiều người, để được tha tội. Hễ khi nào các người uống, hãy làm điều này trong niềm tưởng nhớ đến ta.”</p>"
+            },
+            {
+                "id":"eucharist-3",
+                "mainHeading":"Lợi Ích Của Việc Ăn Và Uống Là Gì?",
+                "content": "<p><i>Câu trả lời: </i>Điều này được chỉ ra bởi những từ này <i>“được ban cho, và đổ ra cho các người để được tha tội;”</i> cụ thể là qua những lời này trong Tiệc Thánh, sự tha tội, sự sống và sự cứu rỗi được truyền đạt; vì ở đâu tội lỗi được tha, ở đó có sự sống và sự cứu rỗi.</p>"
+            },
+            {
+                "id":"eucharist-4",
+                "mainHeading":"Làm Thế Nào Mà Việc Ăn Và Uống Của Thân Thể Mang Lại Những Điều Này?",
+                "content": "<p><i>Câu trả lời: </i>Thật vậy, không phải việc ăn và uống có tác dụng như vậy, nhưng những lời này tuyên bố: “được ban cho và đổ ra cho các người để được tha tội.” Những Lời này, đi kèm với hành động ăn uống của than thể, được coi là điều then chốt của Bí Tích; để bất cứ ai tin những Lời này, thì được tận hưởng những gì chúng chỉ ra và tuyên bố, cụ thể là, sự tha tội.</p>"
+            },
+            {
+                "id":"eucharist-5",
+                "mainHeading":"Ai Xứng Đáng Để Nhận Bí Tích?",
+                "content": "<p><i>Câu trả lời: </i>Kiêng ăn và hãm mình, quả thực là những hành vi kỳ luật rất tốt; tuy nhiên, người ấy chỉ thực sự xứng đáng, và được chuẩn bị kỹ càng khi có đức tin vào những lời này: “đã ban cho và đổ ra cho các nguơi… để được tha tội.” Những ai không tin những lời này, hoặc nghi ngờ, là những người không xứng đáng và không chuẩn bị; vì cụm từ “cho các ngươi” chỉ yêu cầu những trái tim như vậy là tin tưởng.</p>"
+            }
+        ]
+    },
+    "prayers":{
+        "heading":{
+            "title": "CẦU NGUYỆN:",
+            "subtitle":"CÁCH THỨC ĐỂ NGƯỜI CHA DẠY GIA ĐÌNH CỦA ĐẾN VỚI ĐỨC CHÚA TRỜI TRONG BUỔI SÁNG VÀ BUỔI TỐI."
+        },
+        "sections":[
+            {
+                "id":"prayer-morning",
+                "mainHeading":"CẦU NGUYỆN BUỔI SÁNG.",
+                "content": "<p>Vào buổi sáng, khi thức dậy, hãy làm dấu Thánh Giá và cầu nguyện rằng:</p> <p>Nhân danh Cha, Con và Thánh Thần. Amen.</p> <p>Sau đó, quỳ hoặc đứng, đọc Tín điều các Sứ Đồ và Bài Cầu Nguyện Chúa Dạy; và nếu bạn muốn, bạn cũng có thể đọc lời cầu nguyện sau:</p> <p>Con cảm ơn Chúa, Cha trên trời của con, nhờ Chúa Giê Su Ky Tô, Con trai yêu dấu của Cha, vì Chúa đã bảo vệ con suốt đêm qua chống lại mọi nguy nan và hành hại. Con xin Cha, trong ngày hôm nay cũng hãy bảo vệ con khỏi tội lỗi và mọi điều ác; hãy làm đường lối và cuộc sống của con thỏa theo ý Ngài. Con xin phó thác thân xác và linh hồn, và tất cả những gì con có trong tay Cha. Hãy cử các Thánh Thiên Thần của Cha ở bên con, để Sa-tan không thể làm hại được con! Amen.</p> <p>Và sau đó, ta có thể hát một bài thánh ca, hoặc lặp lại Mười Điều Răn, hoặc bất cứ điều gì khác mà sự tận tâm của bạn có thể khơi ngợi ra, sau cùng hãy đi làm việc của mình cách vui vẻ.</p>"
+            },
+            {
+                "id":"prayer-evening",
+                "mainHeading":"CẦU NGUYỆN BUỔI TỐI.",
+                "content":"<p>Vào buổi tối, trước khi ngủ, bạn nên làm dấu Thánh Giá và cầu nguyện rằng:</p> <p>Nhân danh Cha, Con và Thánh Thần. Amen.</p> <p>Sau đó, quỳ hoặc đứng, lặp lại Tín Điều Các Sứ Đồ và Bài Cầu Nguyện Chúa Dạy; và nếu bạn muốn, bạn cũng có thể đọc lời cầu nguyện này:</p> <p>Con cảm ơn Chúa, Cha trên trời của con, nhờ Chúa Giê Su Ky Tô, Con yêu dấu của Ngài, đã ân cần bảo vệ con suốt ngày hôm nay. Con xin Cha tha thứ cho tất cả tội lỗi mà con đã phạm phải chống lại Cha. Xin ân cần bảo vệ con qua đêm này. Con giao phó thể xác và linh hồn của con, và tất cả những gì con có trong tay của Cha. Xin cử các Thánh Thiên Thần của Cha ở với con, để Sa-tan không ảnh hưởng gì được đến con! Amen.</p> <p>Và sau đó nhanh nhẹn mà đi ngủ cách bình yên.</p>"
+            },
+            {
+                "id":"prayer-table",
+                "mainHeading":"CÁCH NGƯỜI CHA NÊN DẠY GIA ĐÌNH CỦA MÌNH CẦU NGUYỆN TRƯỚC VÀ SAU BỮA ĂN.",
+                "content":"<p>Trẻ em và mọi thành viên trong gia đình nên khiêm nhu tiến tới bàn, khoanh tay lại mà nói:</p> <p>Muôn loài hướng về Ngài, Lạy Chúa; và Ngài ban cho chúng lương thực đúng lúc. Chúa giang tay ban đầy dẫy nhu cầu cho mọi sinh vật được sống đầy đủ.</p> <p>Sau đó, hãy đọc Bài Cầu Nguyện Chúa Dạy và bài cầu nguyện sau đây:</p> <p>Lạy Chúa! Cha của chúng con ở trên trời, những của ăn này đây chúng con được ban cho bởi sự tốt lành của Cha, qua Đức Chúa Jesus Christ là Chúa chúng con. Amen.</p> <p>Sau bữa ăn, mọi người cũng nên khiêm nhu, chắp tay lại, và nói:</p> <p>Hãy cảm tạ Chúa vì Ngài ấy thật nhân từ, và lòng nhân của Ngài còn đời đời. Ngài ban lương thực cho mọi loài dã thú và chim chóc cầu khẩn nơi Ngài. Ngài không vui thỏa vì sức mạnh của loài ngựa: cũng không vui lòng vì đôi chân của loài người. Chúa vui lòng ở những người kính sợ Ngài, ở những ai hy vọng vào lòng thương xót của Ngài. Amen.</p> <p>Sau đó, học đọc Bài Cầu Nguyện Chúa Dạy và mẫu cầu nguyện sau đây:</p> <p>Lạy Chúa là Cha chúng con ở trên trời! Chúng con tạ ơn Cha, qua Chúa Jesus Christ là Chúa chúng con vì mọi ơn phước và ân điển. Ngài là Đấng hằng sống và thịnh trị muôn đời. Amen.</p>"
+            }
+        ]
+    },
+    "duties":{
+        "heading":{
+            "title": "BẢNG PHÂN NHIỆM:",
+            "subtitle":"ĐƯỢC TRÍCH DẪN TỪ THÁNH KINH, CHO CÁC THÁNH PHẦN VÀ CHỨC NĂNG CỦA ĐỜI SỐNG, BỞI ĐẤY HỌ CÓ THỂ ĐƯỢC NHẮC NHỞ VỀ NGHĨA VỤ CỦA HỌ."
+        },
+        "sections":[
+            {
+                "id":"duties-clergy",
+                "mainHeading":"VỀ GIỚI GIÁO SĨ.",
+                "content":"Vậy, người giám mục cần phải không chỗ trách được, là chồng chỉ một vợ mà thôi, có tiết độ, có tài trí, xứng đáng, hay tiếp khách và khéo dạy dỗ. Đừng mê rượu, cũng đừng hung bạo, nhưng phải mềm mại hòa nhã; lại đừng ham tiền bạc; phải khéo cai trị nhà riêng mình, giữ con cái mình cho vâng phục và ngay thật trọn vẹn; hằng giữ đạo thật y như đã nghe dạy, hầu cho có thể theo đạo lành mà khuyên dỗ người ta và bác lại kẻ chống trả. (I Timothy 3 : 2 – 4) (Titus 1 : 9)"
+            },
+            {
+                "id":"duties-government",
+                "mainHeading":"VỀ CHÍNH PHỦ DÂN SỰ.",
+                "content":"Mọi người phải vâng phục các đấng cầm quyền trên mình; vì chẳng có quyền nào mà không đến bởi Đức Chúa Trời, các quyền đều bởi Đức Chúa Trời chỉ định. Cho nên ai chống cự quyền phép, tức là đối địch với mạng lịnh Đức Chúa Trời đã lập; và những kẻ đối địch thì chuốc lấy sự phán xét vào mình. Vả, các quan quyền không phải để cho người làm lành sợ, mà để cho người làm dữ sợ. Ngươi muốn không sợ quyền phép chăng? Hãy làm điều lành, sẽ được khen thưởng; vì quan quyền là chức việc của Đức Chúa Trời để làm ích cho ngươi. Song nếu ngươi làm ác, thì hãy sợ, vì người cầm gươm chẳng phải là vô cớ; người là chức việc của Đức Chúa Trời để làm ra sự công bình và phạt kẻ làm dữ. Vậy nên cần phải vâng phục, chẳng những vì sợ hình phạt thôi, nhưng cũng vì cớ lương tâm. (Romans 13: 1 – 5)."
+            },
+            {
+                "id":"duties-citizen",
+                "mainHeading":"VỀ TÀI SẢN VÀ NHỮNG BÌNH DÂN.",
+                "content":"Hãy trả cho Sê-sa vật gì của Sê-sa; và trả cho Đức Chúa Trời vật gì của Đức Chúa Trời. (Mathew 22 : 21). Vậy nên cần phải vâng phục, chẳng những vì sợ hình phạt thôi, nhưng cũng vì cớ lương tâm. Ấy cũng bởi lẽ đó mà anh em nộp thuế, vì các quan quyền là đầy tớ của Đức Chúa Trời, hằng giữ việc ấy. Phải trả cho mọi người điều mình đã mắc: nộp thuế cho kẻ mình phải nộp thuế; đóng góp cho kẻ mình phải đóng góp; sợ kẻ mình đáng sợ; kính kẻ mình đáng kính. (Romans 13: 5 – 7). Vậy, trước hết mọi sự ta dặn rằng, phải khẩn nguyện, cầu xin, kêu van, tạ ơn cho mọi người, cho các vua, cho hết thảy các bậc cầm quyền, để chúng ta được lấy điều nhân đức và thành thật mà ở đời cho bình tịnh yên ổn. Ấy là một sự lành và đẹp mắt Đức Chúa Trời, là Cứu Chúa chúng ta, (I Timothy. 2: 1 – 3). Hãy nhắc lại cho các tín đồ phải vâng phục những bậc cầm quyền chấp chánh, phải vâng lời các bậc ấy, sẵn sàng làm mọi việc lành, (Titus 3: 1). Vì cớ Chúa, hãy phục theo mọi phép tắc loài người lập lên, hoặc vua, như đấng rất cao, 14 hoặc các quan, như người vua sai ra để phạt kẻ làm dữ và khen người làm lành. (I Peter 2 : 13 – 14)."
+            },
+            {
+                "id":"duties-husband",
+                "mainHeading":"VỀ NGƯỜI LÀM CHỒNG.",
+                "content":"Hỡi người làm chồng, hãy tỏ điều khôn ngoan ra trong sự ăn ở với vợ mình, như là với giống yếu đuối hơn; vì họ sẽ cùng anh em hưởng phước sự sống, nên phải kính nể họ, hầu cho không điều gì làm rối loạn sự cầu nguyện của anh em. (I Peter 3 : 7). Hơn nữa, chớ hề ở cay nghiệt với người. (Colossians 3 : 19)."
+            },
+            {
+                "id":"duties-wife",
+                "mainHeading":"VỀ NGƯỜI VỢ.",
+                "content":"Hỡi kẻ làm vợ, phải vâng phục chồng mình như vâng phục Chúa, (Ephesians 5 : 22) như Sa-ra vâng phục Áp-ra-ham, gọi người là chúa mình; nếu các chị em làm điều lành, không sợ chi hết mà rối trí, thì trở nên con gái của Sa-ra vậy. (I Peter 3 : 6)."
+            },
+            {
+                "id":"duties-parent",
+                "mainHeading":"VỀ BẬC PHỤ HUYNH.",
+                "content":"Hỡi các người làm cha, chớ chọc cho con cái mình giận dữ, hãy dùng sự sửa phạt khuyên bảo của Chúa mà nuôi nấng chúng nó. (Ephesians 6 : 4) (Colossians 3 : 21)."
+            },
+            {
+                "id":"duties-child",
+                "mainHeading":"VỀ CON CÁI.",
+                "content":"Hỡi kẻ làm con cái, hãy vâng phục cha mẹ mình trong Chúa, vì điều đó là phải lắm. Hãy tôn kính cha mẹ ngươi (ấy là điều răn thứ nhứt, có một lời hứa nối theo), hầu cho ngươi được phước và sống lâu trên đất. (Ephesians 6 : 1 – 3)."
+            },
+            {
+                "id":"duties-servant",
+                "mainHeading":"VỀ ĐẦY TỚ VÀ NGƯỜI LÀM CÔNG.",
+                "content":"Hỡi kẻ làm tôi tớ, hãy run sợ, lấy lòng thật thà mà vâng phục kẻ làm chủ mình theo phần xác, như vâng phục Đấng Christ, không phải vâng phục trước mặt người mà thôi, như các ngươi kiếm cách làm đẹp lòng người ta, nhưng phải như tôi tớ của Đấng Christ, lấy lòng tốt làm theo ý muốn Đức Chúa Trời. Hãy đem lòng yêu mến hầu việc chủ, cũng như hầu việc Chúa, chẳng phải như hầu việc người ta, vì biết rằng bất luận tôi mọi hay tự chủ, mỗi người đều sẽ nhận lãnh của Chúa tùy việc lành mình đã làm. (Ephesians 6 : 5 – 8)."
+            },
+            {
+                "id":"duties-master",
+                "mainHeading":"VỀ NGƯỜI LÀM CHỦ.",
+                "content":"Hỡi anh em là người làm chủ, hãy đối đãi kẻ tôi tớ mình đồng một thể ấy, đừng có ngăm dọa chúng nó, vì biết rằng mình với chúng nó đều có một chủ chung ở trên trời, và trước mặt Ngài chẳng có sự tây vị ai hết. (Ephesians 6 : 9)."
+            },
+            {
+                "id":"duties-youth",
+                "mainHeading":"VỀ THANH THIẾU NIÊN.",
+                "content":"Cũng khuyên bọn trẻ tuổi, hãy phục theo các trưởng lão. Hết thảy đối đãi với nhau phải trang sức bằng khiêm nhường; vì Đức Chúa Trời chống cự kẻ kiêu ngạo, mà ban ơn cho kẻ khiêm nhường. Vậy, hãy hạ mình xuống dưới tay quyền phép của Đức Chúa Trời, hầu cho đến kỳ thuận hiệp Ngài nhắc anh em lên; (I Peter 5 : 5 – 6)."
+            },
+            {
+                "id":"duties-widow",
+                "mainHeading":"VỀ NHỮNG GÓA PHỤ.",
+                "content":"Người thật góa ở một mình, đã để lòng trông cậy nơi Đức Chúa Trời, ngày đêm bền lòng cầu nguyện nài xin. Nhưng về phần kẻ ưa sự vui chơi, thì dẫu sống cũng như chết. (I Timothy 5 : 5 – 6)."
+            },
+            {
+                "id":"duties-general",
+                "mainHeading":"VỀ NHỮNG TRÁCH NHIỆM KHÁC.",
+                "content":"<p>Vả, những điều răn nầy: Ngươi chớ phạm tội tà dâm, chớ giết người, chớ trộm cướp, chớ tham lam, và mọi điều răn khác nữa, bất luận điều nào, đều tóm lại trong một lời nầy: Ngươi phải yêu kẻ lân cận mình như mình. (Romans 13 : 9) Hãy khẩn nguyện, cầu xin, kêu van, tạ ơn cho mọi người, (I Timothy 2 : 1).</p><p>Mỗi người hãy chuyên tâm học tốt bài học của mình, Hòa Bình và Trật Tự sẽ ngụ trị.</p>"
+            }
+        ]
+    }
+}

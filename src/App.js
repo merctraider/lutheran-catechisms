@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import CatechismChiefPart from './Components/CatechismChiefPart';
 import Henkel from './Translations/henkel.json';
 import Jacobs from './Translations/jacobs.json';
+import Vietnamese from './Translations/vietnamese.json';
 
 import { useEffect, useState } from 'react';
 
@@ -34,6 +35,9 @@ function App() {
       case 'jacobs':
         setTranslation(Jacobs);
         break;
+      case 'vietnamese':
+        setTranslation(Vietnamese);
+        break;
       default:
         setTranslation(Henkel);
         break;
@@ -53,16 +57,26 @@ function App() {
             window.location.replace(path);
 
           }}>
-            <option value="">Home</option>
+            <optgroup label='Luther’s Small Catechesim'>
             <option value="preface">Preface</option>
-            <option value="ten-commandments">The Ten Commandments</option>
-            <option value="creed">The Creed</option>
-            <option value="lords-prayer">The Lord's Prayer</option>
-            <option value="baptism">Sacrament of Holy Baptism</option>
-            <option value="confession">Confession</option>
-            <option value="lords-supper">Sacrament of the Altar</option>
-            <option value="prayers">Prayers</option>
-            <option value="table-of-duties">Table of Duties</option>
+              <option value="ten-commandments">The Ten Commandments</option>
+              <option value="creed">The Creed</option>
+              <option value="lords-prayer">The Lord's Prayer</option>
+              <option value="baptism">Sacrament of Holy Baptism</option>
+              <option value="confession">Confession</option>
+              <option value="lords-supper">Sacrament of the Altar</option>
+              <option value="prayers">Prayers</option>
+              <option value="table-of-duties">Table of Duties</option>
+            </optgroup>
+
+            <optgroup label="Site Navigation">
+            <option value="">Home</option>
+            </optgroup>
+            
+
+            
+
+            
           </Form.Select>
 
           <Form.Select value={translationID} className='form-select-md' name="translation" onChange={(e) => {
@@ -72,8 +86,14 @@ function App() {
 
 
           }}>
-            <option value="henkel">Henkel BoC (1852)</option>
-            <option value="jacobs">Henry E. Jacobs (1882)</option>
+            <optgroup label='English'>
+              <option value="henkel">Henkel BoC (1852)</option>
+              <option value="jacobs">Henry E. Jacobs (1882)</option>
+            </optgroup>
+            <optgroup label='Other Languages'>
+              <option value="vietnamese">2022 Giáo Lý Căn Bản (Vietnamese) </option>
+            </optgroup>
+            
 
           </Form.Select>
         </Container>
