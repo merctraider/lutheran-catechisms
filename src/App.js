@@ -15,6 +15,7 @@ import { Navbar, Container, Form, Collapse, NavbarBrand } from 'react-bootstrap'
 import './App.css';
 import Home from './Home';
 import { Helmet } from 'react-helmet';
+import About from './About';
 
 
 function App() {
@@ -50,7 +51,7 @@ function App() {
     <div className="App">
       <Helmet>
         <title>Luther’s Small Catechism by Dr. Martin Luther</title>
-        <meta name="description" content="Read the Small Catechism of Dr. Martin Luther online" />
+        <meta name="description" content="Read the Small Catechism of Dr. Martin Luther Online. The Small Catechism, also known as the Enchiridion or Handbook, gives a brief summary of the Christian faith. " />
         <meta name="keywords" content="christian instruction book, the small catechism, luther's small catechism, luthers small catechism, small catechism online, free small catechism, enchiridion"></meta>
       </Helmet>
       <Navbar bg="light" className='sticky-top'>
@@ -77,6 +78,7 @@ function App() {
 
             <optgroup label="Site Navigation">
             <option value="">Home</option>
+            <option value="about">About</option>
             </optgroup>
             
 
@@ -93,7 +95,7 @@ function App() {
 
           }}>
             <optgroup label='English'>
-              <option value="henkel">Henkel BoC (1852)</option>
+              <option value="henkel">Henkel BoC (1854)</option>
               <option value="jacobs">Henry E. Jacobs (1882)</option>
             </optgroup>
             <optgroup label='Other Languages'>
@@ -114,6 +116,7 @@ function App() {
         <BrowserRouter>
           <Routes>
             <Route path={'/'} element={<Home />} />
+            <Route path='/about' element={<About/>}/>
             <Route path={'/preface'} element={<CatechismChiefPart id="preface" translation={translation.preface} />} />
             <Route path='/ten-commandments' element={<CatechismChiefPart id="ten-commandments" translation={translation.tencommandments} />} />
             <Route path='/creed' element={<CatechismChiefPart id="creed" translation={translation.creed} />}>  </Route>
@@ -132,7 +135,7 @@ function App() {
       <Container>
         <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
         <span className='text-muted'><a href="/">Luther's Small Catechism</a></span>
-        <span class="text-muted">© <a href="https://merctraider.me" target="_blank">merctraider</a> 2022 Some Rights Reserved.</span>
+        <span class="text-muted">© <a href="https://merctraider.me" target="_blank">merctraider</a> 2022 <a href='/about'>Some Rights Reserved.</a></span>
         
 
         </footer>
