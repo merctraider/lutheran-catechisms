@@ -4,6 +4,7 @@ import CatechismChiefPart from './Components/CatechismChiefPart';
 import Henkel from './Translations/henkel.json';
 import Jacobs from './Translations/jacobs.json';
 import Vietnamese from './Translations/vietnamese.json';
+import Stump from './Translations/stump.json';
 
 import { useEffect, useState } from 'react';
 
@@ -37,6 +38,10 @@ function App() {
       case 'jacobs':
         setTranslation(Jacobs);
         break;
+      case 'stump':
+        setTranslation(Stump); 
+        break;
+
       case 'vietnamese':
         setTranslation(Vietnamese);
         break;
@@ -97,6 +102,7 @@ function App() {
             <optgroup label='English'>
               <option value="henkel">Henkel BoC (1854)</option>
               <option value="jacobs">Henry E. Jacobs (1882)</option>
+              <option value="stump">Joseph Stump (1910)</option>
             </optgroup>
             <optgroup label='Other Languages'>
               <option value="vietnamese">2022 Giáo Lý Căn Bản (Vietnamese) </option>
