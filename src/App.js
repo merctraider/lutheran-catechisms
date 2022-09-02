@@ -1,10 +1,10 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import CatechismChiefPart from './Components/CatechismChiefPart';
-import Henkel from './Translations/henkel.json';
-import Jacobs from './Translations/jacobs.json';
-import Vietnamese from './Translations/vietnamese.json';
-import Stump from './Translations/stump.json';
+
+
+
+
 
 import { useEffect, useState } from 'react';
 
@@ -17,6 +17,16 @@ import './App.css';
 import Home from './Home';
 import { Helmet } from 'react-helmet';
 import About from './About';
+import { Interweave } from 'interweave';
+
+
+//Translations
+import Henkel from './Translations/henkel.json';
+import Jacobs from './Translations/jacobs.json';
+import Stump from './Translations/stump.json';
+import JCDietrich from './Translations/dietrich.json';
+
+import Vietnamese from './Translations/vietnamese.json';
 
 
 function App() {
@@ -41,6 +51,9 @@ function App() {
       case 'stump':
         setTranslation(Stump); 
         break;
+      case 'jcdietrich':
+        setTranslation(JCDietrich);
+        break; 
 
       case 'vietnamese':
         setTranslation(Vietnamese);
@@ -71,6 +84,7 @@ function App() {
           }}>
             <optgroup label='Luther’s Small Catechesim'>
             <option value="preface">Preface</option>
+            <Interweave ></Interweave>
               <option value="ten-commandments">The Ten Commandments</option>
               <option value="creed">The Creed</option>
               <option value="lords-prayer">The Lord's Prayer</option>
@@ -103,6 +117,7 @@ function App() {
               <option value="henkel">Henkel BoC (1854)</option>
               <option value="jacobs">Henry E. Jacobs (1882)</option>
               <option value="stump">Joseph Stump (1910)</option>
+              <option value="jcdietrich">J.C. Dietrich (1902)</option>
             </optgroup>
             <optgroup label='Other Languages'>
               <option value="vietnamese">2022 Giáo Lý Căn Bản (Vietnamese) </option>
