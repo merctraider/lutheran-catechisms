@@ -139,12 +139,12 @@ function App() {
             <Route path={'/'} element={<Home />} />
             <Route path='/about' element={<About/>}/>
             <Route path={'/preface'} element={<CatechismChiefPart id="preface" translation={translation.preface} />} />
-            <Route path='/ten-commandments' element={<CatechismChiefPart id="ten-commandments" translation={translation.tencommandments} />} />
+            <Route path='/ten-commandments' element={<CatechismChiefPart id="tencommandments" translation={translation.tencommandments} />} />
             <Route path='/creed' element={<CatechismChiefPart id="creed" translation={translation.creed} />}>  </Route>
             <Route path="/lords-prayer" element={<CatechismChiefPart id="lords-prayer" translation={translation.lordsprayer} />}>  </Route>
             <Route path="/baptism" element={<CatechismChiefPart id="baptism" translation={translation.baptism} />}></Route>
             <Route path="/confession" element={<CatechismChiefPart id="confession" translation={translation.confession} />}></Route>
-            <Route path="/lords-supper" element={<CatechismChiefPart id="lords-supper" translation={translation.lordsSupper} />}></Route>
+            <Route path="/lords-supper" element={<CatechismChiefPart id="lordsSupper" translation={translation.lordsSupper} />}></Route>
             <Route path="/prayers" element={<CatechismChiefPart id="prayers" translation={translation.prayers} />}></Route>
             <Route path="/table-of-duties" element={<CatechismChiefPart id="table-of-duties" translation={translation.duties} />}></Route>
           </Routes>

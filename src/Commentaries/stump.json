@@ -1,10 +1,36 @@
 {
-    "display":"An Explanation of Luther's Small Catechism, by Joseph Stump",
-    "introduction":{
-
-    }, 
-    "tencommandments":{
-        "heading": "A"
+    "display": "An Explanation of Luther's Small Catechism, by Joseph Stump",
+    "heading": {
+        "tencommandments":[
+            {
+                "type":"html",
+                "heading":"CHAPTER III. THE LAW.",
+                "content":"<p>The Ten Commandments are called the <i>Moral Law</i>, or more briefly the Law, and sometimes the Decalogue or the Ten Words. They make known to us God's will, which is the law for all His creatures. Each commandment has a <i>negative</i> side, and <i>forbids</i> something; each has also a <i>positive</i> side, and <i>commands</i> or enjoins something.</p><p>The Giving Of The Law. The Law of God was originally written in man's heart at creation. [Rom. 2:15] We call that law in the heart, Conscience. After the fall into sin, the conscience became darkened, and men did not always know right from wrong, and fell into gross idolatry. [Rom. 1:21-23] God, therefore, through Moses at Mount Sinai, gave men His law anew, [Exod. 20:1] written on two Tables of stone. [Exod. 31:18] He also gave the Israelites national and ceremonial laws. These, being meant for a particular people and a certain era of the world, are no longer binding upon us. But the Moral Law has been expressly confirmed by our Lord Jesus Christ as valid for all time and binding upon all men. [Matt. 22:37-40+]</p><p>The substance of the law is, “Thou shalt love the Lord Thy God with all thy heart and with all thy soul and with all thy mind.” and “Thou shalt love thy neighbor as thyself.”</p><p>The purpose of the law is, 1. To put a check upon wicked men, [I Tim. 1:9] 2. To convince us of our sinfulness [Rom. 3:20+] and our need of the Saviour, [Gal. 3:24+] and 3. To be our rule and guide for Christian conduct. [John. 14:15+, Matt. 7:12+] It is especially with respect to the second purpose here mentioned, that the Ten Commandments were assigned by Luther to the first and not to a later place in his catechism.</p><p>The Two Tables. The Ten Commandments may be divided into two parts, called the Two Tables of the Law. [Exod. 31:18] The First Table includes the first three commandments, and teaches us our Duty to God. The Second Table Includes the last seven commandments, and teaches us our Duty to our Fellow-men.</p><p>The Ten Commandments are not numbered in the Bible. A two-fold numbering is found among Christians. The first is that which is given in our Catechism, and which is accepted by the majority of Christians, The other numbering makes two commandments of our first (the second being the command not to make any images), and joins our ninth and tenth into one. This makes a difference in the numbering of all the commandments except the first.</p><p>Questions.—1. What other names are given to the Tea Commandments? 2. What do they make known to us? 3. What two sides are there to each commandment? 4. Where was the law of God originally written? 5. Why and when was the Law given anew? 6. Why is the Moral Law binding upon us, while the national and ceremonial laws of Israel are not? 7. What is the substance of the Law? 8. What is the threefold purpose of the Law? 9. Into how many Tables is the Law divided, and what does each Table teach? 10. How many commandments does each Table include?</p><p>SCRIPTURE VERSES.—Matt. 22:37-40. Jesus said unto him, Thou shall love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it, Thou shalt love thy neighbour as thyself. On these two commandments hang all the law and the prophets.</p><p>Rom. 3:20. Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin.</p><p>Gal. 3:24. Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith.</p><p>John 14:15. If ye love me, keep my commandments.</p><p>Matt. 7:12. Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.</p><p>Reading.—The Giving of the Law at Mt. Sinai, Exod. 19 and 20.</p>"
+            }
+        ],
+        "creed":[],
+        "lordsprayer":[],
+        "baptism":[],
+        "confession":[], 
+        "lordsSupper":[]
+        
+    },
+    "sections":{
+        "ten-commandments-01":[],
+        "ten-commandments-02":[],
+        "ten-commandments-03":[],
+        "ten-commandments-04":[],
+        "ten-commandments-05":[],
+        "ten-commandments-06":[],
+        "ten-commandments-07":[],
+        "ten-commandments-08":[],
+        "ten-commandments-09":[],
+        "ten-commandments-10":[],
+        "ten-commandments-conclusion":[],
+        "creed-1":[],
+        "creed-2":[],
+        "creed-3":[]
+        
     }
-
+    
 }

@@ -7,10 +7,11 @@ import Loehe from '../Commentaries/loehe.json';
 import ExplanationDisplay from './ExplanationDisplay';
 
 export default function ExplanationIndex({partID, id}) {
+ 
   return (
     <div>
-        {id}
-        <ExplanationDisplay commentaryName={Stump.display} commentaryData={Stump[partID]} id={id}></ExplanationDisplay>
+        
+        <ExplanationDisplay commentaryData={Stump} id={id} partID={partID}></ExplanationDisplay>
     </div>
   )
 }
