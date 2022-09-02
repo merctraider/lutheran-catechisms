@@ -15,7 +15,16 @@ body{
     font-family: Roboto Slab;
 }
 
+.verse{
+    border-left: solid 0.5px #aaa;
+}
+
+.explanation{
+    border-top: solid 0.5px #aaa;
+    border-bottom: solid 0.5px #aaa;
+}
+
 .verse:hover{
     cursor: pointer;
-    border-left: solid 0.5px #aaa;
+    border-color: #CC0000;
 }
