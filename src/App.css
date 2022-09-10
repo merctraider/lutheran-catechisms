@@ -29,10 +29,10 @@ body{
 }
 
 .verse.selected{
-    border-left: solid 2px #CC0000;
+    border-left: solid 2px #0D6EFD;
 }
 
 .verse:hover{
     cursor: pointer;
-    border-color: #CC0000;
+    border-color: #0D6EFD;
 }
