@@ -1,12 +1,25 @@
 {
     "display":"Questions and Answers to the Six Parts of the Small Catechism of Dr. Martin Luther by William Loehe",
-    "introduction":{
-
-    }, 
-    "tencommandments":{
-        "heading":{
-
-        }
+    "heading": {
+        
+        
+    },
+    "sections":{
+        "ten-commandments-01":[],
+        "ten-commandments-02":[],
+        "ten-commandments-03":[],
+        "ten-commandments-04":[],
+        "ten-commandments-05":[],
+        "ten-commandments-06":[],
+        "ten-commandments-07":[],
+        "ten-commandments-08":[],
+        "ten-commandments-09":[],
+        "ten-commandments-10":[],
+        "ten-commandments-conclusion":[],
+        "creed-1":[],
+        "creed-2":[],
+        "creed-3":[]
+        
     }
 
 }
