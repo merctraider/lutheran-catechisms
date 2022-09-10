@@ -1,17 +1,17 @@
+import { Interweave } from 'interweave'
 import React from 'react'
 
-//Commentaries
-import Stump from '../Commentaries/stump.json'; 
-import JCDietrich from '../Commentaries/dietrich.json'; 
-import Loehe from '../Commentaries/loehe.json'; 
-import ExplanationDisplay from './ExplanationDisplay';
 
-export default function ExplanationIndex({partID, id}) {
- 
+export default function ExplanationIndex({array}) {
+
   return (
-    <div>
-        
-        <ExplanationDisplay commentaryData={Stump} id={id} partID={partID}></ExplanationDisplay>
-    </div>
+    array.map(explanation =>{
+      return(
+        <div>
+          <h6>{explanation.display}</h6>
+          
+        </div>
+      )
+    } )
   )
 }

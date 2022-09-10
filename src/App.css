@@ -24,6 +24,14 @@ body{
     border-bottom: solid 0.5px #aaa;
 }
 
+.verse.selected:hover{
+    cursor:auto;
+}
+
+.verse.selected{
+    border-left: solid 2px #CC0000;
+}
+
 .verse:hover{
     cursor: pointer;
     border-color: #CC0000;
