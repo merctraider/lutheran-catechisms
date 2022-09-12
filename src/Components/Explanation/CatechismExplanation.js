@@ -1,7 +1,7 @@
 import React from 'react'
 import { Collapse, CloseButton } from 'react-bootstrap';
 import ExplanationIndex from './ExplanationIndex';
-import { ExplanationHandler } from '../lib/ExplanationHandler';
+import { ExplanationHandler } from '../../lib/ExplanationHandler';
 import { useState } from 'react';
 
 

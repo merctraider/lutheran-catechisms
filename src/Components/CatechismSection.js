@@ -1,6 +1,6 @@
 import React from 'react'
 import { Interweave } from 'interweave'
-import CatechismExplanation from './CatechismExplanation';
+import CatechismExplanation from './Explanation/CatechismExplanation';
 import { useState } from 'react';
 import { Collapse, CloseButton } from 'react-bootstrap';
 

@@ -1,24 +1,48 @@
 {
     "display":"Dr. Martin Luther’s Small Catechism Explained in Questions and Answers by J.C. Dietrich",
     "heading": {
-        
-        
+        "tencommandments":[
+            {
+                "type":"qna",
+                "heading":"Part 1. The Holy Ten Commandments.",
+                "content":[
+                    {
+                        "question":"8. What forms the first part of the Catechism?",
+                        "answer":"The holy Ten Commandments."
+                    }, 
+                    {
+                        "question":"9. What are the holy Ten Commandments?",
+                        "answer":"<p>They are the solemn repetition and explanation of the divine law, which was implanted in the hearts of men at the creation; which repetition and explanation was written on tables of stone by God Himself on mount Sinai, and was proclaimed by Moses.</p><p>Rom. 2:14-15. For when the Gentiles, which have not the law, do by nature the things contained in the law, these having not the law, are a law unto themselves. Which shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the meanwhile accusing, or else excusing one another.</p><p>Ex. 19:1-20:20. Comp. Acts 7:53.</p>"
+                    },
+                    {
+                        "question":"10. How are the holy Ten Commandments divided?",
+                        "answer":"<p>Into two parts, called the two tables.</p><p>Ex. 31:18; 32:15-16; Deut. 4:13; 10:1-4.</p>"
+                    }
+                ]
+            },
+            {
+                "type":"qna",
+                "heading":"Of The First Table Of The Holy Ten Commandments.",
+                "content":[
+
+                    {
+                        "question":"11. Which is the first table?",
+                        "answer":"It is that which contains the commandments treating immediately of the service and love of God."
+                    },
+                    {
+                        "question":"12. What is the sum of this table?",
+                        "answer":"“Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.” Matt. 22:37."
+                    },
+                    {
+                        "question":"13. How many commandments does the first table contain?", 
+                        "answer":"The first three."
+                    }
+                ]
+            }
+        ]
     },
     "sections":{
-        "ten-commandments-01":[],
-        "ten-commandments-02":[],
-        "ten-commandments-03":[],
-        "ten-commandments-04":[],
-        "ten-commandments-05":[],
-        "ten-commandments-06":[],
-        "ten-commandments-07":[],
-        "ten-commandments-08":[],
-        "ten-commandments-09":[],
-        "ten-commandments-10":[],
-        "ten-commandments-conclusion":[],
-        "creed-1":[],
-        "creed-2":[],
-        "creed-3":[]
+        
         
     }
 
