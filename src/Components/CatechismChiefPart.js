@@ -4,6 +4,11 @@ import CatechismSectionHeading from './CatechismSectionHeading'
 import CatechismSectionIndex from './CatechismSectionIndex';
 import NavigationArrows from './NavigationArrows';
 export default function CatechismChiefPart({id, translation}) {
+
+    if(translation == null){
+      return("Translation not found")
+    }
+
     const heading = translation.heading; 
 
   return (

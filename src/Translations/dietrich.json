@@ -394,5 +394,123 @@
                 "content":"<p>Thou shalt love thy neighbor as thyself. Herein are comprehended all the commandments. Rom. 13:9. And persevere in prayer for all men. 1 Tim. 2:1.</p> <div> <p>Let each his lesson learn with care, <br>And all the household well shall fare. </p> </div>"
             }
         ]
+    },
+    "qna":{
+        "heading":{
+            "title":"Christian Questions With Their Answers",
+            "subtitle":"Drawn Up By Dr. Martin Luther For Those Who Intend To Go To The Sacrament."
+        },
+        "sections":[
+            {
+                "id":"qna-0",
+                "mainHeading":"",
+                "content": "After confession and instruction in the Ten Commandments, Creed, Lord’s Prayer, and the sacraments of Baptism and the Holy Supper, the confessor may ask, or one may ask himself:—"   
+            },
+            {
+                "id":"qna-1",
+                "mainHeading":"1. Do you believe that you are a sinner? Answer:",
+                "content":"Yes, I believe it; I am a sinner."
+            },
+            {
+                "id":"qna-2",
+                "mainHeading":"2. How do you know this? Answer:",
+                "content":"From the Ten Commandments; these I have not kept."
+            },
+            {
+                "id":"qna-3",
+                "mainHeading":"3. Are you also sorry for your sins? Answer:",
+                "content":"Yes, I am sorry that I have sinned against God."
+            },
+            {
+                "id":"qna-4",
+                "mainHeading":"4. What have you deserved of God by your sins? Answer:",
+                "content":"His wrath and displeasure, temporal death and eternal damnation. Rom. 6:21, 23."
+            },
+            {
+                "id":"qna-5",
+                "mainHeading":"5. Do you also hope to be saved? Answer:",
+                "content":""
+            },
+            {
+                "id":"qna-6",
+                "mainHeading":"6. In whom, then, do you trust? Answer:",
+                "content":"In my dear Lord Jesus Christ."
+            },
+            {
+                "id":"qna-7",
+                "mainHeading":"7. Who is Christ? Answer:",
+                "content":"The son of God, true God and man."
+            },
+            {
+                "id":"qna-8",
+                "mainHeading":"8. How many Gods are there? Answer:",
+                "content":"Only one; but there are three persons, Father, Son, and Holy Ghost."
+            },
+            {
+                "id":"qna-9",
+                "mainHeading":"9. What, then, has Christ done for you that you trust in Him? Answer:",
+                "content":"He died for me, and shed His blood for me on the cross for the forgiveness of sins."
+            },
+            {
+                "id":"qna-10",
+                "mainHeading":"10. Did the Father also die for you? Answer:",
+                "content":"He did not; for the Father is God only, the Holy Ghost likewise; but the Son is true God and true man; He died for me and shed His blood for me."
+            },
+            {
+                "id":"qna-11",
+                "mainHeading":"11. How do you know this? Answer:",
+                "content":"From the holy gospel and from the words of the Sacrament, and by His body and blood given me as a pledge in the Sacrament."
+            },
+            {
+                "id":"qna-12",
+                "mainHeading":"12. How do those words read? Answer:",
+                "content":"<p>Our Lord Jesus Christ, the same night in which He was betrayed, took bread; and when He had given thanks, He brake it, and gave it unto His disciples, and said, Take, eat; this is my body, which is given for you: this do, in remembrance of me.</p><p>After the same manner also He took the cup, when He had supped, gave thanks, and gave it to them, saying, Take, drink ye all of it; this cup is the new testament in my blood, which is shed for you for the remission of sins: this do ye, as oft as ye drink it, in remembrance of me.</p>"
+            },
+            {
+                "id":"qna-13",
+                "mainHeading":"13. You believe, then, that the true body and blood of Christ are in the Sacrament? Answer:",
+                "content":"Yes, I believe it."
+            },
+            {
+                "id":"qna-14",
+                "mainHeading":"14. What induces you to believe this? Answer:",
+                "content":"The word of Christ, Take, eat, this is my body; Drink ye all of it, this is my blood."
+            },
+            {
+                "id":"qna-15",
+                "mainHeading":"15. What ought we to do when we eat His body and drink His blood, and thus receive the pledge? Answer:",
+                "content":"We ought to show and remember His death and the shedding of His blood, as He taught us: This do, us oft as ye do it, in remembrance of me."
+            },
+            {
+                "id":"qna-16",
+                "mainHeading":"16. Why ought we to remember and show His death? Answer:",
+                "content":"That we may learn to believe that no creature could make satisfaction for our sins, but Christ, true God and man; and that we may learn to look with terror at our sins and to regard them as great indeed, and to find joy and comfort in Him alone; and thus be saved through such faith."
+            },
+            {
+                "id":"qna-17",
+                "mainHeading":"17. What was it that moved Him to die and make satisfaction for your sins? Answer:",
+                "content":"His great love to His Father, and to me and other sinners, as it is written in John 14. Rom. 5. Gal. 2. Eph. 5."
+            },
+            {
+                "id":"qna-18",
+                "mainHeading":"18. Finally, why do you wish to go to the Sacrament? Answer:",
+                "content":"That I may learn to believe that Christ died for my sin out of great love, as before said; and that may also learn of Him to love God and my neighbor."
+            },
+            {
+                "id":"qna-19",
+                "mainHeading":"19. What should admonish and incite a Christian to receive the Sacrament frequently? Answer:",
+                "content":"In respect to God, both the command and the promise of Christ, the Lord, should move him, and in respect to himself, the trouble that lies heavy on him, on account of which such command, encouragement, and promise are given."
+            },
+            {
+                "id":"qna-20",
+                "mainHeading":"20. But what shall a person do, if he be not sensible of such trouble, and feel no hunger and thirst for the Sacrament? Answer:",
+                "content":"<p>To such a person no better advice can be given than that, in the first place, he put his hand into his bosom and feel whether he still have flesh and blood, and that he by all means believe what the Scriptures say of it, in Gal. 5. and Rom. 7.</p><p>Secondly, that he look around to see whether he is still in the world, and keep in mind that there will be no lack of sin and trouble, as the Scriptures say, in John 15. and 16, 1 John 2. and 5.</p><p>Thirdly, he will certainly have the devil also about him, who with his lying and murdering, day and night, will let him have no peace within or without, as the Scriptures picture him, in John 8. and 16, 1 Pet. 5. Eph. 6, 2 Tim. 2.</p>"
+            },
+            {
+                "id":"qna-note",
+                "mainHeading":"Note.",
+                "content":"These questions and answers are no child’s play, but are drawn up with great earnestness of purpose by the venerable and pious Dr. Luther for both young and old. Let each one take heed and likewise consider it a serious matter; for St. Paul says, to the Galatians, chapter sixth: Be not deceived; God is not mocked."
+            }
+        ]
     }
 }

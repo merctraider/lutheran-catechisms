@@ -49,11 +49,11 @@ function App() {
         setTranslation(Jacobs);
         break;
       case 'stump':
-        setTranslation(Stump); 
+        setTranslation(Stump);
         break;
       case 'jcdietrich':
         setTranslation(JCDietrich);
-        break; 
+        break;
 
       case 'vietnamese':
         setTranslation(Vietnamese);
@@ -83,8 +83,7 @@ function App() {
 
           }}>
             <optgroup label='Luther’s Small Catechesim'>
-            <option value="preface">Preface</option>
-            <Interweave ></Interweave>
+              <option value="preface" hidden={translationID == 'vietnamese'}>Preface</option>
               <option value="ten-commandments">The Ten Commandments</option>
               <option value="creed">The Creed</option>
               <option value="lords-prayer">The Lord's Prayer</option>
@@ -93,17 +92,18 @@ function App() {
               <option value="lords-supper">Sacrament of the Altar</option>
               <option value="prayers">Prayers</option>
               <option value="table-of-duties">Table of Duties</option>
+              <option value="qna" hidden={translationID != 'jcdietrich'}>Christian Questions and Answers</option>
             </optgroup>
 
             <optgroup label="Site Navigation">
-            <option value="">Home</option>
-            <option value="about">About</option>
+              <option value="">Home</option>
+              <option value="about">About</option>
             </optgroup>
-            
 
-            
 
-            
+
+
+
           </Form.Select>
 
           <Form.Select value={translationID} className='form-select-md' name="translation" onChange={(e) => {
@@ -122,7 +122,7 @@ function App() {
             <optgroup label='Other Languages'>
               <option value="vietnamese">2022 Giáo Lý Căn Bản (Vietnamese) </option>
             </optgroup>
-            
+
 
           </Form.Select>
         </Container>
@@ -137,7 +137,7 @@ function App() {
         <BrowserRouter>
           <Routes>
             <Route path={'/'} element={<Home />} />
-            <Route path='/about' element={<About/>}/>
+            <Route path='/about' element={<About />} />
             <Route path={'/preface'} element={<CatechismChiefPart id="preface" translation={translation.preface} />} />
             <Route path='/ten-commandments' element={<CatechismChiefPart id="tencommandments" translation={translation.tencommandments} />} />
             <Route path='/creed' element={<CatechismChiefPart id="creed" translation={translation.creed} />}>  </Route>
@@ -147,6 +147,7 @@ function App() {
             <Route path="/lords-supper" element={<CatechismChiefPart id="lordsSupper" translation={translation.lordsSupper} />}></Route>
             <Route path="/prayers" element={<CatechismChiefPart id="prayers" translation={translation.prayers} />}></Route>
             <Route path="/table-of-duties" element={<CatechismChiefPart id="table-of-duties" translation={translation.duties} />}></Route>
+            <Route path="/qna" element={<CatechismChiefPart id="table-of-duties" translation={translation.qna} />}></Route>
           </Routes>
         </BrowserRouter>
 
@@ -155,9 +156,9 @@ function App() {
 
       <Container>
         <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
-        <span className='text-muted'><a href="/">Luther's Small Catechism</a></span>
-        <span class="text-muted">© <a href="https://merctraider.me" target="_blank">merctraider</a> 2022 <a href='/about'>Some Rights Reserved.</a></span>
-        
+          <span className='text-muted'><a href="/">Luther's Small Catechism</a></span>
+          <span class="text-muted">© <a href="https://merctraider.me" target="_blank">merctraider</a> 2022 <a href='/about'>Some Rights Reserved.</a></span>
+
 
         </footer>
       </Container>
