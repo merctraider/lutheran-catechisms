@@ -1,6 +1,43 @@
 {
     "display":"Dr. Martin Luther’s Small Catechism Explained in Questions and Answers by J.C. Dietrich",
     "heading": {
+        "preface":[
+            {
+                "type":"qna",
+                "heading":"Introductory Questions.",
+                "content":[
+                    {
+                        "question":"1. Of what faith are you?",
+                        "answer":"I am a Christian. Acts 11:26."
+                    },
+                    {
+                        "question":"2. Why are you a Christian?",
+                        "answer":"<p>Because I believe in God the Father, Son, and Holy Ghost, and am baptized in His name.</p><p>Matt. 28,19. Jesus said to His disciples: “Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost.” (That is: Go ye, and make disciples of all nations by baptizing them in the name of the Father, etc.) Gal. 8:26-27.</p>"
+                    },
+                    {
+                        "question":"3. What do you believe concerning God the Father, Son, and Holy Ghost?",
+                        "answer":"Everything that is contained in the six chief parts of Christian doctrine, which are taught by Christ Himself and handed down by the Apostles."
+                    },
+                    {
+                        "question":"4. What book teaches you these six chief parts of Christian doctrine?",
+                        "answer":"<p>The Catechism.</p><p>1 Pet. 2:2. As newborn babes, desire the sincere milk of the word, that ye may grow thereby. Heb. 6:1-2; 5:12-18,</p>"
+                    },
+                    {
+                        "question":"5. Whence is the Catechism taken?",
+                        "answer":"<p>From the word of God, which God gave us in writing through the Prophets in the Old, and through the Evangelists and Apostles in the New Testament, for our instruction and salvation.</p> <p>2 Tim. 3:15-17. And that from a child thou hast known the Holy Scriptures which are able to make thee wise unto salvation through faith which is in Christ Jesus. All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness: that the man of God may be perfect, thoroughly furnished unto all good works.</p> <p>2 Pet. 1:19-21. We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day-star arrive in your hearts: knowing this first, that no prophecy of the Scripture is of any private interpretation. For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost.</p> <p>1 Cor, 2:18. Which things also we speak, not in the words which man’s wisdom teacheth, but which the Holy Ghost teacheth; comparing spiritual things with spiritual. Luke 10:16; Matt. 10:19, 20.</p> <p>[*] The principal proofs of the divine authority of the Holy Scriptures and of the Christian religion are: <ol> <li>Miracles: Mark 16:15-20; Heb. 2:3, 4; John 10:37-38; 3:2;</li> <li>Prophecy, Is. 41:22-27; 34:16;</li> <li>The witness of the Holy Spirit in the heart, John 7:17; 1 John 5:6; Heb. 4:12-13.</li> </ol> </p>"
+                    },
+                    {
+                        "question":"6. Which are those six chief parts of Christian doctrine?",
+                        "answer":"<ol> <li>The holy Ten Commandments;</li> <li>The Three Articles of the holy Christian Faith;</li> <li>The Lord’s Prayer,</li> <li>The Sacrament of Holy Baptism;</li> <li>The Office of the Keys;</li> <li>The Sacrament of the Altar.</li> </ol>"
+                    },
+                    {
+                        "question":"7. What, in general, is the right use and benefit of all these chief parts?",
+                        "answer":"<ol> <li>That we may know ourselves, and how we stand in the sight of the Lord our God;</li> <li>That we may know the Lord our God, and how we may be reconciled to Him and united with Him.</li> </ol> <p>John 5:39. Search the Scriptures; for in them ye think ye have eternal life: and they are they which testify of me.</p> <p>Luke 11:28 Blessed are they that hear the word of God and keep it. Jam. 1:22-24.</p>"
+                    }
+                ]
+            }
+        ],
+
         "tencommandments":[
             {
                 "type":"qna",
@@ -42,7 +79,74 @@
         ]
     },
     "sections":{
-        
+        "ten-commandments-01":[
+            {
+                "type":"qna",
+                "heading":"Of The First Commandment.",
+                "content":[
+                    {
+                        "question":"14. Which is the first commandment?",
+                        "answer":"<em>Thou shalt have no other gods before me.</em>"
+                    },
+                    {
+                        "question":"16. What does this mean?",
+                        "answer":"<em>We should fear, love, and trust in God above all things.</em>"
+                    },
+                    {
+                        "question":"16. What do you understand by other gods?",
+                        "answer":"<p>Every thing which men devise in the place of God, and to which, in an ungodly manner, they ascribe the attributes, works and worship of the true God, as: </p> <ol> <li> <p>The idols of the heathen;</p> <p>1 Cor. 12:2. Ye know that ye were Gentiles, carried away unto these dumb idols, even as ye were led. Ps. 115</p> </li> <li> The pictures and graven images which are set up for adoration, Ex. 20:4-5; 32:1-5; </li> <li>The departed saints, so far as they are invoked, Is. 63:16; Rev. 19:10;</li> <li>The gifts of soul and body, the benefits which are enjoyed, and indeed every thing else, so far as men put their trust in it and make a boast of it, Col. 3:5; Eph. 5:5; Phil. 3:19; Job 31:24; Acts 12:21-23.</li> </ol>"
+                    },
+                    {
+                        "question":"17. What is meant by having other gods?",
+                        "answer":"<p>It means having either no God, or many gods, or another beside the one true God who is revealed to us, acknowledging him as such, trusting in him, and praying and hoping for help and support from him, without true fear of the true God.</p> <p>Ps. 14:1. The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works.</p> <p>1 Cor. 3:4-6; 1 John 2:23; 2 John 9.</p> <p>Is. 42:8. I am the Lord; that is my name: and my glory will I not give to another, neither my praise to graven images.</p>"
+                    },
+                    {
+                        "question":"18. What is therefore forbidden in this commandment?",
+                        "answer":"<p>The practice of every kind of idolatry, image worship, superstition, invocation of saints or of other creatures, or in any manner putting our trust in them.</p> <p>Matt. 4:10. Thou shalt worship the Lord thy God, and Him only shalt thou serve.</p> <p>Matt. 10:28. Fear not them which kill the body, but are not able to kill the soul; but rather fear Him which is able to destroy both soul and body in hell.</p> <p>Matt. 10:37. He that loveth father or mother more than me, is not worthy of me: and he that loveth son or daughter more than me, is not worthy of me.</p> <p>Jer. 17:5. Cursed be the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the Lord.</p>"
+                    },
+                    {
+                        "question":"19. What, on the other hand, is commanded in it?",
+                        "answer":"<p>That we should have the one true God only, know Him according to His revealed Word, fear Him above all things, love Him with all our heart, trust in Him alone, submit ourselves in true humility and patience to Him, and look to Him alone for every blessing.</p> <p>John 17:3. This is life eternal, that they might know Thee the only true God, and Jesus Christ whom Thou hast sent. Jer. 9:23-24.</p> <p>Ps. 33:8. Let all the earth fear the Lord: let all the inhabitants of the world stand in awe of Him.</p> <p>Gen. 39:9. How then can I do this great wickedness, and sin against God?</p> <p>Ps. 73:25-26. Whom have I in heaven but Thee? and there is none upon earth that I desire besides Thee. My flesh and my heart faileth; but God is the strength of my heart, and my portion forever. 1 John 2:14-17.</p> <p>Prov. 3:5. Trust in the Lord with all thine heart; and lean not unto thine own understanding.</p> <p>Ps. 118:8-9. It is better to trust in the Lord than to put confidence in man; it is better to trust in the Lord than to put confidence in princes.</p> <p>Ps. 42:11. Why art thou cast down, O my soul? and why art thou disquieted within me? Hope thou in God; for I shall yet praise Him, who is the health of my countenance and my God.</p>"
+                    },
+                    {
+                        "question":"20. Why does Luther introduce the explanation of each commandment with the words: “We should fear and love God”?",
+                        "answer":"He would show the source whence all the works required in the holy Ten Commandments flow, which is the fear and love of God; for if these do not proceed from child-like fear and true love to God, they are hypocritical works and can not truly please Him. 1 Tim. 1:5."
+                    },
+                    {
+                        "question":"21. But why is it that you do not recite all the words of the holy Ten Commandments, just as God inscribed them upon the tables of stone, and Moses by This command proclaimed them",
+                        "answer":"<p>This is not necessary. <ol> <li>Because several things are contained in the Ten Commandments which are not obligatory upon mankind in general, but pertain only to the Jews and the Mosaic polity;</li> <li>Because several things are identical in sense, and we therefore need not repeat them precisely word for word.</li> </ol> </p>"
+                    },
+                    {
+                        "question":"22. What are these things?",
+                        "answer":"<p>In the first Commandment they are these words:</p> <p>“I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage.” Ex. 20:2.</p> <p> “Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: thou shalt not bow down thyself to them, nor serve them.” Ex. 20:4-5.</p>"
+                    },
+                    {
+                        "question":"23. Why is this omitted?",
+                        "answer":"<ol> <li>Because the bringing forth out of Egypt was a temporal blessing which pertained alone to the Jews, and therefore does not now concern Christians;</li> <li>Because the commandment forbidding the worship and adoration of images is, in general, included in the words: “Thou shalt have no other gods before me.”</li> </ol>"
+                    },
+                    {
+                        "question":"24. But should not the respecting images form a separate commandment, and be numbered as the second?",
+                        "answer":"Which is the first, or which is the second or third commandment, neither God nor Moses has indicated; we know only that there are ten commandments."
+                    },
+                    {
+                        "question":"25. How, then, is the precept respecting images to be regarded?",
+                        "answer":"It is an appendix to the first commandment, or an explanation of it, containing a particular example to illustrate it."
+                    },
+                    {
+                        "question":"26. How do you prove this?",
+                        "answer":"Other gods in general, whether strictly or figuratively so called, are forbidden in the first commandment; but, according to the testimony of Scripture, graven images and pictures, which are made and used for purposes of worship, are other gods: therefore they are forbidden in the first commandment."
+                    },
+                    {
+                        "question":"27. But could not the commandments, with a conscience, be recited fully in the very words which Moses used?",
+                        "answer":"<p>Certainly; but in the whole New Testament we nowhere find them thus repeated, and we therefore justly follow the apostolic practice.</p> <p>Eph. 6:3. Comp. Ex. 20:12.</p>"
+                    },
+                    {
+                        "question":"28. May not pictures and graven images be tolerated with a good conscience?",
+                        "answer":"<p>If they are exhibited for the purpose of worship, of adoration and of superstition, they should be abolished; but if this is not the case, and if they contain nothing scandalous or indicative of levity, they may be used: 1. as salutary memorials; 2. as helps to edification; 3. as means of teaching history; 4. as aids to memory; and 5. as ornaments.</p> <p>Lev. 26:1; 2 Kin. 18:4. Comp. Num. 21:8, 1 Sam, 7:12; 1 Kin. 6:23; 7:29; Matt. 22:20; Acts 28:11.</p>"
+                    }
+                ]
+            }
+        ]
         
     }
 
