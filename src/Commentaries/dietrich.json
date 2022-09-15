@@ -146,6 +146,130 @@
                     }
                 ]
             }
+        ],
+        "ten-commandments-02":[
+            {
+                "type":"qna",
+                "heading":"Of The Second Commandment.",
+                "content":[
+                    {
+                        "question":"29. Which is the second commandment?",
+                        "answer": "Thou shalt not take the name of the Lord thy God in vain."
+                    },
+                    {
+                        "question":"30. What does this mean?",
+                        "answer":"We should fear and love God, that we may not curse, swear, use witchcraft, lie or deceive by His name; but call upon it in every trouble, pray, praise, and give thanks."
+                    },
+                    {
+                        "question":"31. What is meant by the name of God?",
+                        "answer":"<ol> <li>God Himself, Ex. 3:13-15;</li> <li>God’s attributes, Ex. 34:5-7;</li> <li>God’s will or command, Deut. 18:19;</li> <li>Every thing that is revealed in Scripture concerning God, and that serves to promote the knowledge, worship, glory, praise and confession of God, Ps. 48:10; Mich. 4:5; Acts 21:13.</li> </ol>"
+                    },
+                    {
+                        "question":"32. What is meant by taking His name in vain?",
+                        "answer":"<p>It is using the name of God either thoughtlessly, unprofitably and triflingly, or falsely, and blasphemously.</p> <p>Eph. 4:29. Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.</p> <p>Gal. 6:7. Be not deceived; God is not mocked, Matt. 27:46-47; Dan. 5:2-4. (2 Macc. 4:17.)</p>"
+                    },
+                    {
+                        "question":"33. What is therefore forbidden in this commandment?",
+                        "answer":"All cursing, swearing, using witchcraft, lying, or deceiving by the name of God."
+                    },
+                    {
+                        "question":"34. What is cursing by the name of God?",
+                        "answer":"<p>It is either blaspheming God, or wishing evil to ourselves or our neighbors by the holy name of God</p> <p>Jam. 3:9-10. By the tongue bless we God, even the Father; and therewith curse we men, which are made after the similitude of God. Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not to to be.</p> <p>Rom. 12:14; Matt. 26:74; 2 Sam, 16:13; Lev. 24:10-23.</p>"
+                    },
+                    {
+                        "question":"35. What is swearing by the name of God?",
+                        "answer":"It is calling upon God to witness the truth and to avenge untruth. 2 Cor. 1:23."
+                    },
+                    {
+                        "question":"36. Is swearing in all cases forbidden?",
+                        "answer":"<p> No; every Christian, to accredit himself and to attest the truth, may and should swear when <ol> <li>The honor of God demands it;</li> <li>The welfare of our neighbor makes it necessary;</li> <li>The government commands it;</li> <li>The exigencies of his office or calling require it.</li> </ol> </p>"
+                    },
+                    {
+                        "question":"37. Why do you maintain this?",
+                        "answer":"<ol> <li>Because the Scriptures teach that there is swearing which is lawful. Jer. 4:2; Deut. 6:13;</li> <li>Because the saints of the Old Testament, Abraham, Moses, David, etc., used the oath, Gen. 14:22-23; 24:3-9; Jos. 14:9; 2 Sam. 21:7;</li> <li>Because Christ and the Apostles in the New Testament did the same, John 16:20; Matt. 26:63-64; 2 Cor. 11:31; Rom. 9:1;</li> <li> Because swearing for the confirmation of the truthfulness of witnesses and of the truth which is witnessed, was introduced for the welfare of the Church and of the community, that there might be an end of all strife. Heb. 6:16. “For men verily swear by the greater: and an oath for confirmation is to them an end of all strife.”</li> </ol>"
+                    },
+                    {
+                        "question":"38. What kind of swearing is forbidden?",
+                        "answer":"<p> That which is in conflict with the Word of God, and which consists in taking an oath in matters that are either false, or uncertain, or not allowable, or impossible, or trivial and vain. </p> <p>Matt. 5:33-37. Again, ye have heard that it hath been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths, But I say unto you, Swear not at all: neither by heaven: for it is God’s throne: nor by the earth; for it is his footstool: neither by Jerusalem; for it is the city of the great King: neither shalt thou swear by thy head, because thou canst not make one hair white or black, But let your communication be, Yea, yea; Nay, nay; for whatsoever is more than these cometh of evil, Matt: 26:72; Jos. 9:14-15; Acts 23:12; Matt. 14:7.</p> <p>1 Sam. 14:24-30 and 37-45. (This ungodly oath it was not allowed to keep.)</p>"
+                    },
+                    {
+                        "question":"39. What is using witchcraft?",
+                        "answer":"<p>It is not only, by the aid of the devil, to injure our neighbor in person or property, but also, by superstitious misuse of the name or Word of God, or by other means which in their nature cannot effect the end for which they are used, to cure diseases in men and animals, discover secrets, quench fires, render invulnerable, and the like.</p> <p>Deut. 18:10-12, There shall not be found among you anyone that maketh his son or his daughter to pass through the fire, or that useth divination, or an observer of times, or an enchanter, or a witch, or a charmer, or a consulter with familiar spirits, or a wizard, or a necromancer. For all that do these things are an abomination unto the Lord. Lev. 19:31; 1 Sam. 28:5-25; Is. 8:19-20; Acts 19:19; Tob. 6:9; Rev. 21:8; 22:15; Jer. 10:2.</p>"
+                    },
+                    {
+                        "question":"40. What is lying or deceiving by the name of God?",
+                        "answer":"<p>It is either corrupting the Word of God by false interpretations, and representing false doctrines to be divine truth; or having the name of God upon our lips, but not in our hearts, or otherwise misusing it for purposes of falsehood or deception.</p> <p>Jer. 23:31-32, Behold, I am against the prophets, saith the Lord, that use their tongues and say, He saith. Behold, I am against them that prophesy false dreams, saith the Lord, and do tell them, and cause my people to err by their lies, and by their lightness, yet I sent them not, nor commanded them: therefore they shall not profit this people at all, saith the Lord, Ex. 13:18-19; Matt. 5:19; Rev. 22:18-19.</p> <p>Matt. 15:8 This people draweth nigh unto me with their mouth, and honoreth me with their lips; but their heart is far from me.</p> <p>Ps. 50:16-17. But unto the wicked God saith, What hast thou to do, to declare my statutes, or that thou shouldest take my covenant in thy mouth? Seeing thou hatest instruction, and castest my words behind thee.</p> <p>Matt. 7:21. Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.</p>"
+                    },
+                    {
+                        "question":"41. But what is enjoined upon us in this commandment?",
+                        "answer":"<p>That we should always use the name of God devoutly, piously and reverently, and call upon it in every trouble, pray, praise, and give thanks.</p> <p> Matt. 6:9. Hallowed be Thy name.</p> <p>Ps. 50:15, Call upon me in the day of trouble; I will deliver thee, and thou shalt glorify me.</p> <p>1 Thess. 5:17, Pray without ceasing.</p> <p>Col. 3:16. Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in pour hearts to the Lord.</p> <p>Ps. 50:14. Offer unto God thanksgiving; and pay thy vows unto the Most High. Ps. 103:1-2; 106:1.</p>"
+                    },
+                    {
+                        "question":"42. What is the particular threat directed against the transgressors of this commandment?",
+                        "answer":"“The Lord will not hold him guiltless that taketh His name in vain.” Ex. 20:7; Deut. 5:11. “I will be a swift witness against the sorcerers, and against the adulterers, and against false swearers.” Mal. 3:5; Ex. 17:11-20."
+                    }
+                ]
+            }
+        ],
+        "ten-commandments-03":[
+            {
+                "type":"qna",
+                "heading":"Of The Third Commandment.",
+                "content":[
+                    {
+                        "question":"43. Which is the third commandment?",
+                        "answer":"Thou shalt sanctify the holy day."
+                    },
+                    {
+                        "question":"44. What does this mean?",
+                        "answer":"We should fear and love God, that we may not despise preaching and His word; but hold it sacred, and gladly hear and learn it."
+                    },
+                    {
+                        "question":"45. Why is it that, in this commandment, also you do not rehearse the words exactly as they are found in Ex. 20:8-11?",
+                        "answer":"<p>Because some of them refer merely to the Jewish sanctification of the Sabbath, and therefore belong to the ceremonies and types which concern only the Jews, not the Christians in the New Testament.</p> <p>Matt 12:8 The Son of Man is Lord even of the Sabbath day.</p> <p>Col. 2:16-17. Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new-moon, or of the sabbath-days: which are a shadow of things to come; but the body is of Christ, Gal. 4:9-11.</p> <p>Deut. 5:15; Ex. 16:23, 29; 35:3; Jer. 17:21-27.</p>"
+                    },
+                    {
+                        "question":"46. What is meant by Sabbath or holy-day?",
+                        "answer":"Sabbath means ceasing from labor, or rest, and is so called because it was the seventh day of the week, on which the Lord rested, after having in six days made heaven and earth. Gen. 2:2-3."
+                    },
+                    {
+                        "question":"47. Is it therefore necessary that the seventh day should be appointed as the day of rest?",
+                        "answer":"<p> Christians are at liberty to appoint any day for worship; but because the Apostles and other Christians of their times, for the purpose of separating themselves from the Jewish Church, appointed the Lord’s day, for public worship, and transferred to it all the honors of the Jewish Sabbath, it is meet that we should observe it also. </p> <p>Rom. 14:5-6. One man esteemeth one day above another; another esteemeth every day alike. Let every man be fully persuaded in his own mind, He that regardeth the day, regardeth it unto the Lord: and he that regardeth not the day, to the Lord he doth not regard it. He that eateth, eateth to the Lord, for he giveth God thanks; and he that eateth not, to the Lord he eateth not, and giveth God thanks.</p> <p>1 Cor. 16:2; Acts 20:7; Rev. 1:10.</p>"
+                    },
+                    {
+                        "question":"48. Why was this day chosen?",
+                        "answer":"Because on this day our Lord Jesus Christ arose from the dead, and introduced the spiritual Sabbath by His resurrection. Mark 16:2; Acts 2:1."
+                    },
+                    {
+                        "question":"49. But is it allowable to celebrate annually other festivals, as of the Lord, of the Apostles and other saints, besides the Lord’s day?",
+                        "answer":"Certainly this may be done, in the exercise of Christian liberty, if it only be done without superstition, and without the vain fancy that this is doing God service. Gal. 5:1."
+                    },
+                    {
+                        "question":"50. Why therefore are the festivals of our Lord, as that of His birth, circumcision, resurrection, ascension, and of the mission of the Holy Ghost, etc., solemnly celebrated?",
+                        "answer":"<ol> <li>That the sacred history may be learned in regular order;</li> <li>That the great blessings which come to us through these events may be particularly considered, Acts 2:11.</li> <li>That we may give due thanks to God especially for these benefits, and apply them to His glory and to our salvation, Ps. 77:12-13; 26:6-7.</li> </ol>"
+                    },
+                    {
+                        "question":"51. Why are the festivals of the Apostles and other saints celebrated?",
+                        "answer":"<ol> <li>Because of the seemly order which should be observed in the Church; 1 Cor. 14:40, Let all things be done decently and in order.</li> <li>In annual commemoration of the history and of the great benefits conferred upon the Church of Christ through the saints, which it is proper that Christians should gratefully remember;</li> <li>For the sake of the example, that we may piously imitate the life, faith, confession, steadfastness, patience, and other virtues of the saints.</li> </ol> <p>Heb. 13:7. Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of their conversation.</p> <p>Phil. 3:17, Brethren, be followers together of me, and mark them which walk so as ye have us for an ensample.</p> <p>Heb. 11 </p>"
+                    },
+                    {
+                        "question":"52. What is meant by sanctifying the holy day?",
+                        "answer":"<p>It means, in general, to devote the day to holy worship and to the performance of holy works.</p> <p>1 Tim. 4:4-5, For every creature of God is good, and nothing to be refused, if it be received with thanksgiving; for it is sanctified by the word of God, and prayer.</p> <p>John 17:17.</p>"
+                    },
+                    {
+                        "question":"53. What then is enjoined in this commandment?",
+                        "answer":"<p>That we should hold the Word of God sacred, willingly hear it in the assembly for worship, meditate upon it and learn it, and use the holy sacraments according to their divine institution; and further, that we should engage in prayer and thanksgiving, and in other exercises of piety and Christian love, by which the holy day is properly and truly sanctified.</p> <p>Is. 66:2, To this man will I look, even to him that is poor and of a contrite spirit, and that trembleth at my word.</p> <p>Eccl. 5:1. Keep thy foot when thou goest to the house of God, and be more ready to hear than to give the sacrifice of fools; for they consider not that they do evil. </p> <p>Ps. 26:6-8. So will I compass thine altar, O Lord: that I may publish with the voice of thanksgiving, and tell of all thy wondrous works, Lord, I have loved the habitation of thy house, and the place where Thine honor dwelleth.</p> <p>1 Thess, 2:13. When ye received the word of God which ye heard of us, ye received it not as the word of men, but (as it is in truth) the word of God, which effectually worketh also in you that believe. Jas. 1:21; Luke 11:28; Jas. 1:22; Ps. 119:72.</p> <p>1 Cor. 11:20; Acts 20:7.</p> <p>1 Tim. 2:1-3; 1 Cor. 14:26.</p> <p>Gal. 6:6, Let him that is taught in the word, communicate unto him that teacheth in all good things.</p> <p>James 1:27, Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world. 1 Cor. 16:1, 2; Luke 13:10-17; Luke 14:1-6; Matt. 12:1-13.</p>"
+                    },
+                    {
+                        "question":"54. But what is forbidden in this commandment?",
+                        "answer":"<p>Despising public preaching and the Word of God, neglecting the sacraments, performing ordinary daily labor, or engaging in other works which are ungodly and belong to the vanity of the world, and by which the holy day is desecrated.</p><p> Hos. 4:6. Because thou hast rejected knowledge, I will also reject thee.</p> <p>Luke 10:16, He that heareth you, heareth me; and he that despiseth you despiseth me; and he that despiseth me, despiseth Him that sent me.</p> <p>John 8:47, He that is of God, heareth God’s words: ye therefore hear them not, because ye are not of God.</p> <p>Heb. 10:25, Not forsaking the assembling of ourselves together as the manner of some is. Luke 7:30.</p> <p>1 Pet. 4:4. Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you. Comp. v.3. Num. 15:32-36.</p>"
+                    },
+                    {
+                        "question":"55. What is the particular threat and penalty annexed to this commandment?",
+                        "answer":"“Ye shall keep the Sabbath therefore, for it is holy unto you: every one that defileth it shall surely be put to death.” Ex. 31:14."
+                    }
+                ]
+            }
         ]
         
     }
