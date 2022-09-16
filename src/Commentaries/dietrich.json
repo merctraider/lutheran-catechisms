@@ -270,6 +270,96 @@
                     }
                 ]
             }
+        ],
+        "ten-commandments-04":[
+            {
+                "type":"qna",
+                "heading":"Of The Second Table Of The Holy Ten Commandments.",
+                "content":[
+                    {
+                        "question":"56. Of what does the second table of the commandments treat?",
+                        "answer":"Of love to our neighbor."
+                    },
+                    {
+                        "question":"57. What is the sum of this table?",
+                        "answer": "“Thou shalt love thy neighbor as thyself.” Matt. 22:39. And: “All things whatsoever ye would that men should do to you, do ye even so to them.” Matt. 7:12."
+                    },
+                    {
+                        "question":"58. Who is our neighbor?",
+                        "answer":"<p> All men in general who need our counsel, help or assistance, whether they be friends or foes, acquaintances or strangers, poor or rich, or whoever they may be. </p> <p>Matt. 5:44-48. I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you; that ye may be the children of your Father which is in heaven: for He maketh His sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust, For if ye love them which love you, what reward have ye? do not even the publicans the same? And if ye salute your brethren only, what do ye more than others? do not even the publicans so? Be ye therefore perfect, even as your Father which is in heaven is perfect. Luke 10:25-37. (1 Tim. 5:8; Gal. 6:10, Mark the distinction!) </p>"
+                    },
+                    {
+                        "question":"59. How should we love our neighbor?",
+                        "answer":"Not above all things, for such love belongs to God; but as ourselves, so that we should as heartily, sincerely and constantly wish him well, do him all the good we can in spiritual and bodily things. and speak well of him, as we do this for ourselves and desire others to do it toward us. Matt. 22:39; 7:12; 2 Cor. 8:13, 14; 1 John 3:16."
+                    },
+                    {
+                        "question":"60. How many commandments are contained in this second table?",
+                        "answer":"The last seven, namely: the 4th, 5th, 6th, 7th, 8th, 9th, and 10."
+                    }
+                ]
+            },
+            {
+                "type":"qna",
+                "heading":"Of The Fourth Commandment.",
+                "content":[
+                    {
+                        "question":"61. Which is the fourth commandment?",
+                        "answer":"Thou shalt honor thy father and thy mother, that it may be well with thee, and thou mayest live long on the earth."
+                    },
+                    {
+                        "question":"62. What does this mean?",
+                        "answer":"We should fear and love God, that we may not despise our parents and masters, nor provoke them to anger; but give them honor, serve and obey them, and hold them in love and esteem."
+                    },
+                    {
+                        "question":"63. What is meant in this place by the word parents?",
+                        "answer":"<p>All superiors, whom God has placed over others for their government and protection, as: <ol> <li>Our parents proper, as well as grand-parents, step-parents, fosterparents, and parents-in-law, Gen. 28:13; Luke 2:48; John 19:26-27; 1 Sam. 24:12;</li> <li>Guardians and tutors of minors, Est. 2:7 and 20;</li> <li>Ministers and pastors, 2 Kin. 13:14; 1 Cor. 4:15; Gal. 4:19; 1 John 2:18;</li> <li>Teachers in schools and colleges, 2 Kin. 2:12;</li> <li>The civil government and its officers, Ezra 1:4;</li> <li>The masters of the house, 2 Kin. 5:18;</li> <li>Aged persons, Acts 22:1; 1 Tim. 5:1-2; Rom. 16:13.</li> </ol> </p>"
+                    },
+                    {
+                        "question":"64. What therefore is meant by the word children?",
+                        "answer":"<p> All subordinates, whom God has placed under others for their government and protection, as: <ol> <li>Children;</li> <li>Minors;</li> <li>The hearers of God’s Word;</li> <li>Pupils;</li> <li>Subjects;</li> <li>Servants and domestics;</li> <li>Young persons.</li> </ol> </p>"
+                    },
+                    {
+                        "question":"65. What is enjoined upon parents and all superiors in this commandment?",
+                        "answer":"<p>To exercise paternal care, love and benevolence toward all their subjects, provide for them, protect them, faithfully instruct them in the Lord, and set them a blameless example of pure faith, upright conversation and good morals. </p> <p>Eph. 6:4; Deut. 6:6-9; Prov. 22:15; 23:13-14; Gen. 18:19. </p> <p>1 Tim. 5:8. </p> <p>Matt. 18:6, 10. </p> <p>Compare the table of duties. </p>"
+                    },
+                    {
+                        "question":"66. What is commanded and forbidden to all children and subjects?",
+                        "answer":"That they should give due honor to their parents and to all who are placed over them, serve them with fear and simpleness of heart, obey them, not despise them, not provoke them to anger, but love and esteem them."
+                    },
+                    {
+                        "question":"67. What is required by the honor which is due to parents and superiors?",
+                        "answer":"<p>That on account of the divine order we should highly esteem them, and deport ourselves humbly and respectfully towards them.</p> <p>Mal. 1:6, A son honoreth his father, and a servant his master. </p> <p>Eph, 6:2-3, Honor thy father and mother, (which is the first commandment with promise,) that it may be well with thee, and thou mayest live long on earth.</p> <p>Lev. 19:3. Ye shall fear every one his mother and his father. </p> <p>1 Kin. 2:19. </p>"
+                    },
+                    {
+                        "question":"[*] 68. But are all superiors to be obeyed in all things without distinction?",
+                        "answer":"<p>We should obey them in all things that are not contrary to God and the love due to our neighbor; but if they enjoin anything that is against the divine commandment, we must obey God rather than men. </p> <p>Col. 3:20. Children, obey your parents in all things: for this is well-pleasing unto the Lord. Eph. 6:1.</p> <p>Prov. 28:22, Hearken unto thy father that begat thee, and despise not thy mother when she is old, 6:20-22; Luke 2:51.</p> <p>Acts 5:29. We ought to obey God rather than men.</p>"
+                    },
+                    {
+                        "question":"69. What is required by love to parents?",
+                        "answer":"<p>That on account of the benefits which they have conferred upon us we desire their welfare and seek to requite them, and that we bear their faults and weaknesses patiently, and pray for them. </p> <p> 1 Tim. 5:4. To requite their parents: for that is good and acceptable before God. Sir. 3:1-18.</p>"
+                    },
+                    {
+                        "question":"70. What is meant by despising our parents and superiors?",
+                        "answer":"<p>It means thinking less highly of them than God desires, using contemptuous and derisive gestures and words towards them, and refusing to render the obedience which is due to them. </p> <p>Prov. 30:17. The eye that mocketh at his father, and despiseth to obey his mother, the ravens of the valley shall pick it out, and the young eagles shall eat it. 2 Kin. 2:23-24. </p>"
+                    },
+                    {
+                        "question":"71. What is meant by provoking them to anger?",
+                        "answer":"<p>It means not only withholding from them the honor and obedience which are their due, but rendering them the reverse, opposing them, and offending and insulting them in words, works or gestures.</p> <p>Prov. 20:20; Gen. 9:20-25; Deut. 21:18-21</p>"
+                    },
+                    {
+                        "question":"72. What is the special promise annexed to this commandment?",
+                        "answer":"“That it may be well with thee, and thou mayest live long upon the earth.” Eph. 6:3."
+                    },
+                    {
+                        "question":"73. Why did God particularly annex this promise?",
+                        "answer":"<ol> <li>To urge us the more to obedience by setting before us this reward;</li> <li>To testify publicly how highly He esteems the honoring of parents;</li> <li>To show us the great necessity of obedience to this commandment.</li> </ol>"
+                    },
+                    {
+                        "question":"74. What is the special threat and penalty pertaining to this commandment?",
+                        "answer":"“Cursed be he that setteth light by his father or his mother.” Deut. 27:16. “He that curseth his father or his mother shall surely be put to death.” Ex. 21:17. Lev. 20:9."
+                    }
+                ]
+            }
         ]
         
     }
