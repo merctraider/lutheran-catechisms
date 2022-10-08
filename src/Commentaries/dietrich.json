@@ -1,555 +1,551 @@
 {
-    "display":"Dr. Martin Luther’s Small Catechism Explained in Questions and Answers by J.C. Dietrich",
+    "display": "Dr. Martin Luther’s Small Catechism Explained in Questions and Answers by J.C. Dietrich",
     "heading": {
-        "preface":[
+        "preface": [
             {
-                "type":"qna",
-                "heading":"Introductory Questions.",
-                "content":[
+                "type": "qna",
+                "heading": "Introductory Questions.",
+                "content": [
                     {
-                        "question":"1. Of what faith are you?",
-                        "answer":"I am a Christian. Acts 11:26."
+                        "question": "1. Of what faith are you?",
+                        "answer": "I am a Christian. Acts 11:26."
                     },
                     {
-                        "question":"2. Why are you a Christian?",
-                        "answer":"<p>Because I believe in God the Father, Son, and Holy Ghost, and am baptized in His name.</p><p>Matt. 28,19. Jesus said to His disciples: “Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost.” (That is: Go ye, and make disciples of all nations by baptizing them in the name of the Father, etc.) Gal. 8:26-27.</p>"
+                        "question": "2. Why are you a Christian?",
+                        "answer": "<p>Because I believe in God the Father, Son, and Holy Ghost, and am baptized in His name.</p><p>Matt. 28,19. Jesus said to His disciples: “Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost.” (That is: Go ye, and make disciples of all nations by baptizing them in the name of the Father, etc.) Gal. 8:26-27.</p>"
                     },
                     {
-                        "question":"3. What do you believe concerning God the Father, Son, and Holy Ghost?",
-                        "answer":"Everything that is contained in the six chief parts of Christian doctrine, which are taught by Christ Himself and handed down by the Apostles."
+                        "question": "3. What do you believe concerning God the Father, Son, and Holy Ghost?",
+                        "answer": "Everything that is contained in the six chief parts of Christian doctrine, which are taught by Christ Himself and handed down by the Apostles."
                     },
                     {
-                        "question":"4. What book teaches you these six chief parts of Christian doctrine?",
-                        "answer":"<p>The Catechism.</p><p>1 Pet. 2:2. As newborn babes, desire the sincere milk of the word, that ye may grow thereby. Heb. 6:1-2; 5:12-18,</p>"
+                        "question": "4. What book teaches you these six chief parts of Christian doctrine?",
+                        "answer": "<p>The Catechism.</p><p>1 Pet. 2:2. As newborn babes, desire the sincere milk of the word, that ye may grow thereby. Heb. 6:1-2; 5:12-18,</p>"
                     },
                     {
-                        "question":"5. Whence is the Catechism taken?",
-                        "answer":"<p>From the word of God, which God gave us in writing through the Prophets in the Old, and through the Evangelists and Apostles in the New Testament, for our instruction and salvation.</p> <p>2 Tim. 3:15-17. And that from a child thou hast known the Holy Scriptures which are able to make thee wise unto salvation through faith which is in Christ Jesus. All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness: that the man of God may be perfect, thoroughly furnished unto all good works.</p> <p>2 Pet. 1:19-21. We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day-star arrive in your hearts: knowing this first, that no prophecy of the Scripture is of any private interpretation. For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost.</p> <p>1 Cor, 2:18. Which things also we speak, not in the words which man’s wisdom teacheth, but which the Holy Ghost teacheth; comparing spiritual things with spiritual. Luke 10:16; Matt. 10:19, 20.</p> <p>[*] The principal proofs of the divine authority of the Holy Scriptures and of the Christian religion are: <ol> <li>Miracles: Mark 16:15-20; Heb. 2:3, 4; John 10:37-38; 3:2;</li> <li>Prophecy, Is. 41:22-27; 34:16;</li> <li>The witness of the Holy Spirit in the heart, John 7:17; 1 John 5:6; Heb. 4:12-13.</li> </ol> </p>"
+                        "question": "5. Whence is the Catechism taken?",
+                        "answer": "<p>From the word of God, which God gave us in writing through the Prophets in the Old, and through the Evangelists and Apostles in the New Testament, for our instruction and salvation.</p> <p>2 Tim. 3:15-17. And that from a child thou hast known the Holy Scriptures which are able to make thee wise unto salvation through faith which is in Christ Jesus. All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness: that the man of God may be perfect, thoroughly furnished unto all good works.</p> <p>2 Pet. 1:19-21. We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day-star arrive in your hearts: knowing this first, that no prophecy of the Scripture is of any private interpretation. For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost.</p> <p>1 Cor, 2:18. Which things also we speak, not in the words which man’s wisdom teacheth, but which the Holy Ghost teacheth; comparing spiritual things with spiritual. Luke 10:16; Matt. 10:19, 20.</p> <p>[*] The principal proofs of the divine authority of the Holy Scriptures and of the Christian religion are: <ol> <li>Miracles: Mark 16:15-20; Heb. 2:3, 4; John 10:37-38; 3:2;</li> <li>Prophecy, Is. 41:22-27; 34:16;</li> <li>The witness of the Holy Spirit in the heart, John 7:17; 1 John 5:6; Heb. 4:12-13.</li> </ol> </p>"
                     },
                     {
-                        "question":"6. Which are those six chief parts of Christian doctrine?",
-                        "answer":"<ol> <li>The holy Ten Commandments;</li> <li>The Three Articles of the holy Christian Faith;</li> <li>The Lord’s Prayer,</li> <li>The Sacrament of Holy Baptism;</li> <li>The Office of the Keys;</li> <li>The Sacrament of the Altar.</li> </ol>"
+                        "question": "6. Which are those six chief parts of Christian doctrine?",
+                        "answer": "<ol> <li>The holy Ten Commandments;</li> <li>The Three Articles of the holy Christian Faith;</li> <li>The Lord’s Prayer,</li> <li>The Sacrament of Holy Baptism;</li> <li>The Office of the Keys;</li> <li>The Sacrament of the Altar.</li> </ol>"
                     },
                     {
-                        "question":"7. What, in general, is the right use and benefit of all these chief parts?",
-                        "answer":"<ol> <li>That we may know ourselves, and how we stand in the sight of the Lord our God;</li> <li>That we may know the Lord our God, and how we may be reconciled to Him and united with Him.</li> </ol> <p>John 5:39. Search the Scriptures; for in them ye think ye have eternal life: and they are they which testify of me.</p> <p>Luke 11:28 Blessed are they that hear the word of God and keep it. Jam. 1:22-24.</p>"
+                        "question": "7. What, in general, is the right use and benefit of all these chief parts?",
+                        "answer": "<ol> <li>That we may know ourselves, and how we stand in the sight of the Lord our God;</li> <li>That we may know the Lord our God, and how we may be reconciled to Him and united with Him.</li> </ol> <p>John 5:39. Search the Scriptures; for in them ye think ye have eternal life: and they are they which testify of me.</p> <p>Luke 11:28 Blessed are they that hear the word of God and keep it. Jam. 1:22-24.</p>"
                     }
                 ]
             }
         ],
-
-        "tencommandments":[
+        "tencommandments": [
             {
-                "type":"qna",
-                "heading":"Part 1. The Holy Ten Commandments.",
-                "content":[
+                "type": "qna",
+                "heading": "Part 1. The Holy Ten Commandments.",
+                "content": [
                     {
-                        "question":"8. What forms the first part of the Catechism?",
-                        "answer":"The holy Ten Commandments."
-                    }, 
-                    {
-                        "question":"9. What are the holy Ten Commandments?",
-                        "answer":"<p>They are the solemn repetition and explanation of the divine law, which was implanted in the hearts of men at the creation; which repetition and explanation was written on tables of stone by God Himself on mount Sinai, and was proclaimed by Moses.</p><p>Rom. 2:14-15. For when the Gentiles, which have not the law, do by nature the things contained in the law, these having not the law, are a law unto themselves. Which shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the meanwhile accusing, or else excusing one another.</p><p>Ex. 19:1-20:20. Comp. Acts 7:53.</p>"
+                        "question": "8. What forms the first part of the Catechism?",
+                        "answer": "The holy Ten Commandments."
                     },
                     {
-                        "question":"10. How are the holy Ten Commandments divided?",
-                        "answer":"<p>Into two parts, called the two tables.</p><p>Ex. 31:18; 32:15-16; Deut. 4:13; 10:1-4.</p>"
+                        "question": "9. What are the holy Ten Commandments?",
+                        "answer": "<p>They are the solemn repetition and explanation of the divine law, which was implanted in the hearts of men at the creation; which repetition and explanation was written on tables of stone by God Himself on mount Sinai, and was proclaimed by Moses.</p><p>Rom. 2:14-15. For when the Gentiles, which have not the law, do by nature the things contained in the law, these having not the law, are a law unto themselves. Which shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the meanwhile accusing, or else excusing one another.</p><p>Ex. 19:1-20:20. Comp. Acts 7:53.</p>"
+                    },
+                    {
+                        "question": "10. How are the holy Ten Commandments divided?",
+                        "answer": "<p>Into two parts, called the two tables.</p><p>Ex. 31:18; 32:15-16; Deut. 4:13; 10:1-4.</p>"
                     }
                 ]
             },
             {
-                "type":"qna",
-                "heading":"Of The First Table Of The Holy Ten Commandments.",
-                "content":[
-
+                "type": "qna",
+                "heading": "Of The First Table Of The Holy Ten Commandments.",
+                "content": [
                     {
-                        "question":"11. Which is the first table?",
-                        "answer":"It is that which contains the commandments treating immediately of the service and love of God."
+                        "question": "11. Which is the first table?",
+                        "answer": "It is that which contains the commandments treating immediately of the service and love of God."
                     },
                     {
-                        "question":"12. What is the sum of this table?",
-                        "answer":"“Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.” Matt. 22:37."
+                        "question": "12. What is the sum of this table?",
+                        "answer": "“Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.” Matt. 22:37."
                     },
                     {
-                        "question":"13. How many commandments does the first table contain?", 
-                        "answer":"The first three."
+                        "question": "13. How many commandments does the first table contain?",
+                        "answer": "The first three."
                     }
                 ]
             }
         ]
     },
-    "sections":{
-        "ten-commandments-01":[
+    "sections": {
+        "ten-commandments-01": [
             {
-                "type":"qna",
-                "heading":"Of The First Commandment.",
-                "content":[
+                "type": "qna",
+                "heading": "Of The First Commandment.",
+                "content": [
                     {
-                        "question":"14. Which is the first commandment?",
-                        "answer":"<em>Thou shalt have no other gods before me.</em>"
+                        "question": "14. Which is the first commandment?",
+                        "answer": "<em>Thou shalt have no other gods before me.</em>"
                     },
                     {
-                        "question":"16. What does this mean?",
-                        "answer":"<em>We should fear, love, and trust in God above all things.</em>"
+                        "question": "16. What does this mean?",
+                        "answer": "<em>We should fear, love, and trust in God above all things.</em>"
                     },
                     {
-                        "question":"16. What do you understand by other gods?",
-                        "answer":"<p>Every thing which men devise in the place of God, and to which, in an ungodly manner, they ascribe the attributes, works and worship of the true God, as: </p> <ol> <li> <p>The idols of the heathen;</p> <p>1 Cor. 12:2. Ye know that ye were Gentiles, carried away unto these dumb idols, even as ye were led. Ps. 115</p> </li> <li> The pictures and graven images which are set up for adoration, Ex. 20:4-5; 32:1-5; </li> <li>The departed saints, so far as they are invoked, Is. 63:16; Rev. 19:10;</li> <li>The gifts of soul and body, the benefits which are enjoyed, and indeed every thing else, so far as men put their trust in it and make a boast of it, Col. 3:5; Eph. 5:5; Phil. 3:19; Job 31:24; Acts 12:21-23.</li> </ol>"
+                        "question": "16. What do you understand by other gods?",
+                        "answer": "<p>Every thing which men devise in the place of God, and to which, in an ungodly manner, they ascribe the attributes, works and worship of the true God, as: </p> <ol> <li> <p>The idols of the heathen;</p> <p>1 Cor. 12:2. Ye know that ye were Gentiles, carried away unto these dumb idols, even as ye were led. Ps. 115</p> </li> <li> The pictures and graven images which are set up for adoration, Ex. 20:4-5; 32:1-5; </li> <li>The departed saints, so far as they are invoked, Is. 63:16; Rev. 19:10;</li> <li>The gifts of soul and body, the benefits which are enjoyed, and indeed every thing else, so far as men put their trust in it and make a boast of it, Col. 3:5; Eph. 5:5; Phil. 3:19; Job 31:24; Acts 12:21-23.</li> </ol>"
                     },
                     {
-                        "question":"17. What is meant by having other gods?",
-                        "answer":"<p>It means having either no God, or many gods, or another beside the one true God who is revealed to us, acknowledging him as such, trusting in him, and praying and hoping for help and support from him, without true fear of the true God.</p> <p>Ps. 14:1. The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works.</p> <p>1 Cor. 3:4-6; 1 John 2:23; 2 John 9.</p> <p>Is. 42:8. I am the Lord; that is my name: and my glory will I not give to another, neither my praise to graven images.</p>"
+                        "question": "17. What is meant by having other gods?",
+                        "answer": "<p>It means having either no God, or many gods, or another beside the one true God who is revealed to us, acknowledging him as such, trusting in him, and praying and hoping for help and support from him, without true fear of the true God.</p> <p>Ps. 14:1. The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works.</p> <p>1 Cor. 3:4-6; 1 John 2:23; 2 John 9.</p> <p>Is. 42:8. I am the Lord; that is my name: and my glory will I not give to another, neither my praise to graven images.</p>"
                     },
                     {
-                        "question":"18. What is therefore forbidden in this commandment?",
-                        "answer":"<p>The practice of every kind of idolatry, image worship, superstition, invocation of saints or of other creatures, or in any manner putting our trust in them.</p> <p>Matt. 4:10. Thou shalt worship the Lord thy God, and Him only shalt thou serve.</p> <p>Matt. 10:28. Fear not them which kill the body, but are not able to kill the soul; but rather fear Him which is able to destroy both soul and body in hell.</p> <p>Matt. 10:37. He that loveth father or mother more than me, is not worthy of me: and he that loveth son or daughter more than me, is not worthy of me.</p> <p>Jer. 17:5. Cursed be the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the Lord.</p>"
+                        "question": "18. What is therefore forbidden in this commandment?",
+                        "answer": "<p>The practice of every kind of idolatry, image worship, superstition, invocation of saints or of other creatures, or in any manner putting our trust in them.</p> <p>Matt. 4:10. Thou shalt worship the Lord thy God, and Him only shalt thou serve.</p> <p>Matt. 10:28. Fear not them which kill the body, but are not able to kill the soul; but rather fear Him which is able to destroy both soul and body in hell.</p> <p>Matt. 10:37. He that loveth father or mother more than me, is not worthy of me: and he that loveth son or daughter more than me, is not worthy of me.</p> <p>Jer. 17:5. Cursed be the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the Lord.</p>"
                     },
                     {
-                        "question":"19. What, on the other hand, is commanded in it?",
-                        "answer":"<p>That we should have the one true God only, know Him according to His revealed Word, fear Him above all things, love Him with all our heart, trust in Him alone, submit ourselves in true humility and patience to Him, and look to Him alone for every blessing.</p> <p>John 17:3. This is life eternal, that they might know Thee the only true God, and Jesus Christ whom Thou hast sent. Jer. 9:23-24.</p> <p>Ps. 33:8. Let all the earth fear the Lord: let all the inhabitants of the world stand in awe of Him.</p> <p>Gen. 39:9. How then can I do this great wickedness, and sin against God?</p> <p>Ps. 73:25-26. Whom have I in heaven but Thee? and there is none upon earth that I desire besides Thee. My flesh and my heart faileth; but God is the strength of my heart, and my portion forever. 1 John 2:14-17.</p> <p>Prov. 3:5. Trust in the Lord with all thine heart; and lean not unto thine own understanding.</p> <p>Ps. 118:8-9. It is better to trust in the Lord than to put confidence in man; it is better to trust in the Lord than to put confidence in princes.</p> <p>Ps. 42:11. Why art thou cast down, O my soul? and why art thou disquieted within me? Hope thou in God; for I shall yet praise Him, who is the health of my countenance and my God.</p>"
+                        "question": "19. What, on the other hand, is commanded in it?",
+                        "answer": "<p>That we should have the one true God only, know Him according to His revealed Word, fear Him above all things, love Him with all our heart, trust in Him alone, submit ourselves in true humility and patience to Him, and look to Him alone for every blessing.</p> <p>John 17:3. This is life eternal, that they might know Thee the only true God, and Jesus Christ whom Thou hast sent. Jer. 9:23-24.</p> <p>Ps. 33:8. Let all the earth fear the Lord: let all the inhabitants of the world stand in awe of Him.</p> <p>Gen. 39:9. How then can I do this great wickedness, and sin against God?</p> <p>Ps. 73:25-26. Whom have I in heaven but Thee? and there is none upon earth that I desire besides Thee. My flesh and my heart faileth; but God is the strength of my heart, and my portion forever. 1 John 2:14-17.</p> <p>Prov. 3:5. Trust in the Lord with all thine heart; and lean not unto thine own understanding.</p> <p>Ps. 118:8-9. It is better to trust in the Lord than to put confidence in man; it is better to trust in the Lord than to put confidence in princes.</p> <p>Ps. 42:11. Why art thou cast down, O my soul? and why art thou disquieted within me? Hope thou in God; for I shall yet praise Him, who is the health of my countenance and my God.</p>"
                     },
                     {
-                        "question":"20. Why does Luther introduce the explanation of each commandment with the words: “We should fear and love God”?",
-                        "answer":"He would show the source whence all the works required in the holy Ten Commandments flow, which is the fear and love of God; for if these do not proceed from child-like fear and true love to God, they are hypocritical works and can not truly please Him. 1 Tim. 1:5."
+                        "question": "20. Why does Luther introduce the explanation of each commandment with the words: “We should fear and love God”?",
+                        "answer": "He would show the source whence all the works required in the holy Ten Commandments flow, which is the fear and love of God; for if these do not proceed from child-like fear and true love to God, they are hypocritical works and can not truly please Him. 1 Tim. 1:5."
                     },
                     {
-                        "question":"21. But why is it that you do not recite all the words of the holy Ten Commandments, just as God inscribed them upon the tables of stone, and Moses by This command proclaimed them",
-                        "answer":"<p>This is not necessary. <ol> <li>Because several things are contained in the Ten Commandments which are not obligatory upon mankind in general, but pertain only to the Jews and the Mosaic polity;</li> <li>Because several things are identical in sense, and we therefore need not repeat them precisely word for word.</li> </ol> </p>"
+                        "question": "21. But why is it that you do not recite all the words of the holy Ten Commandments, just as God inscribed them upon the tables of stone, and Moses by This command proclaimed them",
+                        "answer": "<p>This is not necessary. <ol> <li>Because several things are contained in the Ten Commandments which are not obligatory upon mankind in general, but pertain only to the Jews and the Mosaic polity;</li> <li>Because several things are identical in sense, and we therefore need not repeat them precisely word for word.</li> </ol> </p>"
                     },
                     {
-                        "question":"22. What are these things?",
-                        "answer":"<p>In the first Commandment they are these words:</p> <p>“I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage.” Ex. 20:2.</p> <p> “Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: thou shalt not bow down thyself to them, nor serve them.” Ex. 20:4-5.</p>"
+                        "question": "22. What are these things?",
+                        "answer": "<p>In the first Commandment they are these words:</p> <p>“I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage.” Ex. 20:2.</p> <p> “Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: thou shalt not bow down thyself to them, nor serve them.” Ex. 20:4-5.</p>"
                     },
                     {
-                        "question":"23. Why is this omitted?",
-                        "answer":"<ol> <li>Because the bringing forth out of Egypt was a temporal blessing which pertained alone to the Jews, and therefore does not now concern Christians;</li> <li>Because the commandment forbidding the worship and adoration of images is, in general, included in the words: “Thou shalt have no other gods before me.”</li> </ol>"
+                        "question": "23. Why is this omitted?",
+                        "answer": "<ol> <li>Because the bringing forth out of Egypt was a temporal blessing which pertained alone to the Jews, and therefore does not now concern Christians;</li> <li>Because the commandment forbidding the worship and adoration of images is, in general, included in the words: “Thou shalt have no other gods before me.”</li> </ol>"
                     },
                     {
-                        "question":"24. But should not the respecting images form a separate commandment, and be numbered as the second?",
-                        "answer":"Which is the first, or which is the second or third commandment, neither God nor Moses has indicated; we know only that there are ten commandments."
+                        "question": "24. But should not the respecting images form a separate commandment, and be numbered as the second?",
+                        "answer": "Which is the first, or which is the second or third commandment, neither God nor Moses has indicated; we know only that there are ten commandments."
                     },
                     {
-                        "question":"25. How, then, is the precept respecting images to be regarded?",
-                        "answer":"It is an appendix to the first commandment, or an explanation of it, containing a particular example to illustrate it."
+                        "question": "25. How, then, is the precept respecting images to be regarded?",
+                        "answer": "It is an appendix to the first commandment, or an explanation of it, containing a particular example to illustrate it."
                     },
                     {
-                        "question":"26. How do you prove this?",
-                        "answer":"Other gods in general, whether strictly or figuratively so called, are forbidden in the first commandment; but, according to the testimony of Scripture, graven images and pictures, which are made and used for purposes of worship, are other gods: therefore they are forbidden in the first commandment."
+                        "question": "26. How do you prove this?",
+                        "answer": "Other gods in general, whether strictly or figuratively so called, are forbidden in the first commandment; but, according to the testimony of Scripture, graven images and pictures, which are made and used for purposes of worship, are other gods: therefore they are forbidden in the first commandment."
                     },
                     {
-                        "question":"27. But could not the commandments, with a conscience, be recited fully in the very words which Moses used?",
-                        "answer":"<p>Certainly; but in the whole New Testament we nowhere find them thus repeated, and we therefore justly follow the apostolic practice.</p> <p>Eph. 6:3. Comp. Ex. 20:12.</p>"
+                        "question": "27. But could not the commandments, with a conscience, be recited fully in the very words which Moses used?",
+                        "answer": "<p>Certainly; but in the whole New Testament we nowhere find them thus repeated, and we therefore justly follow the apostolic practice.</p> <p>Eph. 6:3. Comp. Ex. 20:12.</p>"
                     },
                     {
-                        "question":"28. May not pictures and graven images be tolerated with a good conscience?",
-                        "answer":"<p>If they are exhibited for the purpose of worship, of adoration and of superstition, they should be abolished; but if this is not the case, and if they contain nothing scandalous or indicative of levity, they may be used: 1. as salutary memorials; 2. as helps to edification; 3. as means of teaching history; 4. as aids to memory; and 5. as ornaments.</p> <p>Lev. 26:1; 2 Kin. 18:4. Comp. Num. 21:8, 1 Sam, 7:12; 1 Kin. 6:23; 7:29; Matt. 22:20; Acts 28:11.</p>"
+                        "question": "28. May not pictures and graven images be tolerated with a good conscience?",
+                        "answer": "<p>If they are exhibited for the purpose of worship, of adoration and of superstition, they should be abolished; but if this is not the case, and if they contain nothing scandalous or indicative of levity, they may be used: 1. as salutary memorials; 2. as helps to edification; 3. as means of teaching history; 4. as aids to memory; and 5. as ornaments.</p> <p>Lev. 26:1; 2 Kin. 18:4. Comp. Num. 21:8, 1 Sam, 7:12; 1 Kin. 6:23; 7:29; Matt. 22:20; Acts 28:11.</p>"
                     }
                 ]
             }
         ],
-        "ten-commandments-02":[
+        "ten-commandments-02": [
             {
-                "type":"qna",
-                "heading":"Of The Second Commandment.",
-                "content":[
+                "type": "qna",
+                "heading": "Of The Second Commandment.",
+                "content": [
                     {
-                        "question":"29. Which is the second commandment?",
+                        "question": "29. Which is the second commandment?",
                         "answer": "Thou shalt not take the name of the Lord thy God in vain."
                     },
                     {
-                        "question":"30. What does this mean?",
-                        "answer":"We should fear and love God, that we may not curse, swear, use witchcraft, lie or deceive by His name; but call upon it in every trouble, pray, praise, and give thanks."
+                        "question": "30. What does this mean?",
+                        "answer": "We should fear and love God, that we may not curse, swear, use witchcraft, lie or deceive by His name; but call upon it in every trouble, pray, praise, and give thanks."
                     },
                     {
-                        "question":"31. What is meant by the name of God?",
-                        "answer":"<ol> <li>God Himself, Ex. 3:13-15;</li> <li>God’s attributes, Ex. 34:5-7;</li> <li>God’s will or command, Deut. 18:19;</li> <li>Every thing that is revealed in Scripture concerning God, and that serves to promote the knowledge, worship, glory, praise and confession of God, Ps. 48:10; Mich. 4:5; Acts 21:13.</li> </ol>"
+                        "question": "31. What is meant by the name of God?",
+                        "answer": "<ol> <li>God Himself, Ex. 3:13-15;</li> <li>God’s attributes, Ex. 34:5-7;</li> <li>God’s will or command, Deut. 18:19;</li> <li>Every thing that is revealed in Scripture concerning God, and that serves to promote the knowledge, worship, glory, praise and confession of God, Ps. 48:10; Mich. 4:5; Acts 21:13.</li> </ol>"
                     },
                     {
-                        "question":"32. What is meant by taking His name in vain?",
-                        "answer":"<p>It is using the name of God either thoughtlessly, unprofitably and triflingly, or falsely, and blasphemously.</p> <p>Eph. 4:29. Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.</p> <p>Gal. 6:7. Be not deceived; God is not mocked, Matt. 27:46-47; Dan. 5:2-4. (2 Macc. 4:17.)</p>"
+                        "question": "32. What is meant by taking His name in vain?",
+                        "answer": "<p>It is using the name of God either thoughtlessly, unprofitably and triflingly, or falsely, and blasphemously.</p> <p>Eph. 4:29. Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.</p> <p>Gal. 6:7. Be not deceived; God is not mocked, Matt. 27:46-47; Dan. 5:2-4. (2 Macc. 4:17.)</p>"
                     },
                     {
-                        "question":"33. What is therefore forbidden in this commandment?",
-                        "answer":"All cursing, swearing, using witchcraft, lying, or deceiving by the name of God."
+                        "question": "33. What is therefore forbidden in this commandment?",
+                        "answer": "All cursing, swearing, using witchcraft, lying, or deceiving by the name of God."
                     },
                     {
-                        "question":"34. What is cursing by the name of God?",
-                        "answer":"<p>It is either blaspheming God, or wishing evil to ourselves or our neighbors by the holy name of God</p> <p>Jam. 3:9-10. By the tongue bless we God, even the Father; and therewith curse we men, which are made after the similitude of God. Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not to to be.</p> <p>Rom. 12:14; Matt. 26:74; 2 Sam, 16:13; Lev. 24:10-23.</p>"
+                        "question": "34. What is cursing by the name of God?",
+                        "answer": "<p>It is either blaspheming God, or wishing evil to ourselves or our neighbors by the holy name of God</p> <p>Jam. 3:9-10. By the tongue bless we God, even the Father; and therewith curse we men, which are made after the similitude of God. Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not to to be.</p> <p>Rom. 12:14; Matt. 26:74; 2 Sam, 16:13; Lev. 24:10-23.</p>"
                     },
                     {
-                        "question":"35. What is swearing by the name of God?",
-                        "answer":"It is calling upon God to witness the truth and to avenge untruth. 2 Cor. 1:23."
+                        "question": "35. What is swearing by the name of God?",
+                        "answer": "It is calling upon God to witness the truth and to avenge untruth. 2 Cor. 1:23."
                     },
                     {
-                        "question":"36. Is swearing in all cases forbidden?",
-                        "answer":"<p> No; every Christian, to accredit himself and to attest the truth, may and should swear when <ol> <li>The honor of God demands it;</li> <li>The welfare of our neighbor makes it necessary;</li> <li>The government commands it;</li> <li>The exigencies of his office or calling require it.</li> </ol> </p>"
+                        "question": "36. Is swearing in all cases forbidden?",
+                        "answer": "<p> No; every Christian, to accredit himself and to attest the truth, may and should swear when <ol> <li>The honor of God demands it;</li> <li>The welfare of our neighbor makes it necessary;</li> <li>The government commands it;</li> <li>The exigencies of his office or calling require it.</li> </ol> </p>"
                     },
                     {
-                        "question":"37. Why do you maintain this?",
-                        "answer":"<ol> <li>Because the Scriptures teach that there is swearing which is lawful. Jer. 4:2; Deut. 6:13;</li> <li>Because the saints of the Old Testament, Abraham, Moses, David, etc., used the oath, Gen. 14:22-23; 24:3-9; Jos. 14:9; 2 Sam. 21:7;</li> <li>Because Christ and the Apostles in the New Testament did the same, John 16:20; Matt. 26:63-64; 2 Cor. 11:31; Rom. 9:1;</li> <li> Because swearing for the confirmation of the truthfulness of witnesses and of the truth which is witnessed, was introduced for the welfare of the Church and of the community, that there might be an end of all strife. Heb. 6:16. “For men verily swear by the greater: and an oath for confirmation is to them an end of all strife.”</li> </ol>"
+                        "question": "37. Why do you maintain this?",
+                        "answer": "<ol> <li>Because the Scriptures teach that there is swearing which is lawful. Jer. 4:2; Deut. 6:13;</li> <li>Because the saints of the Old Testament, Abraham, Moses, David, etc., used the oath, Gen. 14:22-23; 24:3-9; Jos. 14:9; 2 Sam. 21:7;</li> <li>Because Christ and the Apostles in the New Testament did the same, John 16:20; Matt. 26:63-64; 2 Cor. 11:31; Rom. 9:1;</li> <li> Because swearing for the confirmation of the truthfulness of witnesses and of the truth which is witnessed, was introduced for the welfare of the Church and of the community, that there might be an end of all strife. Heb. 6:16. “For men verily swear by the greater: and an oath for confirmation is to them an end of all strife.”</li> </ol>"
                     },
                     {
-                        "question":"38. What kind of swearing is forbidden?",
-                        "answer":"<p> That which is in conflict with the Word of God, and which consists in taking an oath in matters that are either false, or uncertain, or not allowable, or impossible, or trivial and vain. </p> <p>Matt. 5:33-37. Again, ye have heard that it hath been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths, But I say unto you, Swear not at all: neither by heaven: for it is God’s throne: nor by the earth; for it is his footstool: neither by Jerusalem; for it is the city of the great King: neither shalt thou swear by thy head, because thou canst not make one hair white or black, But let your communication be, Yea, yea; Nay, nay; for whatsoever is more than these cometh of evil, Matt: 26:72; Jos. 9:14-15; Acts 23:12; Matt. 14:7.</p> <p>1 Sam. 14:24-30 and 37-45. (This ungodly oath it was not allowed to keep.)</p>"
+                        "question": "38. What kind of swearing is forbidden?",
+                        "answer": "<p> That which is in conflict with the Word of God, and which consists in taking an oath in matters that are either false, or uncertain, or not allowable, or impossible, or trivial and vain. </p> <p>Matt. 5:33-37. Again, ye have heard that it hath been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths, But I say unto you, Swear not at all: neither by heaven: for it is God’s throne: nor by the earth; for it is his footstool: neither by Jerusalem; for it is the city of the great King: neither shalt thou swear by thy head, because thou canst not make one hair white or black, But let your communication be, Yea, yea; Nay, nay; for whatsoever is more than these cometh of evil, Matt: 26:72; Jos. 9:14-15; Acts 23:12; Matt. 14:7.</p> <p>1 Sam. 14:24-30 and 37-45. (This ungodly oath it was not allowed to keep.)</p>"
                     },
                     {
-                        "question":"39. What is using witchcraft?",
-                        "answer":"<p>It is not only, by the aid of the devil, to injure our neighbor in person or property, but also, by superstitious misuse of the name or Word of God, or by other means which in their nature cannot effect the end for which they are used, to cure diseases in men and animals, discover secrets, quench fires, render invulnerable, and the like.</p> <p>Deut. 18:10-12, There shall not be found among you anyone that maketh his son or his daughter to pass through the fire, or that useth divination, or an observer of times, or an enchanter, or a witch, or a charmer, or a consulter with familiar spirits, or a wizard, or a necromancer. For all that do these things are an abomination unto the Lord. Lev. 19:31; 1 Sam. 28:5-25; Is. 8:19-20; Acts 19:19; Tob. 6:9; Rev. 21:8; 22:15; Jer. 10:2.</p>"
+                        "question": "39. What is using witchcraft?",
+                        "answer": "<p>It is not only, by the aid of the devil, to injure our neighbor in person or property, but also, by superstitious misuse of the name or Word of God, or by other means which in their nature cannot effect the end for which they are used, to cure diseases in men and animals, discover secrets, quench fires, render invulnerable, and the like.</p> <p>Deut. 18:10-12, There shall not be found among you anyone that maketh his son or his daughter to pass through the fire, or that useth divination, or an observer of times, or an enchanter, or a witch, or a charmer, or a consulter with familiar spirits, or a wizard, or a necromancer. For all that do these things are an abomination unto the Lord. Lev. 19:31; 1 Sam. 28:5-25; Is. 8:19-20; Acts 19:19; Tob. 6:9; Rev. 21:8; 22:15; Jer. 10:2.</p>"
                     },
                     {
-                        "question":"40. What is lying or deceiving by the name of God?",
-                        "answer":"<p>It is either corrupting the Word of God by false interpretations, and representing false doctrines to be divine truth; or having the name of God upon our lips, but not in our hearts, or otherwise misusing it for purposes of falsehood or deception.</p> <p>Jer. 23:31-32, Behold, I am against the prophets, saith the Lord, that use their tongues and say, He saith. Behold, I am against them that prophesy false dreams, saith the Lord, and do tell them, and cause my people to err by their lies, and by their lightness, yet I sent them not, nor commanded them: therefore they shall not profit this people at all, saith the Lord, Ex. 13:18-19; Matt. 5:19; Rev. 22:18-19.</p> <p>Matt. 15:8 This people draweth nigh unto me with their mouth, and honoreth me with their lips; but their heart is far from me.</p> <p>Ps. 50:16-17. But unto the wicked God saith, What hast thou to do, to declare my statutes, or that thou shouldest take my covenant in thy mouth? Seeing thou hatest instruction, and castest my words behind thee.</p> <p>Matt. 7:21. Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.</p>"
+                        "question": "40. What is lying or deceiving by the name of God?",
+                        "answer": "<p>It is either corrupting the Word of God by false interpretations, and representing false doctrines to be divine truth; or having the name of God upon our lips, but not in our hearts, or otherwise misusing it for purposes of falsehood or deception.</p> <p>Jer. 23:31-32, Behold, I am against the prophets, saith the Lord, that use their tongues and say, He saith. Behold, I am against them that prophesy false dreams, saith the Lord, and do tell them, and cause my people to err by their lies, and by their lightness, yet I sent them not, nor commanded them: therefore they shall not profit this people at all, saith the Lord, Ex. 13:18-19; Matt. 5:19; Rev. 22:18-19.</p> <p>Matt. 15:8 This people draweth nigh unto me with their mouth, and honoreth me with their lips; but their heart is far from me.</p> <p>Ps. 50:16-17. But unto the wicked God saith, What hast thou to do, to declare my statutes, or that thou shouldest take my covenant in thy mouth? Seeing thou hatest instruction, and castest my words behind thee.</p> <p>Matt. 7:21. Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.</p>"
                     },
                     {
-                        "question":"41. But what is enjoined upon us in this commandment?",
-                        "answer":"<p>That we should always use the name of God devoutly, piously and reverently, and call upon it in every trouble, pray, praise, and give thanks.</p> <p> Matt. 6:9. Hallowed be Thy name.</p> <p>Ps. 50:15, Call upon me in the day of trouble; I will deliver thee, and thou shalt glorify me.</p> <p>1 Thess. 5:17, Pray without ceasing.</p> <p>Col. 3:16. Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in pour hearts to the Lord.</p> <p>Ps. 50:14. Offer unto God thanksgiving; and pay thy vows unto the Most High. Ps. 103:1-2; 106:1.</p>"
+                        "question": "41. But what is enjoined upon us in this commandment?",
+                        "answer": "<p>That we should always use the name of God devoutly, piously and reverently, and call upon it in every trouble, pray, praise, and give thanks.</p> <p> Matt. 6:9. Hallowed be Thy name.</p> <p>Ps. 50:15, Call upon me in the day of trouble; I will deliver thee, and thou shalt glorify me.</p> <p>1 Thess. 5:17, Pray without ceasing.</p> <p>Col. 3:16. Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in pour hearts to the Lord.</p> <p>Ps. 50:14. Offer unto God thanksgiving; and pay thy vows unto the Most High. Ps. 103:1-2; 106:1.</p>"
                     },
                     {
-                        "question":"42. What is the particular threat directed against the transgressors of this commandment?",
-                        "answer":"“The Lord will not hold him guiltless that taketh His name in vain.” Ex. 20:7; Deut. 5:11. “I will be a swift witness against the sorcerers, and against the adulterers, and against false swearers.” Mal. 3:5; Ex. 17:11-20."
+                        "question": "42. What is the particular threat directed against the transgressors of this commandment?",
+                        "answer": "“The Lord will not hold him guiltless that taketh His name in vain.” Ex. 20:7; Deut. 5:11. “I will be a swift witness against the sorcerers, and against the adulterers, and against false swearers.” Mal. 3:5; Ex. 17:11-20."
                     }
                 ]
             }
         ],
-        "ten-commandments-03":[
+        "ten-commandments-03": [
             {
-                "type":"qna",
-                "heading":"Of The Third Commandment.",
-                "content":[
+                "type": "qna",
+                "heading": "Of The Third Commandment.",
+                "content": [
                     {
-                        "question":"43. Which is the third commandment?",
-                        "answer":"Thou shalt sanctify the holy day."
+                        "question": "43. Which is the third commandment?",
+                        "answer": "Thou shalt sanctify the holy day."
                     },
                     {
-                        "question":"44. What does this mean?",
-                        "answer":"We should fear and love God, that we may not despise preaching and His word; but hold it sacred, and gladly hear and learn it."
+                        "question": "44. What does this mean?",
+                        "answer": "We should fear and love God, that we may not despise preaching and His word; but hold it sacred, and gladly hear and learn it."
                     },
                     {
-                        "question":"45. Why is it that, in this commandment, also you do not rehearse the words exactly as they are found in Ex. 20:8-11?",
-                        "answer":"<p>Because some of them refer merely to the Jewish sanctification of the Sabbath, and therefore belong to the ceremonies and types which concern only the Jews, not the Christians in the New Testament.</p> <p>Matt 12:8 The Son of Man is Lord even of the Sabbath day.</p> <p>Col. 2:16-17. Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new-moon, or of the sabbath-days: which are a shadow of things to come; but the body is of Christ, Gal. 4:9-11.</p> <p>Deut. 5:15; Ex. 16:23, 29; 35:3; Jer. 17:21-27.</p>"
+                        "question": "45. Why is it that, in this commandment, also you do not rehearse the words exactly as they are found in Ex. 20:8-11?",
+                        "answer": "<p>Because some of them refer merely to the Jewish sanctification of the Sabbath, and therefore belong to the ceremonies and types which concern only the Jews, not the Christians in the New Testament.</p> <p>Matt 12:8 The Son of Man is Lord even of the Sabbath day.</p> <p>Col. 2:16-17. Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new-moon, or of the sabbath-days: which are a shadow of things to come; but the body is of Christ, Gal. 4:9-11.</p> <p>Deut. 5:15; Ex. 16:23, 29; 35:3; Jer. 17:21-27.</p>"
                     },
                     {
-                        "question":"46. What is meant by Sabbath or holy-day?",
-                        "answer":"Sabbath means ceasing from labor, or rest, and is so called because it was the seventh day of the week, on which the Lord rested, after having in six days made heaven and earth. Gen. 2:2-3."
+                        "question": "46. What is meant by Sabbath or holy-day?",
+                        "answer": "Sabbath means ceasing from labor, or rest, and is so called because it was the seventh day of the week, on which the Lord rested, after having in six days made heaven and earth. Gen. 2:2-3."
                     },
                     {
-                        "question":"47. Is it therefore necessary that the seventh day should be appointed as the day of rest?",
-                        "answer":"<p> Christians are at liberty to appoint any day for worship; but because the Apostles and other Christians of their times, for the purpose of separating themselves from the Jewish Church, appointed the Lord’s day, for public worship, and transferred to it all the honors of the Jewish Sabbath, it is meet that we should observe it also. </p> <p>Rom. 14:5-6. One man esteemeth one day above another; another esteemeth every day alike. Let every man be fully persuaded in his own mind, He that regardeth the day, regardeth it unto the Lord: and he that regardeth not the day, to the Lord he doth not regard it. He that eateth, eateth to the Lord, for he giveth God thanks; and he that eateth not, to the Lord he eateth not, and giveth God thanks.</p> <p>1 Cor. 16:2; Acts 20:7; Rev. 1:10.</p>"
+                        "question": "47. Is it therefore necessary that the seventh day should be appointed as the day of rest?",
+                        "answer": "<p> Christians are at liberty to appoint any day for worship; but because the Apostles and other Christians of their times, for the purpose of separating themselves from the Jewish Church, appointed the Lord’s day, for public worship, and transferred to it all the honors of the Jewish Sabbath, it is meet that we should observe it also. </p> <p>Rom. 14:5-6. One man esteemeth one day above another; another esteemeth every day alike. Let every man be fully persuaded in his own mind, He that regardeth the day, regardeth it unto the Lord: and he that regardeth not the day, to the Lord he doth not regard it. He that eateth, eateth to the Lord, for he giveth God thanks; and he that eateth not, to the Lord he eateth not, and giveth God thanks.</p> <p>1 Cor. 16:2; Acts 20:7; Rev. 1:10.</p>"
                     },
                     {
-                        "question":"48. Why was this day chosen?",
-                        "answer":"Because on this day our Lord Jesus Christ arose from the dead, and introduced the spiritual Sabbath by His resurrection. Mark 16:2; Acts 2:1."
+                        "question": "48. Why was this day chosen?",
+                        "answer": "Because on this day our Lord Jesus Christ arose from the dead, and introduced the spiritual Sabbath by His resurrection. Mark 16:2; Acts 2:1."
                     },
                     {
-                        "question":"49. But is it allowable to celebrate annually other festivals, as of the Lord, of the Apostles and other saints, besides the Lord’s day?",
-                        "answer":"Certainly this may be done, in the exercise of Christian liberty, if it only be done without superstition, and without the vain fancy that this is doing God service. Gal. 5:1."
+                        "question": "49. But is it allowable to celebrate annually other festivals, as of the Lord, of the Apostles and other saints, besides the Lord’s day?",
+                        "answer": "Certainly this may be done, in the exercise of Christian liberty, if it only be done without superstition, and without the vain fancy that this is doing God service. Gal. 5:1."
                     },
                     {
-                        "question":"50. Why therefore are the festivals of our Lord, as that of His birth, circumcision, resurrection, ascension, and of the mission of the Holy Ghost, etc., solemnly celebrated?",
-                        "answer":"<ol> <li>That the sacred history may be learned in regular order;</li> <li>That the great blessings which come to us through these events may be particularly considered, Acts 2:11.</li> <li>That we may give due thanks to God especially for these benefits, and apply them to His glory and to our salvation, Ps. 77:12-13; 26:6-7.</li> </ol>"
+                        "question": "50. Why therefore are the festivals of our Lord, as that of His birth, circumcision, resurrection, ascension, and of the mission of the Holy Ghost, etc., solemnly celebrated?",
+                        "answer": "<ol> <li>That the sacred history may be learned in regular order;</li> <li>That the great blessings which come to us through these events may be particularly considered, Acts 2:11.</li> <li>That we may give due thanks to God especially for these benefits, and apply them to His glory and to our salvation, Ps. 77:12-13; 26:6-7.</li> </ol>"
                     },
                     {
-                        "question":"51. Why are the festivals of the Apostles and other saints celebrated?",
-                        "answer":"<ol> <li>Because of the seemly order which should be observed in the Church; 1 Cor. 14:40, Let all things be done decently and in order.</li> <li>In annual commemoration of the history and of the great benefits conferred upon the Church of Christ through the saints, which it is proper that Christians should gratefully remember;</li> <li>For the sake of the example, that we may piously imitate the life, faith, confession, steadfastness, patience, and other virtues of the saints.</li> </ol> <p>Heb. 13:7. Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of their conversation.</p> <p>Phil. 3:17, Brethren, be followers together of me, and mark them which walk so as ye have us for an ensample.</p> <p>Heb. 11 </p>"
+                        "question": "51. Why are the festivals of the Apostles and other saints celebrated?",
+                        "answer": "<ol> <li>Because of the seemly order which should be observed in the Church; 1 Cor. 14:40, Let all things be done decently and in order.</li> <li>In annual commemoration of the history and of the great benefits conferred upon the Church of Christ through the saints, which it is proper that Christians should gratefully remember;</li> <li>For the sake of the example, that we may piously imitate the life, faith, confession, steadfastness, patience, and other virtues of the saints.</li> </ol> <p>Heb. 13:7. Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of their conversation.</p> <p>Phil. 3:17, Brethren, be followers together of me, and mark them which walk so as ye have us for an ensample.</p> <p>Heb. 11 </p>"
                     },
                     {
-                        "question":"52. What is meant by sanctifying the holy day?",
-                        "answer":"<p>It means, in general, to devote the day to holy worship and to the performance of holy works.</p> <p>1 Tim. 4:4-5, For every creature of God is good, and nothing to be refused, if it be received with thanksgiving; for it is sanctified by the word of God, and prayer.</p> <p>John 17:17.</p>"
+                        "question": "52. What is meant by sanctifying the holy day?",
+                        "answer": "<p>It means, in general, to devote the day to holy worship and to the performance of holy works.</p> <p>1 Tim. 4:4-5, For every creature of God is good, and nothing to be refused, if it be received with thanksgiving; for it is sanctified by the word of God, and prayer.</p> <p>John 17:17.</p>"
                     },
                     {
-                        "question":"53. What then is enjoined in this commandment?",
-                        "answer":"<p>That we should hold the Word of God sacred, willingly hear it in the assembly for worship, meditate upon it and learn it, and use the holy sacraments according to their divine institution; and further, that we should engage in prayer and thanksgiving, and in other exercises of piety and Christian love, by which the holy day is properly and truly sanctified.</p> <p>Is. 66:2, To this man will I look, even to him that is poor and of a contrite spirit, and that trembleth at my word.</p> <p>Eccl. 5:1. Keep thy foot when thou goest to the house of God, and be more ready to hear than to give the sacrifice of fools; for they consider not that they do evil. </p> <p>Ps. 26:6-8. So will I compass thine altar, O Lord: that I may publish with the voice of thanksgiving, and tell of all thy wondrous works, Lord, I have loved the habitation of thy house, and the place where Thine honor dwelleth.</p> <p>1 Thess, 2:13. When ye received the word of God which ye heard of us, ye received it not as the word of men, but (as it is in truth) the word of God, which effectually worketh also in you that believe. Jas. 1:21; Luke 11:28; Jas. 1:22; Ps. 119:72.</p> <p>1 Cor. 11:20; Acts 20:7.</p> <p>1 Tim. 2:1-3; 1 Cor. 14:26.</p> <p>Gal. 6:6, Let him that is taught in the word, communicate unto him that teacheth in all good things.</p> <p>James 1:27, Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world. 1 Cor. 16:1, 2; Luke 13:10-17; Luke 14:1-6; Matt. 12:1-13.</p>"
+                        "question": "53. What then is enjoined in this commandment?",
+                        "answer": "<p>That we should hold the Word of God sacred, willingly hear it in the assembly for worship, meditate upon it and learn it, and use the holy sacraments according to their divine institution; and further, that we should engage in prayer and thanksgiving, and in other exercises of piety and Christian love, by which the holy day is properly and truly sanctified.</p> <p>Is. 66:2, To this man will I look, even to him that is poor and of a contrite spirit, and that trembleth at my word.</p> <p>Eccl. 5:1. Keep thy foot when thou goest to the house of God, and be more ready to hear than to give the sacrifice of fools; for they consider not that they do evil. </p> <p>Ps. 26:6-8. So will I compass thine altar, O Lord: that I may publish with the voice of thanksgiving, and tell of all thy wondrous works, Lord, I have loved the habitation of thy house, and the place where Thine honor dwelleth.</p> <p>1 Thess, 2:13. When ye received the word of God which ye heard of us, ye received it not as the word of men, but (as it is in truth) the word of God, which effectually worketh also in you that believe. Jas. 1:21; Luke 11:28; Jas. 1:22; Ps. 119:72.</p> <p>1 Cor. 11:20; Acts 20:7.</p> <p>1 Tim. 2:1-3; 1 Cor. 14:26.</p> <p>Gal. 6:6, Let him that is taught in the word, communicate unto him that teacheth in all good things.</p> <p>James 1:27, Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world. 1 Cor. 16:1, 2; Luke 13:10-17; Luke 14:1-6; Matt. 12:1-13.</p>"
                     },
                     {
-                        "question":"54. But what is forbidden in this commandment?",
-                        "answer":"<p>Despising public preaching and the Word of God, neglecting the sacraments, performing ordinary daily labor, or engaging in other works which are ungodly and belong to the vanity of the world, and by which the holy day is desecrated.</p><p> Hos. 4:6. Because thou hast rejected knowledge, I will also reject thee.</p> <p>Luke 10:16, He that heareth you, heareth me; and he that despiseth you despiseth me; and he that despiseth me, despiseth Him that sent me.</p> <p>John 8:47, He that is of God, heareth God’s words: ye therefore hear them not, because ye are not of God.</p> <p>Heb. 10:25, Not forsaking the assembling of ourselves together as the manner of some is. Luke 7:30.</p> <p>1 Pet. 4:4. Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you. Comp. v.3. Num. 15:32-36.</p>"
+                        "question": "54. But what is forbidden in this commandment?",
+                        "answer": "<p>Despising public preaching and the Word of God, neglecting the sacraments, performing ordinary daily labor, or engaging in other works which are ungodly and belong to the vanity of the world, and by which the holy day is desecrated.</p><p> Hos. 4:6. Because thou hast rejected knowledge, I will also reject thee.</p> <p>Luke 10:16, He that heareth you, heareth me; and he that despiseth you despiseth me; and he that despiseth me, despiseth Him that sent me.</p> <p>John 8:47, He that is of God, heareth God’s words: ye therefore hear them not, because ye are not of God.</p> <p>Heb. 10:25, Not forsaking the assembling of ourselves together as the manner of some is. Luke 7:30.</p> <p>1 Pet. 4:4. Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you. Comp. v.3. Num. 15:32-36.</p>"
                     },
                     {
-                        "question":"55. What is the particular threat and penalty annexed to this commandment?",
-                        "answer":"“Ye shall keep the Sabbath therefore, for it is holy unto you: every one that defileth it shall surely be put to death.” Ex. 31:14."
+                        "question": "55. What is the particular threat and penalty annexed to this commandment?",
+                        "answer": "“Ye shall keep the Sabbath therefore, for it is holy unto you: every one that defileth it shall surely be put to death.” Ex. 31:14."
                     }
                 ]
             }
         ],
-        "ten-commandments-04":[
+        "ten-commandments-04": [
             {
-                "type":"qna",
-                "heading":"Of The Second Table Of The Holy Ten Commandments",
-                "content":[
+                "type": "qna",
+                "heading": "Of The Second Table Of The Holy Ten Commandments",
+                "content": [
                     {
-                        "question":"56. Of what does the second table of the commandments treat?",
-                        "answer":"Of love to our neighbor."
+                        "question": "56. Of what does the second table of the commandments treat?",
+                        "answer": "Of love to our neighbor."
                     },
                     {
-                        "question":"57. What is the sum of this table?",
-                        "answer":"“Thou shalt love thy neighbor as thyself.” Matt. 22:39. And: “All things whatsoever ye would that men should do to you, do ye even so to them.” Matt. 7:12."
+                        "question": "57. What is the sum of this table?",
+                        "answer": "“Thou shalt love thy neighbor as thyself.” Matt. 22:39. And: “All things whatsoever ye would that men should do to you, do ye even so to them.” Matt. 7:12."
                     },
                     {
-                        "question":"58. Who is our neighbor?",
-                        "answer":"<p>All men in general who need our counsel, help or assistance, whether they be friends or foes, acquaintances or strangers, poor or rich, or whoever they may be.</p><p>Matt. 5:44-48. I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you; that ye may be the children of your Father which is in heaven: for He maketh His sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust, For if ye love them which love you, what reward have ye? do not even the publicans the same? And if ye salute your brethren only, what do ye more than others? do not even the publicans so? Be ye therefore perfect, even as your Father which is in heaven is perfect. Luke 10:25-37. (1 Tim. 5:8; Gal. 6:10, Mark the distinction!)</p>"
+                        "question": "58. Who is our neighbor?",
+                        "answer": "<p>All men in general who need our counsel, help or assistance, whether they be friends or foes, acquaintances or strangers, poor or rich, or whoever they may be.</p><p>Matt. 5:44-48. I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you; that ye may be the children of your Father which is in heaven: for He maketh His sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust, For if ye love them which love you, what reward have ye? do not even the publicans the same? And if ye salute your brethren only, what do ye more than others? do not even the publicans so? Be ye therefore perfect, even as your Father which is in heaven is perfect. Luke 10:25-37. (1 Tim. 5:8; Gal. 6:10, Mark the distinction!)</p>"
                     },
                     {
-                        "question":"59. How should we love our neighbor?",
-                        "answer":"Not above all things, for such love belongs to God; but as ourselves, so that we should as heartily, sincerely and constantly wish him well, do him all the good we can in spiritual and bodily things. and speak well of him, as we do this for ourselves and desire others to do it toward us. Matt. 22:39; 7:12; 2 Cor. 8:13, 14; 1 John 3:16."
+                        "question": "59. How should we love our neighbor?",
+                        "answer": "Not above all things, for such love belongs to God; but as ourselves, so that we should as heartily, sincerely and constantly wish him well, do him all the good we can in spiritual and bodily things. and speak well of him, as we do this for ourselves and desire others to do it toward us. Matt. 22:39; 7:12; 2 Cor. 8:13, 14; 1 John 3:16."
                     },
                     {
-                        "question":"60. How many commandments are contained in this second table?",
-                        "answer":"The last seven, namely: the 4th, 5th, 6th, 7th, 8th, 9th, and 10."
+                        "question": "60. How many commandments are contained in this second table?",
+                        "answer": "The last seven, namely: the 4th, 5th, 6th, 7th, 8th, 9th, and 10."
                     }
                 ]
             },
             {
-                "type":"qna",
-                "heading":"Of The Fourth Commandment.",
-                "content":[
+                "type": "qna",
+                "heading": "Of The Fourth Commandment.",
+                "content": [
                     {
-                        "question":"61. Which is the fourth commandment?",
-                        "answer":"Thou shalt honor thy father and thy mother, that it may be well with thee, and thou mayest live long on the earth."
+                        "question": "61. Which is the fourth commandment?",
+                        "answer": "Thou shalt honor thy father and thy mother, that it may be well with thee, and thou mayest live long on the earth."
                     },
                     {
-                        "question":"62. What does this mean?",
-                        "answer":"We should fear and love God, that we may not despise our parents and masters, nor provoke them to anger; but give them honor, serve and obey them, and hold them in love and esteem."
+                        "question": "62. What does this mean?",
+                        "answer": "We should fear and love God, that we may not despise our parents and masters, nor provoke them to anger; but give them honor, serve and obey them, and hold them in love and esteem."
                     },
                     {
-                        "question":"63. What is meant in this place by the word parents?",
-                        "answer":"<p>All superiors, whom God has placed over others for their government and protection, as: <ol> <li>Our parents proper, as well as grand-parents, step-parents, fosterparents, and parents-in-law, Gen. 28:13; Luke 2:48; John 19:26-27; 1 Sam. 24:12;</li> <li>Guardians and tutors of minors, Est. 2:7 and 20;</li> <li>Ministers and pastors, 2 Kin. 13:14; 1 Cor. 4:15; Gal. 4:19; 1 John 2:18;</li> <li>Teachers in schools and colleges, 2 Kin. 2:12;</li> <li>The civil government and its officers, Ezra 1:4;</li> <li>The masters of the house, 2 Kin. 5:18;</li> <li>Aged persons, Acts 22:1; 1 Tim. 5:1-2; Rom. 16:13.</li> </ol> </p>"
+                        "question": "63. What is meant in this place by the word parents?",
+                        "answer": "<p>All superiors, whom God has placed over others for their government and protection, as: <ol> <li>Our parents proper, as well as grand-parents, step-parents, fosterparents, and parents-in-law, Gen. 28:13; Luke 2:48; John 19:26-27; 1 Sam. 24:12;</li> <li>Guardians and tutors of minors, Est. 2:7 and 20;</li> <li>Ministers and pastors, 2 Kin. 13:14; 1 Cor. 4:15; Gal. 4:19; 1 John 2:18;</li> <li>Teachers in schools and colleges, 2 Kin. 2:12;</li> <li>The civil government and its officers, Ezra 1:4;</li> <li>The masters of the house, 2 Kin. 5:18;</li> <li>Aged persons, Acts 22:1; 1 Tim. 5:1-2; Rom. 16:13.</li> </ol> </p>"
                     },
                     {
-                        "question":"64. What therefore is meant by the word children?",
-                        "answer":"<p>All subordinates, whom God has placed under others for their government and protection, as: <ol> <li>Children;</li> <li>Minors;</li> <li>The hearers of God’s Word;</li> <li>Pupils;</li> <li>Subjects;</li> <li>Servants and domestics;</li> <li>Young persons.</li> </ol> </p>"
+                        "question": "64. What therefore is meant by the word children?",
+                        "answer": "<p>All subordinates, whom God has placed under others for their government and protection, as: <ol> <li>Children;</li> <li>Minors;</li> <li>The hearers of God’s Word;</li> <li>Pupils;</li> <li>Subjects;</li> <li>Servants and domestics;</li> <li>Young persons.</li> </ol> </p>"
                     },
                     {
-                        "question":"65. What is enjoined upon parents and all superiors in this commandment?",
-                        "answer":"<p>To exercise paternal care, love and benevolence toward all their subjects, provide for them, protect them, faithfully instruct them in the Lord, and set them a blameless example of pure faith, upright conversation and good morals.</p> <p>Eph. 6:4; Deut. 6:6-9; Prov. 22:15; 23:13-14; Gen. 18:19.<br> 1 Tim. 5:8.<br> Matt. 18:6, 10.</p> <p>Compare the table of duties.</p>"
+                        "question": "65. What is enjoined upon parents and all superiors in this commandment?",
+                        "answer": "<p>To exercise paternal care, love and benevolence toward all their subjects, provide for them, protect them, faithfully instruct them in the Lord, and set them a blameless example of pure faith, upright conversation and good morals.</p> <p>Eph. 6:4; Deut. 6:6-9; Prov. 22:15; 23:13-14; Gen. 18:19.<br> 1 Tim. 5:8.<br> Matt. 18:6, 10.</p> <p>Compare the table of duties.</p>"
                     },
                     {
-                        "question":"66. What is commanded and forbidden to all children and subjects?",
-                        "answer":"That they should give due honor to their parents and to all who are placed over them, serve them with fear and simpleness of heart, obey them, not despise them, not provoke them to anger, but love and esteem them."
+                        "question": "66. What is commanded and forbidden to all children and subjects?",
+                        "answer": "That they should give due honor to their parents and to all who are placed over them, serve them with fear and simpleness of heart, obey them, not despise them, not provoke them to anger, but love and esteem them."
                     },
                     {
-                        "question":"67. What is required by the honor which is due to parents and superiors?",
-                        "answer":"<p>That on account of the divine order we should highly esteem them, and deport ourselves humbly and respectfully towards them.</p> <p> Mal. 1:6, A son honoreth his father, and a servant his master.<br> Eph, 6:2-3, Honor thy father and mother, (which is the first commandment with promise,) that it may be well with thee, and thou mayest live long on earth.<br> Lev. 19:3. Ye shall fear every one his mother and his father.<br> 1 Kin. 2:19. </p>"
+                        "question": "67. What is required by the honor which is due to parents and superiors?",
+                        "answer": "<p>That on account of the divine order we should highly esteem them, and deport ourselves humbly and respectfully towards them.</p> <p>Mal. 1:6, A son honoreth his father, and a servant his master. </p> <p>Eph, 6:2-3, Honor thy father and mother, (which is the first commandment with promise,) that it may be well with thee, and thou mayest live long on earth.</p> <p>Lev. 19:3. Ye shall fear every one his mother and his father. </p> <p>1 Kin. 2:19. </p>"
                     },
                     {
-                        "question": "68. But are all superiors to be obeyed in all things without distinction?",
-                        "answer":"<p> We should obey them in all things that are not contrary to God and the love due to our neighbor; but if they enjoin anything that is against the divine commandment, we must obey God rather than men. </p> <p> Col. 3:20. Children, obey your parents in all things: for this is well-pleasing unto the Lord.<br> Eph. 6:1.<br> Prov. 28:22, Hearken unto thy father that begat thee, and despise not thy mother when she is old, 6:20-22; Luke 2:51.<br> Acts 5:29. We ought to obey God rather than men. </p>"
+                        "question": "[*] 68. But are all superiors to be obeyed in all things without distinction?",
+                        "answer": "<p>We should obey them in all things that are not contrary to God and the love due to our neighbor; but if they enjoin anything that is against the divine commandment, we must obey God rather than men. </p> <p>Col. 3:20. Children, obey your parents in all things: for this is well-pleasing unto the Lord. Eph. 6:1.</p> <p>Prov. 28:22, Hearken unto thy father that begat thee, and despise not thy mother when she is old, 6:20-22; Luke 2:51.</p> <p>Acts 5:29. We ought to obey God rather than men.</p>"
                     },
                     {
-                        "question":"69. What is required by love to parents?",
-                        "answer": "<p>That on account of the benefits which they have conferred upon us we desire their welfare and seek to requite them, and that we bear their faults and weaknesses patiently, and pray for them.</p> <p>1 Tim. 5:4. To requite their parents: for that is good and acceptable before God. Sir. 3:1-18.</p>"
+                        "question": "69. What is required by love to parents?",
+                        "answer": "<p>That on account of the benefits which they have conferred upon us we desire their welfare and seek to requite them, and that we bear their faults and weaknesses patiently, and pray for them. </p> <p> 1 Tim. 5:4. To requite their parents: for that is good and acceptable before God. Sir. 3:1-18.</p>"
                     },
                     {
-                        "question":"70. What is meant by despising our parents and superiors?",
-                        "answer":"<p>It means thinking less highly of them than God desires, using contemptuous and derisive gestures and words towards them, and refusing to render the obedience which is due to them.</p> <p> Prov. 30:17. The eye that mocketh at his father, and despiseth to obey his mother, the ravens of the valley shall pick it out, and the young eagles shall eat it. 2 Kin. 2:23-24. </p>"
+                        "question": "70. What is meant by despising our parents and superiors?",
+                        "answer": "<p>It means thinking less highly of them than God desires, using contemptuous and derisive gestures and words towards them, and refusing to render the obedience which is due to them. </p> <p>Prov. 30:17. The eye that mocketh at his father, and despiseth to obey his mother, the ravens of the valley shall pick it out, and the young eagles shall eat it. 2 Kin. 2:23-24. </p>"
                     },
                     {
-                        "question":"71. What is meant by provoking them to anger?",
-                        "answer":"<p>It means not only withholding from them the honor and obedience which are their due, but rendering them the reverse, opposing them, and offending and insulting them in words, works or gestures.</p> <p>Prov. 20:20; Gen. 9:20-25; Deut. 21:18-21.</p>"
+                        "question": "71. What is meant by provoking them to anger?",
+                        "answer": "<p>It means not only withholding from them the honor and obedience which are their due, but rendering them the reverse, opposing them, and offending and insulting them in words, works or gestures.</p> <p>Prov. 20:20; Gen. 9:20-25; Deut. 21:18-21</p>"
                     },
                     {
-                        "question":"72. What is the special promise annexed to this commandment?",
-                        "answer":"“That it may be well with thee, and thou mayest live long upon the earth.” Eph. 6:3."
+                        "question": "72. What is the special promise annexed to this commandment?",
+                        "answer": "“That it may be well with thee, and thou mayest live long upon the earth.” Eph. 6:3."
                     },
                     {
-                        "question":"73. Why did God particularly annex this promise?",
-                        "answer":"<ol> <li>To urge us the more to obedience by setting before us this reward;</li> <li>To testify publicly how highly He esteems the honoring of parents;</li> <li>To show us the great necessity of obedience to this commandment.</li> </ol>"
+                        "question": "73. Why did God particularly annex this promise?",
+                        "answer": "<ol> <li>To urge us the more to obedience by setting before us this reward;</li> <li>To testify publicly how highly He esteems the honoring of parents;</li> <li>To show us the great necessity of obedience to this commandment.</li> </ol>"
                     },
                     {
-                        "question":"74. What is the special threat and penalty pertaining to this commandment?",
-                        "answer":"“Cursed be he that setteth light by his father or his mother.” Deut. 27:16. “He that curseth his father or his mother shall surely be put to death.” Ex. 21:17. Lev. 20:9."
+                        "question": "74. What is the special threat and penalty pertaining to this commandment?",
+                        "answer": "“Cursed be he that setteth light by his father or his mother.” Deut. 27:16. “He that curseth his father or his mother shall surely be put to death.” Ex. 21:17. Lev. 20:9."
                     }
                 ]
             }
         ],
-        "ten-commandments-05":[
+        "ten-commandments-05": [
             {
-                "type":"qna",
-                "heading":"Of The Fifth Commandment.",
-                "content":[
+                "type": "qna",
+                "heading": "Of The Fifth Commandment.",
+                "content": [
                     {
-                        "question":"75. Which is the fifth commandment?",
-                        "answer":"Thou shalt not kill."
+                        "question": "75. Which is the fifth commandment?",
+                        "answer": "Thou shalt not kill."
                     },
                     {
-                        "question":"76. What does this mean?",
-                        "answer":"We should fear and love God, that we may not hurt nor harm our neighbor in his body; but help and befriend him in every bodily need."
+                        "question": "76. What does this mean?",
+                        "answer": "We should fear and love God, that we may not hurt nor harm our neighbor in his body; but help and befriend him in every bodily need."
                     },
                     {
-                        "question":"77. What is meant by “kill” in this commandment?",
-                        "answer":"<p> It means doing harm or injury to our neighbor in regard to his life or his bodily welfare, either <ol> <li>By internal emotions of the mind, as wrath, hatred, envy, revenge, or</li> <li>By external gestures, wicked looks, or</li> <li>By abuse or vilification with the tongue, or</li> <li>By any external act.</li> </ol> </p> <p> Matt. 5:21-22. Ye have heard that it was said by them of old time: Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment, But I say unto you: That whosoever is angry with his brother without a cause shall be in danger of the judgment; and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell-fire. 15:19. </p> <p> 1 John 3:15. Whosoever hateth his brother, is a murderer; and ye know that no murderer hath eternal life abiding in him. James 1:9. </p> <p> Gen. 27:41 (Purpose.) Gen. 4:5.<br> Jer. 18:18. Come and let us smite him with the tongue. Ps. 57:4.<br> Gen. 4:8; 2 Sam. 11:15; comp. 12:9; Ex. 21:28-29; Deut. 22:8; Matt. 26:51-52.<br> 1 Sam. 31:4; 2 Sam. 17:23; 1 Kin. 16:18-19; Matt. 27:5; 2 Cor. 7:10; Prov. 24:8. (Suicide.) </p>"
+                        "question": "77. What is meant by “kill” in this commandment?",
+                        "answer": "<p> It means doing harm or injury to our neighbor in regard to his life or his bodily welfare, either <ol> <li>By internal emotions of the mind, as wrath, hatred, envy, revenge, or</li> <li>By external gestures, wicked looks, or</li> <li>By abuse or vilification with the tongue, or</li> <li>By any external act.</li> </ol> </p> <p> Matt. 5:21-22. Ye have heard that it was said by them of old time: Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment, But I say unto you: That whosoever is angry with his brother without a cause shall be in danger of the judgment; and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell-fire. 15:19. </p> <p> 1 John 3:15. Whosoever hateth his brother, is a murderer; and ye know that no murderer hath eternal life abiding in him. James 1:9. </p> <p> Gen. 27:41 (Purpose.) Gen. 4:5.<br> Jer. 18:18. Come and let us smite him with the tongue. Ps. 57:4.<br> Gen. 4:8; 2 Sam. 11:15; comp. 12:9; Ex. 21:28-29; Deut. 22:8; Matt. 26:51-52.<br> 1 Sam. 31:4; 2 Sam. 17:23; 1 Kin. 16:18-19; Matt. 27:5; 2 Cor. 7:10; Prov. 24:8. (Suicide.) </p>"
                     },
                     {
-                        "question":"78. What is accordingly forbidden in this commandment?",
-                        "answer":"<p> Either directly or indirectly rendering it difficult for our neighbor to support life, or doing him hurt or harm in his body. </p> <p> Eph. 4:26. Be ye angry and sin not; let not the sun go down upon your wrath. Gal. 5:14, 15. Rom. 12:19-20. Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord. Therefore, if thine enemy hunger, feed him; if he thirst, give him drink; for in so doing thou shalt heap coals of fire on his head. Prov. 28:29-30; Acts 7:52; 1 Kin. 3:19; Luke 10:31-82. </p>"
+                        "question": "78. What is accordingly forbidden in this commandment?",
+                        "answer": "<p> Either directly or indirectly rendering it difficult for our neighbor to support life, or doing him hurt or harm in his body. </p> <p> Eph. 4:26. Be ye angry and sin not; let not the sun go down upon your wrath. Gal. 5:14, 15. Rom. 12:19-20. Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord. Therefore, if thine enemy hunger, feed him; if he thirst, give him drink; for in so doing thou shalt heap coals of fire on his head. Prov. 28:29-30; Acts 7:52; 1 Kin. 3:19; Luke 10:31-82. </p>"
                     },
                     {
-                        "question":"79. But what is enjoined in it?",
-                        "answer":"<p> That we should with all kindness and benevolence help and befriend our neighbor in every bodily need and danger. </p> <p> Col. 3:12-13. Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, long-suffering, forbearing one another, and forgiving one another, if any man have a quarrel against any; even as Christ forgave you, so also do ye. </p> <p> Matt. 5:25. Agree with thine adversary quickly, while thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officers, and thou be cast into prison. </p> <p> Is. 58:7. Is it not to deal thy bread to the hungry, and that thou bring the poor that are cast out to thy house: when thou seest the naked, that thou cover him, and that thou hide not thyself from thine own flesh? </p> <p> Heb. 18:16. To do good and to communicate, forget not; for with such sacrifices God is well pleased. Jam. 2:15-16; Rom. 13:14; Col. 2:23 </p>"
+                        "question": "79. But what is enjoined in it?",
+                        "answer": "<p> That we should with all kindness and benevolence help and befriend our neighbor in every bodily need and danger. </p> <p> Col. 3:12-13. Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, long-suffering, forbearing one another, and forgiving one another, if any man have a quarrel against any; even as Christ forgave you, so also do ye. </p> <p> Matt. 5:25. Agree with thine adversary quickly, while thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officers, and thou be cast into prison. </p> <p> Is. 58:7. Is it not to deal thy bread to the hungry, and that thou bring the poor that are cast out to thy house: when thou seest the naked, that thou cover him, and that thou hide not thyself from thine own flesh? </p> <p> Heb. 18:16. To do good and to communicate, forget not; for with such sacrifices God is well pleased. Jam. 2:15-16; Rom. 13:14; Col. 2:23 </p>"
                     },
                     {
-                        "question":"80. What is the promise respecting this commandment?",
-                        "answer":"“Blessed are the meek, for they shall inherit the earth. Blessed are the merciful, for they shall obtain mercy. Blessed are the peacemakers, for they shall be called the children of God.” Matt. 5:5, 7, 9."
+                        "question": "80. What is the promise respecting this commandment?",
+                        "answer": "“Blessed are the meek, for they shall inherit the earth. Blessed are the merciful, for they shall obtain mercy. Blessed are the peacemakers, for they shall be called the children of God.” Matt. 5:5, 7, 9."
                     },
                     {
-                        "question":"81. What is the threat and penalty pertaining to this commandment?",
-                        "answer":"“Whoso sheddeth man’s blood, by man shall his blood be shed.” Gen. 9:6. “All that take the sword shall perish with the sword.” Matt. 26:52. Lev. 24:19-20."
+                        "question": "81. What is the threat and penalty pertaining to this commandment?",
+                        "answer": "“Whoso sheddeth man’s blood, by man shall his blood be shed.” Gen. 9:6. “All that take the sword shall perish with the sword.” Matt. 26:52. Lev. 24:19-20."
                     }
                 ]
             }
         ],
-        "ten-commandments-06":[
+        "ten-commandments-06": [
             {
-                "type":"qna",
-                "heading":"Of The Sixth Commandment.",
-                "content":[
+                "type": "qna",
+                "heading": "Of The Sixth Commandment.",
+                "content": [
                     {
-                        "question":"82. Which is the sixth commandment?",
-                        "answer":"Thou shall not commit adultery."
+                        "question": "82. Which is the sixth commandment?",
+                        "answer": "Thou shall not commit adultery."
                     },
                     {
-                        "question":"83. What does this mean?",
-                        "answer":"We should fear and love God, that we may lead a chaste and decent life in word and deed, and each love and honor his spouse."
+                        "question": "83. What does this mean?",
+                        "answer": "We should fear and love God, that we may lead a chaste and decent life in word and deed, and each love and honor his spouse."
                     },
                     {
-                        "question":"84. What is adultery?",
-                        "answer":"<p> It is giving way, outside of the lawful marriage relation, to forbidden desires of the flesh, either <ol> <li>By internal impure inclinations of the heart, or</li> <li>By external unchaste gestures, or</li> <li>By external filthy language, or</li> <li>By external acts, fornication, adultery, incest, seduction, sodomy, and the like.</li> </ol> </p> <p> Matt. 5:27-28. Ye have heard that it was said by them of old time, Thou shalt not commit adultery: but I say unto you, That whosoever looketh on a woman to lust after her, hath committed adultery with her already in his heart. Matt. 15:19. </p> <p> 2 Pet. 2:14. Having eyes full of adultery. 2 Sam. 11:2; Prov. 7:10-13; 5:20: Hist. of Sus. 8-12. Eph. 5:3-4. But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becometh saints: neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks. </p> <p> Col. 3:5-6. Mortify therefore your members which are upon the earth: fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry: for which things’ sake the wrath of God cometh on the children of disobedience. </p> <p> Matt. 19:9. And I say unto you, Whosoever shall put away his wife, except it be for fornication, and shall marry another, committeth adultery: and whoso marrieth her which is put away, doth commit adultery. Compare 5:3-8. </p> <p> 1 Cor. 5:1. It is reported commonly that there is fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father’s wife. Comp. Mark 6:18. </p> <p> Eph. 5:12. For it is a shame even to speak of those things which are done of them in secret. Rom. 1:24-27. </p>"
+                        "question": "84. What is adultery?",
+                        "answer": "<p> It is giving way, outside of the lawful marriage relation, to forbidden desires of the flesh, either <ol> <li>By internal impure inclinations of the heart, or</li> <li>By external unchaste gestures, or</li> <li>By external filthy language, or</li> <li>By external acts, fornication, adultery, incest, seduction, sodomy, and the like.</li> </ol> </p> <p> Matt. 5:27-28. Ye have heard that it was said by them of old time, Thou shalt not commit adultery: but I say unto you, That whosoever looketh on a woman to lust after her, hath committed adultery with her already in his heart. Matt. 15:19. </p> <p> 2 Pet. 2:14. Having eyes full of adultery. 2 Sam. 11:2; Prov. 7:10-13; 5:20: Hist. of Sus. 8-12. Eph. 5:3-4. But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becometh saints: neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks. </p> <p> Col. 3:5-6. Mortify therefore your members which are upon the earth: fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry: for which things’ sake the wrath of God cometh on the children of disobedience. </p> <p> Matt. 19:9. And I say unto you, Whosoever shall put away his wife, except it be for fornication, and shall marry another, committeth adultery: and whoso marrieth her which is put away, doth commit adultery. Compare 5:3-8. </p> <p> 1 Cor. 5:1. It is reported commonly that there is fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father’s wife. Comp. Mark 6:18. </p> <p> Eph. 5:12. For it is a shame even to speak of those things which are done of them in secret. Rom. 1:24-27. </p>"
                     },
                     {
-                        "question":"85. What is enjoined in the sixth commandment?",
-                        "answer":"That we should be chaste and decent in our thoughts, words and deeds, each one also loving and honoring his spouse."
+                        "question": "85. What is enjoined in the sixth commandment?",
+                        "answer": "That we should be chaste and decent in our thoughts, words and deeds, each one also loving and honoring his spouse."
                     },
                     {
-                        "question":"86. What must we do to be chaste in heart?",
-                        "answer":"<p> We must resist the sinful inclination to unchastity by prayer, temperance, industry and the fear of God. </p> <p>Ps. 51:10. Create in me a clean heart, O God; and renew a right spirit within me.</p> <p>Prov. 23:31-33. Look not thou upon the wine when it is red, when it giveth his color in the cup, when it moveth itself aright: at the last it biteth like a serpent, and stingeth like an adder. Thine eyes shall behold strange women, and thine heart shall utter perverse things.</p> <p>Prov. 20:1. Wine is a mocker, strong drink is raging; and whosoever is deceived thereby is not wise. Eph. 5:18: Rom. 13:13-14; 1 Cor. 9:27.</p> <p>Gen. 34:1.</p> <p>Gen. 39:9. How then can I do this great wickedness and sin against God? 1 Cor. 6:15.</p>"
+                        "question": "86. What must we do to be chaste in heart?",
+                        "answer": "<p> We must resist the sinful inclination to unchastity by prayer, temperance, industry and the fear of God. </p> <p>Ps. 51:10. Create in me a clean heart, O God; and renew a right spirit within me.</p> <p>Prov. 23:31-33. Look not thou upon the wine when it is red, when it giveth his color in the cup, when it moveth itself aright: at the last it biteth like a serpent, and stingeth like an adder. Thine eyes shall behold strange women, and thine heart shall utter perverse things.</p> <p>Prov. 20:1. Wine is a mocker, strong drink is raging; and whosoever is deceived thereby is not wise. Eph. 5:18: Rom. 13:13-14; 1 Cor. 9:27.</p> <p>Gen. 34:1.</p> <p>Gen. 39:9. How then can I do this great wickedness and sin against God? 1 Cor. 6:15.</p>"
                     },
                     {
-                        "question":"87. What must we do to be chaste in words?",
-                        "answer":"<p> We must shun all indecent conversations, jests, and offensive language, and strive to be pure in all our words. </p> <p> 1 Cor. 15:38. Evil communications corrupt good manners. Phil. 4:8. </p>"
+                        "question": "87. What must we do to be chaste in words?",
+                        "answer": "<p> We must shun all indecent conversations, jests, and offensive language, and strive to be pure in all our words. </p> <p> 1 Cor. 15:38. Evil communications corrupt good manners. Phil. 4:8. </p>"
                     },
                     {
-                        "question":"88. What must we do to be chaste in deeds?",
-                        "answer":"<p> We must avoid all lewd behavior, fornication and carnal defilement, together with all that occasions such sins, and keep body and soul unspotted. </p> <p> 1 Tim. 2:9. In like manner also that women adorn themselves in modest apparel, with shamefacedness and sobriety 2 Kin. 9:30.<br> 1 Cor. 6:18. Flee fornication.<br> 1 Tim. 5:22. Keep thyself pure.<br> 2 Tim. 2:22. Flee also youthful lusts.<br> Job. 31:1. I made a covenant with mine eyes; why then should I think upon a maid.<br> Prov. 1:10. My son, if sinners entice thee, consent thou not.<br> Matt. 6:13. Lead us not into temptation. Matt. 14:6. </p>"
+                        "question": "88. What must we do to be chaste in deeds?",
+                        "answer": "<p> We must avoid all lewd behavior, fornication and carnal defilement, together with all that occasions such sins, and keep body and soul unspotted. </p> <p> 1 Tim. 2:9. In like manner also that women adorn themselves in modest apparel, with shamefacedness and sobriety 2 Kin. 9:30.<br> 1 Cor. 6:18. Flee fornication.<br> 1 Tim. 5:22. Keep thyself pure.<br> 2 Tim. 2:22. Flee also youthful lusts.<br> Job. 31:1. I made a covenant with mine eyes; why then should I think upon a maid.<br> Prov. 1:10. My son, if sinners entice thee, consent thou not.<br> Matt. 6:13. Lead us not into temptation. Matt. 14:6. </p>"
                     },
                     {
-                        "question":"89. What is the promise respecting this commandment?",
-                        "answer":"“He that hath not defiled his neighbor’s wife shall surely live.” Ez. 18:6, 9."
+                        "question": "89. What is the promise respecting this commandment?",
+                        "answer": "“He that hath not defiled his neighbor’s wife shall surely live.” Ez. 18:6, 9."
                     },
                     {
-                        "question":"90. What is the threat and penalty pertaining to this commandment?",
-                        "answer":"“Whoremongers and adulterers God will judge.” Heb. 18:4. “Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind, nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God.” 1 Cor. 6:9-10. Gal. 5:19-21."
+                        "question": "90. What is the threat and penalty pertaining to this commandment?",
+                        "answer": "“Whoremongers and adulterers God will judge.” Heb. 18:4. “Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind, nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God.” 1 Cor. 6:9-10. Gal. 5:19-21."
                     }
                 ]
             }
         ],
-        "ten-commandments-07":[
+        "ten-commandments-07": [
             {
-                "type":"qna",
-                "heading":"Of The Seventh Commandment.",
-                "content":[
+                "type": "qna",
+                "heading": "Of The Seventh Commandment.",
+                "content": [
                     {
-                        "question":"91. Which is the seventh commandment?",
-                        "answer":"Thou shalt not steal."
+                        "question": "91. Which is the seventh commandment?",
+                        "answer": "Thou shalt not steal."
                     },
                     {
-                        "question":"92. What does this mean?",
-                        "answer":"We should fear and love God, that we may not take our neighbor’s money or goods, nor get them by false ware or dealing; but help him to improve and protect his property and business."
+                        "question": "92. What does this mean?",
+                        "answer": "We should fear and love God, that we may not take our neighbor’s money or goods, nor get them by false ware or dealing; but help him to improve and protect his property and business."
                     },
                     {
-                        "question":"93. What is stealing?",
-                        "answer":"<p> It is to seek and to obtain our neighbor’s property either <ol> <li> By an internal desire of the heart, or </li> <li> By externally looking on it with longing eyes, or </li> <li> By external acts, namely, getting it by force or deceit, or unjustly holding and using it. </li> </ol> </p> <p> Matt. 15:19. For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies. </p> <p> Prov. 23:5. Wilt thou set thine eyes upon that which is not? Prov: 27:20; 1 John 2:16; Jos. 7:21. </p> <p> 1 Thess, 4:6. That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such. </p> <p>Hab. 2:6. Woe to him that increaseth that which is not his! how long? and to him that ladeth himself with thick clay.</p> <p>Prov. 28:24.</p> <p> Deut. 27:17; Jer. 9:5. </p> <p> Lev. 19:35-36, Ye shall do no unrighteousness in judgment, in mete-yard, in weight, or in measure. Just balances, just weights, a just ephah, and a just hin shall ye have: I am the Lord your God. </p> <p> Luke 3:13. Exact no more than that which is appointed you.<br> Prov. 28:8. He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor. Ezek. 18:18. </p> <p> Ps. 37:21. The wicked borroweth, and payeth not again.<br> Jer. 22:13. Woe unto him that buildeth his house by unrighteousness, and his chambers by wrong; that useth his neighbor’s service without wages, and giveth him not for his work. </p> <p> Jam. 5:4. Behold, the hire of the laborers who have reaped down your fields, which is of you kept back by fraud, crieth; and the cries of them which have reaped are entered into the ears of the Lord of Sabaoth. Comp. 1-3. </p> <p> Lev. 19:13. Thou shalt not defraud thy neighbor, neither rob him: the wages of him that is hired shall not abide with thee all night until the morning. Deut. 24:14 </p> <p>2 Thess. 3:10-12. For even when we were with you, this we commanded you, that if any would not work, neither should he eat. For we hear that there are some which walk among, you disorderly, working not at all, but are busy-bodies, Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread. Prov. 18:9.</p> <p>Prov. 29:24. Whoso is partner with a thief hateth his own soul. <br> Matt. 23:14; Is. 1:23; Luke 19:8; Lev. 6:2-5.</p>"
+                        "question": "93. What is stealing?",
+                        "answer": "<p> It is to seek and to obtain our neighbor’s property either <ol> <li> By an internal desire of the heart, or </li> <li> By externally looking on it with longing eyes, or </li> <li> By external acts, namely, getting it by force or deceit, or unjustly holding and using it. </li> </ol> </p> <p> Matt. 15:19. For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies. </p> <p> Prov. 23:5. Wilt thou set thine eyes upon that which is not? Prov: 27:20; 1 John 2:16; Jos. 7:21. </p> <p> 1 Thess, 4:6. That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such. </p> <p>Hab. 2:6. Woe to him that increaseth that which is not his! how long? and to him that ladeth himself with thick clay.</p> <p>Prov. 28:24.</p> <p> Deut. 27:17; Jer. 9:5. </p> <p> Lev. 19:35-36, Ye shall do no unrighteousness in judgment, in mete-yard, in weight, or in measure. Just balances, just weights, a just ephah, and a just hin shall ye have: I am the Lord your God. </p> <p> Luke 3:13. Exact no more than that which is appointed you.<br> Prov. 28:8. He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor. Ezek. 18:18. </p> <p> Ps. 37:21. The wicked borroweth, and payeth not again.<br> Jer. 22:13. Woe unto him that buildeth his house by unrighteousness, and his chambers by wrong; that useth his neighbor’s service without wages, and giveth him not for his work. </p> <p> Jam. 5:4. Behold, the hire of the laborers who have reaped down your fields, which is of you kept back by fraud, crieth; and the cries of them which have reaped are entered into the ears of the Lord of Sabaoth. Comp. 1-3. </p> <p> Lev. 19:13. Thou shalt not defraud thy neighbor, neither rob him: the wages of him that is hired shall not abide with thee all night until the morning. Deut. 24:14 </p> <p>2 Thess. 3:10-12. For even when we were with you, this we commanded you, that if any would not work, neither should he eat. For we hear that there are some which walk among, you disorderly, working not at all, but are busy-bodies, Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread. Prov. 18:9.</p> <p>Prov. 29:24. Whoso is partner with a thief hateth his own soul. <br> Matt. 23:14; Is. 1:23; Luke 19:8; Lev. 6:2-5.</p>"
                     },
                     {
-                        "question":"94. What then is forbidden in this commandment?",
-                        "answer":"<p> It is to seek and to obtain our neighbor’s property either <ol> <li> By an internal desire of the heart, or </li> <li> By externally looking on it with longing eyes, or </li> <li> By external acts, namely, getting it by force or deceit, or unjustly holding and using it. </li> </ol> </p> <p> Matt. 15:19. For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies. </p> <p> Prov. 23:5. Wilt thou set thine eyes upon that which is not? Prov: 27:20; 1 John 2:16; Jos. 7:21. </p> <p> 1 Thess, 4:6. That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such. </p> <p> Hab. 2:6. Woe to him that increaseth that which is not his! how long? and to him that ladeth himself with thick clay. </p> <p> Prov. 28:24. </p> <p> Deut. 27:17; Jer. 9:5. </p> <p> Lev. 19:35-36, Ye shall do no unrighteousness in judgment, in mete-yard, in weight, or in measure. Just balances, just weights, a just ephah, and a just hin shall ye have: I am the Lord your God. </p> <p> Luke 3:13. Exact no more than that which is appointed you. </p> <p> Prov. 28:8. He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor. Ezek. 18:18. </p> <p> Ps. 37:21. The wicked borroweth, and payeth not again. </p> <p> Jer. 22:13. Woe unto him that buildeth his house by unrighteousness, and his chambers by wrong; that useth his neighbor’s service without wages, and giveth him not for his work. Jam. 5:4. Behold, the hire of the laborers who have reaped down your fields, which is of you kept back by fraud, crieth; and the cries of them which have reaped are entered into the ears of the Lord of Sabaoth. Comp. 1-3. </p> <p> Lev. 19:13. Thou shalt not defraud thy neighbor, neither rob him: the wages of him that is hired shall not abide with thee all night until the morning. Deut. 24:14 </p> <p> 2 Thess. 3:10-12. For even when we were with you, this we commanded you, that if any would not work, neither should he eat. For we hear that there are some which walk among, you disorderly, working not at all, but are busy-bodies, Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread. Prov. 18:9. </p> <p> Prov. 29:24. Whoso is partner with a thief hateth his own soul. </p> <p> Matt. 23:14; Is. 1:23; Luke 19:8; Lev. 6:2-5. </p>"
+                        "question": "94. What then is forbidden in this commandment?",
+                        "answer": "<p> It is to seek and to obtain our neighbor’s property either <ol> <li> By an internal desire of the heart, or </li> <li> By externally looking on it with longing eyes, or </li> <li> By external acts, namely, getting it by force or deceit, or unjustly holding and using it. </li> </ol> </p> <p> Matt. 15:19. For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies. </p> <p> Prov. 23:5. Wilt thou set thine eyes upon that which is not? Prov: 27:20; 1 John 2:16; Jos. 7:21. </p> <p> 1 Thess, 4:6. That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such. </p> <p> Hab. 2:6. Woe to him that increaseth that which is not his! how long? and to him that ladeth himself with thick clay. </p> <p> Prov. 28:24. </p> <p> Deut. 27:17; Jer. 9:5. </p> <p> Lev. 19:35-36, Ye shall do no unrighteousness in judgment, in mete-yard, in weight, or in measure. Just balances, just weights, a just ephah, and a just hin shall ye have: I am the Lord your God. </p> <p> Luke 3:13. Exact no more than that which is appointed you. </p> <p> Prov. 28:8. He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor. Ezek. 18:18. </p> <p> Ps. 37:21. The wicked borroweth, and payeth not again. </p> <p> Jer. 22:13. Woe unto him that buildeth his house by unrighteousness, and his chambers by wrong; that useth his neighbor’s service without wages, and giveth him not for his work. Jam. 5:4. Behold, the hire of the laborers who have reaped down your fields, which is of you kept back by fraud, crieth; and the cries of them which have reaped are entered into the ears of the Lord of Sabaoth. Comp. 1-3. </p> <p> Lev. 19:13. Thou shalt not defraud thy neighbor, neither rob him: the wages of him that is hired shall not abide with thee all night until the morning. Deut. 24:14 </p> <p> 2 Thess. 3:10-12. For even when we were with you, this we commanded you, that if any would not work, neither should he eat. For we hear that there are some which walk among, you disorderly, working not at all, but are busy-bodies, Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread. Prov. 18:9. </p> <p> Prov. 29:24. Whoso is partner with a thief hateth his own soul. </p> <p> Matt. 23:14; Is. 1:23; Luke 19:8; Lev. 6:2-5. </p>"
                     },
                     {
-                        "question":"95. And what is enjoined in it?",
-                        "answer":"That we should do what lies in our power to protect his property and improve his means of subsistence."
+                        "question": "95. And what is enjoined in it?",
+                        "answer": "That we should do what lies in our power to protect his property and improve his means of subsistence."
                     },
                     {
-                        "question":"96. When is this done?",
-                        "answer":"<p> When we assist him according to our ability in word and deed, give alms, lend, warn against injury, aid him to obtain what is his due, and to this end labor diligently and take care of our means, that in case of necessity we may be able to help him. </p> <p> 1 John 3:17. But whoso hath this world’s goods, and seeth his brother have need, and shutteth up his bowels of compassion from him, how dwelleth the love of God in him? </p> <p> Matt. 5:42. Give to him that asketh thee, and from him that would borrow of thee, turn not thou away. Luke 6:34-35; Ex. 23:4-5; Deut. 22:3; Eph. 4:28; John 6:12. </p>"
+                        "question": "96. When is this done?",
+                        "answer": "<p> When we assist him according to our ability in word and deed, give alms, lend, warn against injury, aid him to obtain what is his due, and to this end labor diligently and take care of our means, that in case of necessity we may be able to help him. </p> <p> 1 John 3:17. But whoso hath this world’s goods, and seeth his brother have need, and shutteth up his bowels of compassion from him, how dwelleth the love of God in him? </p> <p> Matt. 5:42. Give to him that asketh thee, and from him that would borrow of thee, turn not thou away. Luke 6:34-35; Ex. 23:4-5; Deut. 22:3; Eph. 4:28; John 6:12. </p>"
                     },
                     {
-                        "question":"97. What is the penalty visited upon theft?",
-                        "answer":"In the Old Testament restitution was required either four-fold or five-fold, and sometimes sevenfold, according to the character of the crime. Prov. 6:31, Comp. 1 Cor. 6:9-10. “Thieves shall not inherit the kingdom of God.”"
+                        "question": "97. What is the penalty visited upon theft?",
+                        "answer": "In the Old Testament restitution was required either four-fold or five-fold, and sometimes sevenfold, according to the character of the crime. Prov. 6:31, Comp. 1 Cor. 6:9-10. “Thieves shall not inherit the kingdom of God.”"
                     }
                 ]
             }
         ],
-        "ten-commandments-08":[
+        "ten-commandments-08": [
             {
-                "type":"qna",
-                "heading":"Of The Eighth Commandment.",
-                "content":[
+                "type": "qna",
+                "heading": "Of The Eighth Commandment.",
+                "content": [
                     {
-                        "question":"98. Which is the eighth commandment?",
+                        "question": "98. Which is the eighth commandment?",
                         "answer": "Thou shalt not bear false witness against thy neighbor."
                     },
                     {
-                        "question":"99. What does this mean?",
+                        "question": "99. What does this mean?",
                         "answer": "We should fear and love God, that we may not deceitfully belie, betray, slander, nor defame our neighbor; but defend him, speak well of him, and put the best construction on everything."
                     },
                     {
-                        "question":"100. What is bearing false witness?",
+                        "question": "100. What is bearing false witness?",
                         "answer": "<p> It is either secretly or publicly suspecting, saying or testifying that which in any way injures another’s good name. </p> <p> Zech. 8:17. Let none of you imagine evil in your hearts against his neighbor. Matt. 9:4; 15:19; Eccl. 7:30. </p>"
                     },
                     {
-                        "question":"101. What, then, is forbidden in this commandment?",
+                        "question": "101. What, then, is forbidden in this commandment?",
                         "answer": "<p> Deceitfully belying, betraying, slandering, or defaming our neighbor, or condemning him without cause or without giving him a hearing. </p> <p>Eph. 4:25, Wherefore putting away lying, speak every man truth with his neighbor: for we are members one of another. Is. 5:20: Prov. 10:19.</p> <p> Prov. 11:13. A tale-bearer revealeth secrets, but he that is of a faithful spirit concealeth the matter. 20:19. </p> <p>Jam. 4:11. Speak not evil one of another, brethren.</p> <p> Ps. 50:16, 19-22. Unto the wicked God saith, Thou givest thy mouth to evil, and thy tongue frameth deceit. Thou sittest and speakest against thy brother; thou slanderest thine own mother’s son. These things hast thou done and I kept silence; thou thoughtest that I was altogether such a one as thyself; but I will reprove thee, and set them in order before thine eyes. Now consider this, ye that forget God, lest I tear you in pieces and there be none to deliver. </p> <p> Luke 6:37. Judge not, and ye shall not be judged; condemn not, and ye shall not be condemned. Comp. 41-42 </p>"
                     },
                     {
-                        "question":"102. How is this done before the court?",
-                        "answer":"<p> When the judge gives an unjust decision, or the accuser brings false charges against an innocent neighbor, or the accused denies what he knows to be true, or the witness bears false testimony, or the attorney delays or hinders a good cause and makes an evil one appear right. </p> <p> 2 Chron. 19:6. Take heed what ye do: for ye judge not for man, but for the Lord, who is with you in the judgment. </p> <p> Prov. 17:15. He that justifieth the wicked, and he that condemneth the just, even they both are abomination to the Lord. Deut.1:17; Ex. 23:8. </p> <p> Luke 23:2, 1 Cor. 6:7-8. (Comp. 1-6.) Rom. 12:18 (Of the right to call upon the government for help, comp. Acts 23:12-17; 25:11.) </p> <p> Jos. 7:19. </p> <p> Prov. 19:5. A false witness shall not be unpunished; and he that speaketh lies shall not escape. Matt. 26:59-61; Acts 6:13-14; 1 Kin. 21:13. </p> <p> Ex. 28:1; Acts 24:1-8. </p>"
+                        "question": "102. How is this done before the court?",
+                        "answer": "<p> When the judge gives an unjust decision, or the accuser brings false charges against an innocent neighbor, or the accused denies what he knows to be true, or the witness bears false testimony, or the attorney delays or hinders a good cause and makes an evil one appear right. </p> <p> 2 Chron. 19:6. Take heed what ye do: for ye judge not for man, but for the Lord, who is with you in the judgment. </p> <p> Prov. 17:15. He that justifieth the wicked, and he that condemneth the just, even they both are abomination to the Lord. Deut.1:17; Ex. 23:8. </p> <p> Luke 23:2, 1 Cor. 6:7-8. (Comp. 1-6.) Rom. 12:18 (Of the right to call upon the government for help, comp. Acts 23:12-17; 25:11.) </p> <p> Jos. 7:19. </p> <p> Prov. 19:5. A false witness shall not be unpunished; and he that speaketh lies shall not escape. Matt. 26:59-61; Acts 6:13-14; 1 Kin. 21:13. </p> <p> Ex. 28:1; Acts 24:1-8. </p>"
                     },
                     {
-                        "question":"103. But what is enjoined in it?",
-                        "answer":"<p> That we should defend our neighbor when he is belied and slandered, think and speak well of him, put the best construction on every thing, and in all things seek constantly to speak the truth. </p> <p> Prov. 31:8-9. Open thy month for the dumb in the cause, of all such us are appointed to destruction. Open thy mouth, judge righteously, and plead the cause of the poor and needy. Comp, 1 Sam. 19:4; 22:13-14. </p> <p> 1 Cor. 13:7. Charity believeth all things, hopeth all things, endureth all things. </p> <p> 1 Pet. 4:8. Charity shall cover the multitude of sins. </p> <p> Matt.5:37. Let your communication be, Yea, yea: nay, nay: for whatsoever is more than these, cometh of evil Jam. 5:12; 2 Cor. 1:17; 1 Pet. 2:21-22. </p> <p> Prov. 2:7. God is a buckler to them that walk uprightly. </p> <p> Matt. 18:15-18. If thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother. But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established. And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as a heathen man and a publican. Lev. 19:17; Prov. 28:23; Ps. 141:5. </p>"
+                        "question": "103. But what is enjoined in it?",
+                        "answer": "<p> That we should defend our neighbor when he is belied and slandered, think and speak well of him, put the best construction on every thing, and in all things seek constantly to speak the truth. </p> <p> Prov. 31:8-9. Open thy month for the dumb in the cause, of all such us are appointed to destruction. Open thy mouth, judge righteously, and plead the cause of the poor and needy. Comp, 1 Sam. 19:4; 22:13-14. </p> <p> 1 Cor. 13:7. Charity believeth all things, hopeth all things, endureth all things. </p> <p> 1 Pet. 4:8. Charity shall cover the multitude of sins. </p> <p> Matt.5:37. Let your communication be, Yea, yea: nay, nay: for whatsoever is more than these, cometh of evil Jam. 5:12; 2 Cor. 1:17; 1 Pet. 2:21-22. </p> <p> Prov. 2:7. God is a buckler to them that walk uprightly. </p> <p> Matt. 18:15-18. If thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother. But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established. And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as a heathen man and a publican. Lev. 19:17; Prov. 28:23; Ps. 141:5. </p>"
                     },
                     {
-                        "question":"104. What is the promise of this commandment?",
-                        "answer":"“He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart; he that backbiteth not with his tongue, nor doeth evil to his neighbor, nor taketh up a reproach against his neighbor, he shall abide.” Ps. 15."
+                        "question": "104. What is the promise of this commandment?",
+                        "answer": "“He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart; he that backbiteth not with his tongue, nor doeth evil to his neighbor, nor taketh up a reproach against his neighbor, he shall abide.” Ps. 15."
                     },
                     {
-                        "question":"105. What is the penalty of disobeying it?",
-                        "answer":"“Lying lips are abomination to the Lord.” Prov. 12:22, “Thou shalt destroy them that speak leasing: the Lord will abhor the bloody and deceitful man.” Ps. 5:6. Matt. 12:36."
+                        "question": "105. What is the penalty of disobeying it?",
+                        "answer": "“Lying lips are abomination to the Lord.” Prov. 12:22, “Thou shalt destroy them that speak leasing: the Lord will abhor the bloody and deceitful man.” Ps. 5:6. Matt. 12:36."
                     }
                 ]
             }
         ],
-        "ten-commandments-09":[
+        "ten-commandments-09": [
             {
-                "type":"qna",
-                "heading":"Of The Ninth Commandment.",
-                "content":[
+                "type": "qna",
+                "heading": "Of The Ninth Commandment.",
+                "content": [
                     {
-                        "question":"106. Which is the ninth commandment?",
-                        "answer":"Thou shalt not covet thy neighbor’s house."
+                        "question": "106. Which is the ninth commandment?",
+                        "answer": "Thou shalt not covet thy neighbor’s house."
                     },
                     {
-                        "question":"107. What does this mean?",
-                        "answer":"We should fear and love God, that we may not craftily seek to get our neighbor’s inheritance or house, nor obtain it by a show of right; but help and be of service to him in keeping it."
+                        "question": "107. What does this mean?",
+                        "answer": "We should fear and love God, that we may not craftily seek to get our neighbor’s inheritance or house, nor obtain it by a show of right; but help and be of service to him in keeping it."
                     },
                     {
-                        "question":"108. What is meant by the neighbor’s house?",
-                        "answer":"Not only the buildings and dwelling of our neighbor, but all the property which he possesses. Is. 38:1."
+                        "question": "108. What is meant by the neighbor’s house?",
+                        "answer": "Not only the buildings and dwelling of our neighbor, but all the property which he possesses. Is. 38:1."
                     },
                     {
-                        "question":"109. What is coveting his house?",
-                        "answer":"<p> It is with a wicked emotion of the heart and an unlawful inclination to desire that which belongs to another. </p> <p> James 1:14-15; Prov. 21:10. </p>"
+                        "question": "109. What is coveting his house?",
+                        "answer": "<p> It is with a wicked emotion of the heart and an unlawful inclination to desire that which belongs to another. </p> <p> James 1:14-15; Prov. 21:10. </p>"
                     },
                     {
-                        "question":"110. What is accordingly forbidden in this commandment?",
-                        "answer":"<p> Desiring by craftiness to gain possession of our neighbor’s inheritance or house, or what belongs to it, or obtaining it unjustly by show of right. </p> <p> Is. 5:8. Woe unto them that join house to house, that lay field to field, till there be no place, that they may be placed alone in the midst of the earth. Micah 2:1-2. </p> <p> Matt. 23:14. Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows’ houses, and for a pretense make long prayer: therefore ye shall receive the greater damnation. </p> <p> 1 Tim. 6:6-10. But godliness with contentment is great gain. For we brought nothing into the world, and it is certain we can carry nothing out; and having food and raiment let us be therewith content. But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition; for the love of money is the root of all evil, which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows. Eccl. 5:9; Prov. 20:21; 23:4; 28:20. </p>"
+                        "question": "110. What is accordingly forbidden in this commandment?",
+                        "answer": "<p> Desiring by craftiness to gain possession of our neighbor’s inheritance or house, or what belongs to it, or obtaining it unjustly by show of right. </p> <p> Is. 5:8. Woe unto them that join house to house, that lay field to field, till there be no place, that they may be placed alone in the midst of the earth. Micah 2:1-2. </p> <p> Matt. 23:14. Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows’ houses, and for a pretense make long prayer: therefore ye shall receive the greater damnation. </p> <p> 1 Tim. 6:6-10. But godliness with contentment is great gain. For we brought nothing into the world, and it is certain we can carry nothing out; and having food and raiment let us be therewith content. But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition; for the love of money is the root of all evil, which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows. Eccl. 5:9; Prov. 20:21; 23:4; 28:20. </p>"
                     },
                     {
-                        "question":"111. But what is enjoined in it?",
-                        "answer":"<p> That we should, as far as we are able, help and be of service to our neighbor in keeping his goods and property uninjured. </p> <p> Gal. 5:13. By love serve one another.<br> Phil. 2:4. Look not every man on his own things, but every man also on the things of others. </p>"
+                        "question": "111. But what is enjoined in it?",
+                        "answer": "<p> That we should, as far as we are able, help and be of service to our neighbor in keeping his goods and property uninjured. </p> <p> Gal. 5:13. By love serve one another.<br> Phil. 2:4. Look not every man on his own things, but every man also on the things of others. </p>"
                     }
                 ]
             }
         ]
-        
     }
-
 }
