@@ -75,142 +75,142 @@
                 ]
             }
         ],
-        "creed":[
+        "creed": [
             {
-                "type":"qna",
-                "heading":"Part 2. The Three Articles of the Holy Christian Faith.",
-                "content":[
+                "type": "qna",
+                "heading": "Part 2. The Three Articles of the Holy Christian Faith.",
+                "content": [
                     {
-                        "question":"149. What forms the second part of the Catechism?",
-                        "answer":"The three articles of the holy Christian Faith, or the Apostles’ Creed."
+                        "question": "149. What forms the second part of the Catechism?",
+                        "answer": "The three articles of the holy Christian Faith, or the Apostles’ Creed."
                     },
                     {
-                        "question":"150. What is the Apostles’ Creed?",
-                        "answer":"It is a brief summary of all the chief articles of the Christian religion and faith, by which the Church distinguishes itself and its members from others."
+                        "question": "150. What is the Apostles’ Creed?",
+                        "answer": "It is a brief summary of all the chief articles of the Christian religion and faith, by which the Church distinguishes itself and its members from others."
                     },
                     {
-                        "question":"151. Why is this called a symbol or standard?",
-                        "answer":"Because this public confession of faith is a reliable mark, by which Christians are known, and distinguished from the enemies of the Church."
+                        "question": "151. Why is this called a symbol or standard?",
+                        "answer": "Because this public confession of faith is a reliable mark, by which Christians are known, and distinguished from the enemies of the Church."
                     },
                     {
-                        "question":"152. Why is it called Apostolic?",
-                        "answer":"<ol> <li> Either because it contains a summary of the apostolic doctrine, and rests upon this as its firm, immovable foundation. </li> <li> Or because the Apostles compiled it and transmitted it to the Church.<br> (It is also called the catholic, that is, universal symbol, because it is the one faith of all Christians in the whole world.) </li> </ol>"
+                        "question": "152. Why is it called Apostolic?",
+                        "answer": "<ol> <li> Either because it contains a summary of the apostolic doctrine, and rests upon this as its firm, immovable foundation. </li> <li> Or because the Apostles compiled it and transmitted it to the Church.<br> (It is also called the catholic, that is, universal symbol, because it is the one faith of all Christians in the whole world.) </li> </ol>"
                     },
                     {
-                        "question":"153. Whence was this doctrine of the Apostles’ Creed taken?",
-                        "answer":"From the Gospel."
+                        "question": "153. Whence was this doctrine of the Apostles’ Creed taken?",
+                        "answer": "From the Gospel."
                     },
                     {
-                        "question":"154. What is the Gospel?",
-                        "answer":"<p> The Gospel is the divine doctrine of the gracious forgiveness of sins through faith in Jesus Christ unto eternal life. </p> <p> Rom. 1:16. I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth. 1 Tim. 1:15. </p>"
+                        "question": "154. What is the Gospel?",
+                        "answer": "<p> The Gospel is the divine doctrine of the gracious forgiveness of sins through faith in Jesus Christ unto eternal life. </p> <p> Rom. 1:16. I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth. 1 Tim. 1:15. </p>"
                     },
                     {
-                        "question":"[*] 155. What is the difference between the Law and the Gospel?",
-                        "answer":"<p> It is manifold: </p> <ol> <li> The Law was implanted in all men at the creation, and is therefore known to all by nature; the Gospel is a mystery which was kept secret since the world began. Rom. 2:14-15; 16:25. </li> <li> The Law precedes, the Gospel follows, in its nature, proclamation, and office. Gal. 3:24. </li> <li> “The Law was given by Moses, but grace and truth came by Jesus Christ.” John 1:17. </li> <li> The Law contains commandments, telling us what we should be, what we should do, and what we should leave undone; the Gospel contains the announcement of the forgiveness of sins, the grace of God, and the benefits of Christ. Eph. 2:14-18. </li> <li> The essence of the Law consists in enjoining and commanding, which requires acts and the performance of works: the essence of the Gospel consists in promising, offering, and bestowing, which requires assent, faith and acceptance. Gal. 3:12; 2 Cor. 5:19-20. </li> <li> The promises of the Law are conditional, being made only on the condition that it be perfectly fulfilled; the promises of the Gospel are gracious promises, which are given to faith. Luke 10:28, Rom. 3:24. </li> <li> The Law teaches good works, but gives no power to perform them; the Gospel is an office of the Holy Ghost, by whom the law is written in our hearts and fulfilled. Gal. 3:21; Jer. 31:33. The Law reveals the disease of sin, accuses, terrifies, proclaims the wrath of God, and condemns those who do not perfectly obey it, but does not avert the divine wrath; the Gospel covers sin, heals the disease, comforts the terror-stricken, and promises grace and eternal life to those that believe. Rom. 4:15; 2 Cor. 3:6. </li> <li> The Law must be preached to the secure, to the unjust, to the ungodly, vicious, and unholy; the Gospel must be brought to the alarmed consciences that thirst for the grace of God. 1 Tim. 1:9; Matt. 11:28. </li> </ol>"
+                        "question": "[*] 155. What is the difference between the Law and the Gospel?",
+                        "answer": "<p> It is manifold: </p> <ol> <li> The Law was implanted in all men at the creation, and is therefore known to all by nature; the Gospel is a mystery which was kept secret since the world began. Rom. 2:14-15; 16:25. </li> <li> The Law precedes, the Gospel follows, in its nature, proclamation, and office. Gal. 3:24. </li> <li> “The Law was given by Moses, but grace and truth came by Jesus Christ.” John 1:17. </li> <li> The Law contains commandments, telling us what we should be, what we should do, and what we should leave undone; the Gospel contains the announcement of the forgiveness of sins, the grace of God, and the benefits of Christ. Eph. 2:14-18. </li> <li> The essence of the Law consists in enjoining and commanding, which requires acts and the performance of works: the essence of the Gospel consists in promising, offering, and bestowing, which requires assent, faith and acceptance. Gal. 3:12; 2 Cor. 5:19-20. </li> <li> The promises of the Law are conditional, being made only on the condition that it be perfectly fulfilled; the promises of the Gospel are gracious promises, which are given to faith. Luke 10:28, Rom. 3:24. </li> <li> The Law teaches good works, but gives no power to perform them; the Gospel is an office of the Holy Ghost, by whom the law is written in our hearts and fulfilled. Gal. 3:21; Jer. 31:33. The Law reveals the disease of sin, accuses, terrifies, proclaims the wrath of God, and condemns those who do not perfectly obey it, but does not avert the divine wrath; the Gospel covers sin, heals the disease, comforts the terror-stricken, and promises grace and eternal life to those that believe. Rom. 4:15; 2 Cor. 3:6. </li> <li> The Law must be preached to the secure, to the unjust, to the ungodly, vicious, and unholy; the Gospel must be brought to the alarmed consciences that thirst for the grace of God. 1 Tim. 1:9; Matt. 11:28. </li> </ol>"
                     },
                     {
-                        "question":"[*] 156. Are Law and Gospel both found in the Old as well as in the New Testament?",
-                        "answer":"<p> Yes; as the promises of grace which are contained in the Old Testament, belong to the Gospel, so the legal requirements which are found in the New Testament belong to the Law. </p> <p> Gen. 3:15. I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. Gen. 22:18; 49:10; Deut. 18:18; Is. 53. </p> <p> Matt. chap. 5-7. (Sermon on the Mount.) </p>"
+                        "question": "[*] 156. Are Law and Gospel both found in the Old as well as in the New Testament?",
+                        "answer": "<p> Yes; as the promises of grace which are contained in the Old Testament, belong to the Gospel, so the legal requirements which are found in the New Testament belong to the Law. </p> <p> Gen. 3:15. I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. Gen. 22:18; 49:10; Deut. 18:18; Is. 53. </p> <p> Matt. chap. 5-7. (Sermon on the Mount.) </p>"
                     },
                     {
-                        "question":"157. Which are the words of the Apostles’ Creed?",
-                        "answer":"I believe in God the Father Almighty, Maker of heaven and earth: and in Jesus Christ, His only Son, our Lord; who was conceived by the Holy Ghost, born of the Virgin Mary; suffered under Pontius Pilate, was crucified, dead, and buried; He descended into hell; the third day He rose again from the dead; He ascended into heaven, and sitteth at the right hand of God, the Father Almighty; from thence He shall come to judge the quick and the dead: I believe in the Holy Ghost; the Holy Christian Church, the Communion of Saints; the Forgiveness of sins; the Resurrection of the body; and the Life everlasting. Amen."
+                        "question": "157. Which are the words of the Apostles’ Creed?",
+                        "answer": "I believe in God the Father Almighty, Maker of heaven and earth: and in Jesus Christ, His only Son, our Lord; who was conceived by the Holy Ghost, born of the Virgin Mary; suffered under Pontius Pilate, was crucified, dead, and buried; He descended into hell; the third day He rose again from the dead; He ascended into heaven, and sitteth at the right hand of God, the Father Almighty; from thence He shall come to judge the quick and the dead: I believe in the Holy Ghost; the Holy Christian Church, the Communion of Saints; the Forgiveness of sins; the Resurrection of the body; and the Life everlasting. Amen."
                     },
                     {
-                        "question":"158. How many articles does the Apostles’ Creed contain?",
-                        "answer":"<p> It contain three principal articles: <ol> <li> Of Creation; </li> <li> Of Redemption; </li> <li> Of Sanctification. </li> </ol> </p>"
+                        "question": "158. How many articles does the Apostles’ Creed contain?",
+                        "answer": "<p> It contain three principal articles: <ol> <li> Of Creation; </li> <li> Of Redemption; </li> <li> Of Sanctification. </li> </ol> </p>"
                     },
                     {
-                        "question":"159. Wherein does the use of these articles consist?",
-                        "answer":"That we may learn from them to know our God who and what He is, and what is His good and gracious will toward us."
+                        "question": "159. Wherein does the use of these articles consist?",
+                        "answer": "That we may learn from them to know our God who and what He is, and what is His good and gracious will toward us."
                     },
                     {
-                        "question":"160. What is God?",
-                        "answer":"<p> God is a Spirit who is eternal, almighty, omniscient, omnipresent, holy, righteous, merciful and faithful. </p> <p> John 4:24. God is a Spirit, and they that worship Him must worship Him in spirit and in truth. Luke 24:39. </p> <p> Ps. 90:1-2. Lord, Thou hast been our dwelling-place in all generations. Before the mountains were brought forth, or ever Thou hadst formed the earth and the world, even from everlasting to everlasting Thou art God. </p> <p> Luke 1:37. With God nothing shall be impossible. Ps. 115:3; 2 Kin. 7. </p> <p> Ps. 139:1-4. Lord, Thou hast searched me and known me. Thou knowest my down-sitting and mine up-rising; Thou understandest my thought afar off. Thou compassest my path, and my lying down, and art acquainted with all my ways. For there is not a word in my tongue, but lo, O Lord, Thou knowest it altogether. Mal. 3:16; Ps. 94:7-11. </p> <p>Jer. 23:23-24. Am I a God at hand, saith the Lord, and not a God afar off? Can any hide himself in secret places that I shall not see him? saith the Lord. Do not I fill heaven and earth? saith the Lord. Ps. 139:7-10; 145:18-19; 91:14-16; 23:4: Ia. 43:1-2.</p> <p>Is. 6:3. Holy, holy, holy is the Lord of hosts; the whole earth is full of His glory. Lev. 19:2.</p> <p>Dan. 9:7. O Lord, righteousness belongeth unto thee: but unto us confusion of face.</p> <p>Ex. 34:6 7. The Lord, the Lord God, merciful and gracious, long-suffering, and abundant in goodness and truth; keeping mercy for thousands, forgiving iniquity and transgression and sin. Luke 6:36; Ps. 103:8-14; Micha 7:18-19; Lam. 3:22-24 & 31-33.</p> <p>Ps. 33:4. The word of the Lord is right, and all His works are done in truth. 1 Sam.15:29; Heb. 6:18; Is. 54:10.</p>"
+                        "question": "160. What is God?",
+                        "answer": "<p> God is a Spirit who is eternal, almighty, omniscient, omnipresent, holy, righteous, merciful and faithful. </p> <p> John 4:24. God is a Spirit, and they that worship Him must worship Him in spirit and in truth. Luke 24:39. </p> <p> Ps. 90:1-2. Lord, Thou hast been our dwelling-place in all generations. Before the mountains were brought forth, or ever Thou hadst formed the earth and the world, even from everlasting to everlasting Thou art God. </p> <p> Luke 1:37. With God nothing shall be impossible. Ps. 115:3; 2 Kin. 7. </p> <p> Ps. 139:1-4. Lord, Thou hast searched me and known me. Thou knowest my down-sitting and mine up-rising; Thou understandest my thought afar off. Thou compassest my path, and my lying down, and art acquainted with all my ways. For there is not a word in my tongue, but lo, O Lord, Thou knowest it altogether. Mal. 3:16; Ps. 94:7-11. </p> <p>Jer. 23:23-24. Am I a God at hand, saith the Lord, and not a God afar off? Can any hide himself in secret places that I shall not see him? saith the Lord. Do not I fill heaven and earth? saith the Lord. Ps. 139:7-10; 145:18-19; 91:14-16; 23:4: Ia. 43:1-2.</p> <p>Is. 6:3. Holy, holy, holy is the Lord of hosts; the whole earth is full of His glory. Lev. 19:2.</p> <p>Dan. 9:7. O Lord, righteousness belongeth unto thee: but unto us confusion of face.</p> <p>Ex. 34:6 7. The Lord, the Lord God, merciful and gracious, long-suffering, and abundant in goodness and truth; keeping mercy for thousands, forgiving iniquity and transgression and sin. Luke 6:36; Ps. 103:8-14; Micha 7:18-19; Lam. 3:22-24 & 31-33.</p> <p>Ps. 33:4. The word of the Lord is right, and all His works are done in truth. 1 Sam.15:29; Heb. 6:18; Is. 54:10.</p>"
                     },
                     {
-                        "question":"[*] 161. Of how many kinds is the knowledge of God?",
-                        "answer":"Two: natural and revealed."
+                        "question": "[*] 161. Of how many kinds is the knowledge of God?",
+                        "answer": "Two: natural and revealed."
                     },
                     {
-                        "question":"[*] 162. What is called natural knowledge of God?",
-                        "answer":"<p>That which <ol> <li>is implanted in the hearts of all men by nature, and which:</li> <li> is obtained from the works of God in the creation and in all nature.</li> </ol> Rom. 2:14-15. (Qu. 9.) </p> <p> Rom. 1:18-20. The wrath of God is revealed from heaven against all ungodliness, and unrighteousness of men, who hold the truth in unrighteousness. Because that which may be known of God, is manifest in them; for God has showed it unto them. For the invisible things of Him from the creation of the world are clearly seen, being understood by the things that are made, even His eternal power and Godhead; us that they are without excuse. Ps. 19:2- 7; Heb. 3:4. </p>"
+                        "question": "[*] 162. What is called natural knowledge of God?",
+                        "answer": "<p>That which <ol> <li>is implanted in the hearts of all men by nature, and which:</li> <li> is obtained from the works of God in the creation and in all nature.</li> </ol> Rom. 2:14-15. (Qu. 9.) </p> <p> Rom. 1:18-20. The wrath of God is revealed from heaven against all ungodliness, and unrighteousness of men, who hold the truth in unrighteousness. Because that which may be known of God, is manifest in them; for God has showed it unto them. For the invisible things of Him from the creation of the world are clearly seen, being understood by the things that are made, even His eternal power and Godhead; us that they are without excuse. Ps. 19:2- 7; Heb. 3:4. </p>"
                     },
                     {
-                        "question":"[*] 163. Can a person secure salvation by his natural knowledge?",
-                        "answer":"By no means; for our natural knowledge of God is very imperfect and faint, and is entirely insufficient to attain salvation."
+                        "question": "[*] 163. Can a person secure salvation by his natural knowledge?",
+                        "answer": "By no means; for our natural knowledge of God is very imperfect and faint, and is entirely insufficient to attain salvation."
                     },
                     {
-                        "question":"[*] 164. Of what use then is the natural knowledge of God?",
-                        "answer":"<p> It serves a <ol> <li> To promote external discipline, 1 Cor. 5:1; </li> <li> To induce men to seek God, Acts 17:26-27. </li> <li> To render them without excuse, Rom. 1:19-20. </li> </ol> </p>"
+                        "question": "[*] 164. Of what use then is the natural knowledge of God?",
+                        "answer": "<p> It serves a <ol> <li> To promote external discipline, 1 Cor. 5:1; </li> <li> To induce men to seek God, Acts 17:26-27. </li> <li> To render them without excuse, Rom. 1:19-20. </li> </ol> </p>"
                     },
                     {
-                        "question":"[*] 165. What is called revealed knowledge of God?",
-                        "answer":"That which is given in the written Word of God, in which God has revealed both Himself and His will.<br> 1 Cor. 1:23: John 1:18; Matt. 11:27."
+                        "question": "[*] 165. What is called revealed knowledge of God?",
+                        "answer": "That which is given in the written Word of God, in which God has revealed both Himself and His will.<br> 1 Cor. 1:23: John 1:18; Matt. 11:27."
                     },
                     {
-                        "question":"166. Who is the true God in His essence?",
-                        "answer":"He is God the Father, God the Son, God the Holy Ghost: three distinct persons in one eternal, undivided, and indivisible essence."
+                        "question": "166. Who is the true God in His essence?",
+                        "answer": "He is God the Father, God the Son, God the Holy Ghost: three distinct persons in one eternal, undivided, and indivisible essence."
                     },
                     {
-                        "question":"167. Are there then three Gods, as you mention God the Father, Son, and Holy Ghost?",
-                        "answer":"By no means: there is one God only, who has revealed Himself in three distinct persons, and who is therefore one in essence, triune in persons."
+                        "question": "167. Are there then three Gods, as you mention God the Father, Son, and Holy Ghost?",
+                        "answer": "By no means: there is one God only, who has revealed Himself in three distinct persons, and who is therefore one in essence, triune in persons."
                     },
                     {
-                        "question":"168. How do you prove that God is one in His essence?",
-                        "answer":"<p> This is proved by the following clear testimonies of Scripture: </p> <p> “Hear, O Israel, the Lord our God is one Lord.” Deut. 6:4. </p> <p> “There is none other God but one.” 1 Cor. 8:4. </p> <p>“One God and Father of all, who is above all, and through all, and in you all.” Eph. 4:6.</p><p> “There is one God, and one Mediator between God and men, the man Christ Jesus.” 1 Tim. 2:5. </p>"
+                        "question": "168. How do you prove that God is one in His essence?",
+                        "answer": "<p> This is proved by the following clear testimonies of Scripture: </p> <p> “Hear, O Israel, the Lord our God is one Lord.” Deut. 6:4. </p> <p> “There is none other God but one.” 1 Cor. 8:4. </p> <p>“One God and Father of all, who is above all, and through all, and in you all.” Eph. 4:6.</p><p> “There is one God, and one Mediator between God and men, the man Christ Jesus.” 1 Tim. 2:5. </p>"
                     },
                     {
-                        "question":"169. How do you prove that God is Triune in persons?",
-                        "answer":"<p>This is proved:</p> <ol> <li> From the glorious revelation made of each person of the Holy Trinity in the baptism of Christ. (The Father’s voice is heard from heaven: “This is my beloved Son;” the Son is baptized in the Jordan; the Holy Spirit descends in the form of a dove and lights upon Him), Matt. 3:16; John 1:32. Comp. Matt. 17:5. </li> <li> From the formula of baptism in which it is commanded that all nations should be baptized in the name of the Father, and of the Son, and of the Holy Ghost. Matt. 28:19. </li> <li> From 1 John 5:7, where three persons are expressly mentioned: “There are three that bear record in heaven, the Father, the Word (the Son), and the Holy Ghost.” </li> </ol> <p> Gen. 1:1-3. Comp. Ps. 33:6. Num. 6:24-26; Is. 6:3; 2 Cor. 13:13; Eph. 4:6; Rom. 11:36.<br> Gen. 1:26; 3:22; 11:7. Is. 6:8. (God speaks of Himself in the plural.) </p>"
+                        "question": "169. How do you prove that God is Triune in persons?",
+                        "answer": "<p>This is proved:</p> <ol> <li> From the glorious revelation made of each person of the Holy Trinity in the baptism of Christ. (The Father’s voice is heard from heaven: “This is my beloved Son;” the Son is baptized in the Jordan; the Holy Spirit descends in the form of a dove and lights upon Him), Matt. 3:16; John 1:32. Comp. Matt. 17:5. </li> <li> From the formula of baptism in which it is commanded that all nations should be baptized in the name of the Father, and of the Son, and of the Holy Ghost. Matt. 28:19. </li> <li> From 1 John 5:7, where three persons are expressly mentioned: “There are three that bear record in heaven, the Father, the Word (the Son), and the Holy Ghost.” </li> </ol> <p> Gen. 1:1-3. Comp. Ps. 33:6. Num. 6:24-26; Is. 6:3; 2 Cor. 13:13; Eph. 4:6; Rom. 11:36.<br> Gen. 1:26; 3:22; 11:7. Is. 6:8. (God speaks of Himself in the plural.) </p>"
                     },
                     {
-                        "question":"170. Who is God the Father",
-                        "answer":"He is the first person of the Godhead, who from eternity begat the Son as His image, and created, and preserves, and governs all things."
+                        "question": "170. Who is God the Father",
+                        "answer": "He is the first person of the Godhead, who from eternity begat the Son as His image, and created, and preserves, and governs all things."
                     },
                     {
-                        "question":"171. Who is God the Son?",
-                        "answer":"He is the second person of the Godhead, begotten of the Father from eternity, who assumed our human nature and thus became the Christ, our Redeemer and Mediator."
+                        "question": "171. Who is God the Son?",
+                        "answer": "He is the second person of the Godhead, begotten of the Father from eternity, who assumed our human nature and thus became the Christ, our Redeemer and Mediator."
                     },
                     {
-                        "question":"172. Who is God the Holy Spirit?",
-                        "answer":"He is the third person of the Godhead, who from eternity proceeds from the Father and the Son, and regenerates and sanctifies us through the Word and the Sacraments."
+                        "question": "172. Who is God the Holy Spirit?",
+                        "answer": "He is the third person of the Godhead, who from eternity proceeds from the Father and the Son, and regenerates and sanctifies us through the Word and the Sacraments."
                     },
                     {
-                        "question":"[*] 173. But how is the Father the first, the Son the second, and the Holy Ghost the third person?",
-                        "answer":"In the Holy Trinity none of the persons is the first or the last, the greater or the less; the terms first, second and third are therefore used in respect to the order and source, not in respect to time, degree or dignity; for all persons are alike eternal and glorious."
+                        "question": "[*] 173. But how is the Father the first, the Son the second, and the Holy Ghost the third person?",
+                        "answer": "In the Holy Trinity none of the persons is the first or the last, the greater or the less; the terms first, second and third are therefore used in respect to the order and source, not in respect to time, degree or dignity; for all persons are alike eternal and glorious."
                     },
                     {
-                        "question":"[*] 174. But as the Father, Son, and Holy Ghost are different persons, how are these distinguished from each other?",
-                        "answer":"<p> In two ways, internally and externally.<br> John 5:32. Comp. v. 37. (“Another.”) 14:16. (Another Comforter.) </p>"
+                        "question": "[*] 174. But as the Father, Son, and Holy Ghost are different persons, how are these distinguished from each other?",
+                        "answer": "<p> In two ways, internally and externally.<br> John 5:32. Comp. v. 37. (“Another.”) 14:16. (Another Comforter.) </p>"
                     },
                     {
-                        "question":"[*] 175. What do you call the internal difference?",
-                        "answer":"That according to which the persons are distinguished among themselves by their personal attributes, without reference to the creatures."
+                        "question": "[*] 175. What do you call the internal difference?",
+                        "answer": "That according to which the persons are distinguished among themselves by their personal attributes, without reference to the creatures."
                     },
                     {
-                        "question":"[*] 176. Which are those personal attributes?",
-                        "answer":"<p> The personal attribute of the Father is that He is not begotten; that of the Son is that He is begotten of the Father; that of the Holy Ghost is that He from eternity proceeds from the Father and the Son. </p> <p> Ps. 2:7. Thou art my Son; this day have I begotten thee. John 1:14, 18. </p> <p> John 15:26. When the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall testify of me. Gal. 4:6. </p>"
+                        "question": "[*] 176. Which are those personal attributes?",
+                        "answer": "<p> The personal attribute of the Father is that He is not begotten; that of the Son is that He is begotten of the Father; that of the Holy Ghost is that He from eternity proceeds from the Father and the Son. </p> <p> Ps. 2:7. Thou art my Son; this day have I begotten thee. John 1:14, 18. </p> <p> John 15:26. When the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall testify of me. Gal. 4:6. </p>"
                     },
                     {
-                        "question":"[*] 177. What do you call the external difference?",
-                        "answer":"That according to which the persons are distinguished by the attributes of the benefits conferred upon the creatures, but especially upon the Church, and of the principal works performed in their behalf."
+                        "question": "[*] 177. What do you call the external difference?",
+                        "answer": "That according to which the persons are distinguished by the attributes of the benefits conferred upon the creatures, but especially upon the Church, and of the principal works performed in their behalf."
                     },
                     {
-                        "question":"[*] 178. Which are these?",
-                        "answer":"To the Father is ascribed the creation, to the Son the redemption, and to the Holy Ghost sanctification and regeneration."
+                        "question": "[*] 178. Which are these?",
+                        "answer": "To the Father is ascribed the creation, to the Son the redemption, and to the Holy Ghost sanctification and regeneration."
                     },
                     {
-                        "question":"179. What is the gracious will of God?",
-                        "answer":"His will is to forgive us our sins through grace for Christ’s sake, and to be and remain a merciful Father to us."
+                        "question": "179. What is the gracious will of God?",
+                        "answer": "His will is to forgive us our sins through grace for Christ’s sake, and to be and remain a merciful Father to us."
                     },
                     {
-                        "question":"[*] 180. Where is this will of God revealed to us?",
-                        "answer":"<p>It is made known to us in His heavenly Word, and confirmed by many indubitable testimonies:</p> <p>Ex. 38:11. As I live, saith the Lord God, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live.</p> <p>John 3:16. God so loved the world, that He gave His only begotten Son, that whosoever believeth in Him, should not perish, but have everlasting life.</p> <p>1 Tim. 2:4. God will have all men to be saved, and to come unto the knowledge of the truth.</p> <p> 2 Pet. 3:9. The Lord is not willing that any should perish, but that all should come to repentance. Rom. 11:32.</p>"
+                        "question": "[*] 180. Where is this will of God revealed to us?",
+                        "answer": "<p>It is made known to us in His heavenly Word, and confirmed by many indubitable testimonies:</p> <p>Ex. 38:11. As I live, saith the Lord God, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live.</p> <p>John 3:16. God so loved the world, that He gave His only begotten Son, that whosoever believeth in Him, should not perish, but have everlasting life.</p> <p>1 Tim. 2:4. God will have all men to be saved, and to come unto the knowledge of the truth.</p> <p> 2 Pet. 3:9. The Lord is not willing that any should perish, but that all should come to repentance. Rom. 11:32.</p>"
                     },
                     {
-                        "question":"181. But of what use is this knowledge of the divine essence and will?",
-                        "answer":"That we may from it derive the true faith, and by faith obtain everlasting life. John 17:3."
+                        "question": "181. But of what use is this knowledge of the divine essence and will?",
+                        "answer": "That we may from it derive the true faith, and by faith obtain everlasting life. John 17:3."
                     }
                 ]
             }
@@ -697,180 +697,327 @@
                         "answer": "<p> Thou shalt not covet thy neighbor’s wife, nor his manservant, nor his maidservant, nor his cattle, nor anything that is thy neighbor’s.</p>"
                     },
                     {
-                        "question":"113. What does this mean?",
-                        "answer":"<p>We should fear and love God, that we may not estrange, force or entice away from our neighbor his wife, servants, or cattle; but urge them to stay and do their duty.</p>"
+                        "question": "113. What does this mean?",
+                        "answer": "<p>We should fear and love God, that we may not estrange, force or entice away from our neighbor his wife, servants, or cattle; but urge them to stay and do their duty.</p>"
                     },
                     {
-                        "question":"114. What is forbidden in this commandment?",
-                        "answer":"<p>Estranging, forcing, or enticing away from our neighbor his wife, servants, or cattle..</p>"
+                        "question": "114. What is forbidden in this commandment?",
+                        "answer": "<p>Estranging, forcing, or enticing away from our neighbor his wife, servants, or cattle..</p>"
                     },
                     {
-                        "question":"115. Does this mean that the coveting of another’s wife, servants and cattle only, and not the coveting of other things is forbidden?",
-                        "answer":"<p>No; but these are mentioned because men generally long after these with stronger desires and greater craftiness than after other things; while everything else is included in the words, “nor anything that is thy neighbor’s.” Ex. 20:17.</p><p>Rom. 13:9. Thou shalt not covet. Rom. 7:7; 1 Kin. 21.</p>"
+                        "question": "115. Does this mean that the coveting of another’s wife, servants and cattle only, and not the coveting of other things is forbidden?",
+                        "answer": "<p>No; but these are mentioned because men generally long after these with stronger desires and greater craftiness than after other things; while everything else is included in the words, “nor anything that is thy neighbor’s.” Ex. 20:17.</p><p>Rom. 13:9. Thou shalt not covet. Rom. 7:7; 1 Kin. 21.</p>"
                     },
                     {
-                        "question":"116. What is enjoined upon us in this commandment?",
-                        "answer":"<p>That we should admonish and urge our neighbor’s wife and servants to stay and do their duty.</p><p>Gen. 16:9. Philemon 11.</p>"
+                        "question": "116. What is enjoined upon us in this commandment?",
+                        "answer": "<p>That we should admonish and urge our neighbor’s wife and servants to stay and do their duty.</p><p>Gen. 16:9. Philemon 11.</p>"
                     },
                     {
-                        "question":"117. What is here commanded in general?",
-                        "answer":"<p>That we should be entirely holy, righteous, and free from every inclination to evil, as we were when originally created in the image of God.</p><p>Lev. 19:2. Ye shall be holy: for I the Lord your God am holy.</p><p>Matt. 5:8. Blessed are the pure in heart: for they shall see God.</p>"
+                        "question": "117. What is here commanded in general?",
+                        "answer": "<p>That we should be entirely holy, righteous, and free from every inclination to evil, as we were when originally created in the image of God.</p><p>Lev. 19:2. Ye shall be holy: for I the Lord your God am holy.</p><p>Matt. 5:8. Blessed are the pure in heart: for they shall see God.</p>"
                     },
                     {
-                        "question":"118. What is the warning pertaining to this and the preceding commandment?",
-                        "answer":"“Then, when lust hath conceived, it bringeth forth sin; and sin, when it is finished, bringeth forth death.” James 1:15."
+                        "question": "118. What is the warning pertaining to this and the preceding commandment?",
+                        "answer": "“Then, when lust hath conceived, it bringeth forth sin; and sin, when it is finished, bringeth forth death.” James 1:15."
                     },
                     {
-                        "question":"119. What does God say of all these commandments?",
-                        "answer":"He saith thus: I, the Lord thy God, am a jealous God, visiting the iniquity of the fathers upon the children to the third and fourth generation of them that hate me, and showing mercy unto thousands of them that love me and keep my commandments. Ex. 20:5-6."
+                        "question": "119. What does God say of all these commandments?",
+                        "answer": "He saith thus: I, the Lord thy God, am a jealous God, visiting the iniquity of the fathers upon the children to the third and fourth generation of them that hate me, and showing mercy unto thousands of them that love me and keep my commandments. Ex. 20:5-6."
                     },
                     {
-                        "question":"120. What does this mean?",
-                        "answer":"God threatens to punish all that transgress these commandments. Therefore we should fear His wrath, and not act contrary to them. But He promises grace and every blessing to all that keep these commandments. Therefore we should also love and trust in Him, and willingly do according to His commandments."
+                        "question": "120. What does this mean?",
+                        "answer": "God threatens to punish all that transgress these commandments. Therefore we should fear His wrath, and not act contrary to them. But He promises grace and every blessing to all that keep these commandments. Therefore we should also love and trust in Him, and willingly do according to His commandments."
                     },
                     {
-                        "question":"[*] 121. Why did Dr. Luther introduce these words at the close of the Ten Commandments, whilst in the Bible they are attached to the first commandment?",
-                        "answer":"<ol> <li>Because they contain the general reason why all the divine commandments must be obeyed, namely, because the Lawgiver is the Lord our God; (See Lev. 26:2);</li> <li> Because they contain the general threat directed against the transgressors not only of the first, but of all the other commandments; </li> <li> Because they contain the general promise to all who obey His precepts in all the commandments, not only in the first. </li> </ol>"
+                        "question": "[*] 121. Why did Dr. Luther introduce these words at the close of the Ten Commandments, whilst in the Bible they are attached to the first commandment?",
+                        "answer": "<ol> <li>Because they contain the general reason why all the divine commandments must be obeyed, namely, because the Lawgiver is the Lord our God; (See Lev. 26:2);</li> <li> Because they contain the general threat directed against the transgressors not only of the first, but of all the other commandments; </li> <li> Because they contain the general promise to all who obey His precepts in all the commandments, not only in the first. </li> </ol>"
                     },
                     {
-                        "question":"[*] 122, Had Luther the authority to do this?",
-                        "answer":"<p>Why not? For</p> <ol> <li>Moses, in the repetition of the Ten Commandments, Deut. 5:21, does not rehearse the ninth and tenth commandments in the same order and in the same words as in Ex. 20:27;</li> <li>Neither Christ nor Paul proceed with scrupulous exactness in the enumeration of the commandments; for our Lord in Matt. 19:18-19 places the eighth before the fourth, and the apostle in Rom. 13:9 places the sixth before the fifth. Not so much the order of the commandments, as their fulfillment is to be accurately observed.</li> </ol>"
+                        "question": "[*] 122, Had Luther the authority to do this?",
+                        "answer": "<p>Why not? For</p> <ol> <li>Moses, in the repetition of the Ten Commandments, Deut. 5:21, does not rehearse the ninth and tenth commandments in the same order and in the same words as in Ex. 20:27;</li> <li>Neither Christ nor Paul proceed with scrupulous exactness in the enumeration of the commandments; for our Lord in Matt. 19:18-19 places the eighth before the fourth, and the apostle in Rom. 13:9 places the sixth before the fifth. Not so much the order of the commandments, as their fulfillment is to be accurately observed.</li> </ol>"
                     },
                     {
-                        "question":"123. Does God punish the children for the sins of their fathers?",
-                        "answer":"<p>Strictly speaking the punishment is visited only upon him who has sinned; but when the children walk in the footsteps of their wicked parents, they receive at the same time the punishment of their own wickedness and that of their parents.</p> <p> Ex. 18:20. The soul that sinneth, it shall die. The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son; the righteousness of the righteous shall be upon him, and the wickedness of the wicked shall be upon him. Comp. 1-4; Gen. 9:25, comp. 18. Matt. 27:25. </p>"
+                        "question": "123. Does God punish the children for the sins of their fathers?",
+                        "answer": "<p>Strictly speaking the punishment is visited only upon him who has sinned; but when the children walk in the footsteps of their wicked parents, they receive at the same time the punishment of their own wickedness and that of their parents.</p> <p> Ex. 18:20. The soul that sinneth, it shall die. The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son; the righteousness of the righteous shall be upon him, and the wickedness of the wicked shall be upon him. Comp. 1-4; Gen. 9:25, comp. 18. Matt. 27:25. </p>"
                     }
                 ]
             }
         ],
-        "ten-commandments-conclusion":[
+        "ten-commandments-conclusion": [
             {
                 "type": "qna",
                 "heading": "Of The Fulfillment Of The Law.",
                 "content": [
                     {
-                        "question":"124. Can we perfectly fulfill the law or the commandments of God?",
-                        "answer":"<p>No; for we are wicked by nature and are born sinners.</p> <p>Gen. 8:21. The imagination of man’s heart is evil from his youth. Acts 15:10; Rom. 8:7.</p> <p>Ps. 143:2, Enter not into judgment with thy servant, for in thy sight shall no man living be justified.</p> <p>Is. 64:6. We are all as an unclean thing, and all our righteousnesses are as filthy rags. Ps. 14:2-3; Gal. 3:22; Rom. 3:9-10.</p>"
+                        "question": "124. Can we perfectly fulfill the law or the commandments of God?",
+                        "answer": "<p>No; for we are wicked by nature and are born sinners.</p> <p>Gen. 8:21. The imagination of man’s heart is evil from his youth. Acts 15:10; Rom. 8:7.</p> <p>Ps. 143:2, Enter not into judgment with thy servant, for in thy sight shall no man living be justified.</p> <p>Is. 64:6. We are all as an unclean thing, and all our righteousnesses are as filthy rags. Ps. 14:2-3; Gal. 3:22; Rom. 3:9-10.</p>"
                     },
                     {
-                        "question":"125. But how are they then fulfilled?",
-                        "answer":"<p> That there might be help for us, God the Father gave us His only begotten Son Jesus Christ, who new no sin and who perfectly fulfilled all the commandments of God; therefore if we believe in Jesus Christ, God accepts us through pure grace for Christ’s sake, just as if we had fulfilled all His commandments ourselves. </p> <p> Heb. 7:26. For such an High Priest became us, who in holy, harmless, undefiled, separate from sinners, and made higher than the heavens. </p> <p> Matt.3:15. It becometh us to fulfill all righteousness. </p> <p> Rom. 8:3-4. For what the law could not do, in that it was weak through the flesh, God sending His own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh; that the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit. </p> <p> Rom. 10:4. For Christ is the end of the law for righteousness to every one that believeth. </p>"
+                        "question": "125. But how are they then fulfilled?",
+                        "answer": "<p> That there might be help for us, God the Father gave us His only begotten Son Jesus Christ, who new no sin and who perfectly fulfilled all the commandments of God; therefore if we believe in Jesus Christ, God accepts us through pure grace for Christ’s sake, just as if we had fulfilled all His commandments ourselves. </p> <p> Heb. 7:26. For such an High Priest became us, who in holy, harmless, undefiled, separate from sinners, and made higher than the heavens. </p> <p> Matt.3:15. It becometh us to fulfill all righteousness. </p> <p> Rom. 8:3-4. For what the law could not do, in that it was weak through the flesh, God sending His own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh; that the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit. </p> <p> Rom. 10:4. For Christ is the end of the law for righteousness to every one that believeth. </p>"
                     },
                     {
-                        "question":"126. Can therefore not even the regenerate fulfill the law of God?",
-                        "answer":"<p> No; for </p> <ol> <li> There is not a just man upon earth, that doeth good, and sinneth not; </li> <li> The law is spiritual, but the regenerate are carnal, as the Scriptures declare, Rom 7:14; </li> <li> Even the regenerate must confess with St. Paul that they are imperfect, and that in their flesh dwelleth no good thing, and with St. John: “If we say that we have no sin, we deceive ourselves, and the truth is not in us.” 1 John 1:8. </li> </ol> <p> Eccl. 7:20. There is not a just man upon earth, that doeth good and sinneth not.<br> Job 14:4. Who can bring a clean thing out of an unclean? not one.<br> Prov. 20:9. Who can say, I have made my heart clean, I am pure from my sin?<br> Rom. 7:14. We know that the law is spiritual; but we are carnal, sold under sin.<br> Phil. 3:12. Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also I am apprehended of Christ Jesus. 1 Thess. 4:1.<br> James 2:10. Whosoever shall keep the whole law, and yet offend in one point, he is guilty of all.<br> James 4:17. To him that knoweth to do good, and doeth it not, to him it is sin.<br> 1 Cor. 4:4. I know nothing by myself; yet am I not hereby justified. </p>"
+                        "question": "126. Can therefore not even the regenerate fulfill the law of God?",
+                        "answer": "<p> No; for </p> <ol> <li> There is not a just man upon earth, that doeth good, and sinneth not; </li> <li> The law is spiritual, but the regenerate are carnal, as the Scriptures declare, Rom 7:14; </li> <li> Even the regenerate must confess with St. Paul that they are imperfect, and that in their flesh dwelleth no good thing, and with St. John: “If we say that we have no sin, we deceive ourselves, and the truth is not in us.” 1 John 1:8. </li> </ol> <p> Eccl. 7:20. There is not a just man upon earth, that doeth good and sinneth not.<br> Job 14:4. Who can bring a clean thing out of an unclean? not one.<br> Prov. 20:9. Who can say, I have made my heart clean, I am pure from my sin?<br> Rom. 7:14. We know that the law is spiritual; but we are carnal, sold under sin.<br> Phil. 3:12. Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also I am apprehended of Christ Jesus. 1 Thess. 4:1.<br> James 2:10. Whosoever shall keep the whole law, and yet offend in one point, he is guilty of all.<br> James 4:17. To him that knoweth to do good, and doeth it not, to him it is sin.<br> 1 Cor. 4:4. I know nothing by myself; yet am I not hereby justified. </p>"
                     }
                 ]
             },
             {
-                "type":"qna",
-                "heading":"Of The Use Of The Law.",
-                "content":[
+                "type": "qna",
+                "heading": "Of The Use Of The Law.",
+                "content": [
                     {
-                        "question":"127. But if no one can fulfill the holy Ten Commandments, for what purpose are they given?",
-                        "answer":"<p> They are given to us </p> <ol> <li> That by them we may be led to a knowledge of our sins before God: </li> <li> That we may learn from them what works are pleasing to God and must be performed by us in order to live honorably; </li> <li> That the unregenerate may be kept under external discipline and thus restrained from outward gross sins. </li> </ol> <p> Rom. 3:20. By the law is the knowledge of sin. 7:7.<br> Gal. 3:24. The law was our school-master to bring us unto Christ, that we might be justified by faith. (Mirror.)<br> Ps. 119:9. Wherewithal shall a young man cleanse his way? By taking heed thereto according to Thy word.<br> Ps. 119:105. Thy word is a lamp unto my feet, and a light unto my path. Jos. 1:8 (Rule.) 1 Tim. 1:9-10. (Curb.) </p>"
+                        "question": "127. But if no one can fulfill the holy Ten Commandments, for what purpose are they given?",
+                        "answer": "<p> They are given to us </p> <ol> <li> That by them we may be led to a knowledge of our sins before God: </li> <li> That we may learn from them what works are pleasing to God and must be performed by us in order to live honorably; </li> <li> That the unregenerate may be kept under external discipline and thus restrained from outward gross sins. </li> </ol> <p> Rom. 3:20. By the law is the knowledge of sin. 7:7.<br> Gal. 3:24. The law was our school-master to bring us unto Christ, that we might be justified by faith. (Mirror.)<br> Ps. 119:9. Wherewithal shall a young man cleanse his way? By taking heed thereto according to Thy word.<br> Ps. 119:105. Thy word is a lamp unto my feet, and a light unto my path. Jos. 1:8 (Rule.) 1 Tim. 1:9-10. (Curb.) </p>"
                     }
                 ]
             },
             {
-                "type":"qna",
-                "heading":"Of Sin.",
-                "content":[
+                "type": "qna",
+                "heading": "Of Sin.",
+                "content": [
                     {
-                        "question":"128. As we are to obtain a knowledge of sin from the Ten Commandments, tell me: what is sin?",
-                        "answer":"<p> Sin is a departure from the rule of the divine law, by which God is grievously offended and moved to inflict severe punishment. </p> <p> 1 John 3:4. Sin is the transgression of the law.<br> Ps. 5:4. Thou art not a God that has pleasure in wickedness; neither shall evil dwell with thee.<br> Prov. 14:34. Sin is a reproach to any people. Ps. 7:12-14. </p>"
+                        "question": "128. As we are to obtain a knowledge of sin from the Ten Commandments, tell me: what is sin?",
+                        "answer": "<p> Sin is a departure from the rule of the divine law, by which God is grievously offended and moved to inflict severe punishment. </p> <p> 1 John 3:4. Sin is the transgression of the law.<br> Ps. 5:4. Thou art not a God that has pleasure in wickedness; neither shall evil dwell with thee.<br> Prov. 14:34. Sin is a reproach to any people. Ps. 7:12-14. </p>"
                     },
                     {
-                        "question":"129. What is the cause of sin?",
-                        "answer":"<p> The principal cause is the devil, who of his own accord first turned away from God, and sinned from the beginning; </p> <p> The second cause is the perverted will of man, who voluntarily permits himself to be blinded by the devil’s deceit and craftiness, and obeys the wicked lusts of the flesh. </p> <p> 1 John 3:8. He that committeth sin, is of the devil; for the devil sinneth from the beginning. John 8:44; Gen. 2:1-7.<br> Rom. 5:12. Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned. 2 Cor. 4:4; James 1:13-14; Ps. 5:5; 92:16. </p>"
+                        "question": "129. What is the cause of sin?",
+                        "answer": "<p> The principal cause is the devil, who of his own accord first turned away from God, and sinned from the beginning; </p> <p> The second cause is the perverted will of man, who voluntarily permits himself to be blinded by the devil’s deceit and craftiness, and obeys the wicked lusts of the flesh. </p> <p> 1 John 3:8. He that committeth sin, is of the devil; for the devil sinneth from the beginning. John 8:44; Gen. 2:1-7.<br> Rom. 5:12. Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned. 2 Cor. 4:4; James 1:13-14; Ps. 5:5; 92:16. </p>"
                     },
                     {
-                        "question":"130. How many kinds of sin are there?",
-                        "answer":"Two: original sin and actual sin."
+                        "question": "130. How many kinds of sin are there?",
+                        "answer": "Two: original sin and actual sin."
                     },
                     {
-                        "question":"131. What is original sin?",
-                        "answer":"It is that most deep depravity of our whole human nature, in virtue of which this is robbed of its original righteousness and perfection, and is inclined to all evil; which depravity all men inherit by natural birth from Adam, and by it all who are not born again through the Holy Spirit unto eternal life are subjected to God’s temporal and eternal punishment."
+                        "question": "131. What is original sin?",
+                        "answer": "It is that most deep depravity of our whole human nature, in virtue of which this is robbed of its original righteousness and perfection, and is inclined to all evil; which depravity all men inherit by natural birth from Adam, and by it all who are not born again through the Holy Spirit unto eternal life are subjected to God’s temporal and eternal punishment."
                     },
                     {
-                        "question":"[*] 132. Prove both that original sin exists and that it is propagated to all.",
-                        "answer":"<p> This is evident from the following unquestionable testimonies of Scripture: </p> <ol> <li> Of man’s natural depravity in general; John 3:5-6. Jesus answered, Verily, verily, I say unto thee, Except a man be born of water, and of the Spirit, he cannot enter into the kingdom of God. That which is born of the flesh, is flesh; and that which is born of the Spirit, is spirit.<br> Rom. 3:23. There is no difference: for all have sinned, and come short of the glory of God.<br> Rom. 7:18. I know that in me (that is, in my flesh) dwelleth no good thing.<br> Eph. 2:1. Ye were dead in trespasses and sins. Luke 11:13; Gen. 6:5; 8:21; Job. 14:4. </li> <li> In the Intellect: <br> 1 Cor. 2:14; Eph. 5:8; 2 Cor. 3:5; Eph. 4:18. </li> <li> In the Will:<br>Phil. 2:15; Rom. 8:7. </li> <li> Propagation:<br> Ps. 51:5. Behold, I was shapen in iniquity; and in sin did my mother conceive me. Rom. 5:12. (Quest. 129.) </li> <li> Damnableness:<br>Eph. 2:3. We were by nature the children of wrath, even an others. </li> </ol>"
+                        "question": "[*] 132. Prove both that original sin exists and that it is propagated to all.",
+                        "answer": "<p> This is evident from the following unquestionable testimonies of Scripture: </p> <ol> <li> Of man’s natural depravity in general; John 3:5-6. Jesus answered, Verily, verily, I say unto thee, Except a man be born of water, and of the Spirit, he cannot enter into the kingdom of God. That which is born of the flesh, is flesh; and that which is born of the Spirit, is spirit.<br> Rom. 3:23. There is no difference: for all have sinned, and come short of the glory of God.<br> Rom. 7:18. I know that in me (that is, in my flesh) dwelleth no good thing.<br> Eph. 2:1. Ye were dead in trespasses and sins. Luke 11:13; Gen. 6:5; 8:21; Job. 14:4. </li> <li> In the Intellect: <br> 1 Cor. 2:14; Eph. 5:8; 2 Cor. 3:5; Eph. 4:18. </li> <li> In the Will:<br>Phil. 2:15; Rom. 8:7. </li> <li> Propagation:<br> Ps. 51:5. Behold, I was shapen in iniquity; and in sin did my mother conceive me. Rom. 5:12. (Quest. 129.) </li> <li> Damnableness:<br>Eph. 2:3. We were by nature the children of wrath, even an others. </li> </ol>"
                     },
                     {
-                        "question":"133. What is actual sin?",
-                        "answer":"<p> Actual sin is every deed, word, thought, or desire against the law of God, by which any evil is committed or any good is omitted. </p> <p> Matt. 15:19; 12:36; 1 Cor. 4:5: James 4:17. </p> <p> Of conscious and unconscious sins, sins of weakness and of malice, prevailing and crying sins, and the sin against the Holy Ghost: Num. 15:27-31; Luke 12:47-48; Ps. 19:13; Rom. 6:12-14; John 8:34; James 5:4; Matt. 12:31; 1 John 5:16; Heb. 6:4-8. </p>"
+                        "question": "133. What is actual sin?",
+                        "answer": "<p> Actual sin is every deed, word, thought, or desire against the law of God, by which any evil is committed or any good is omitted. </p> <p> Matt. 15:19; 12:36; 1 Cor. 4:5: James 4:17. </p> <p> Of conscious and unconscious sins, sins of weakness and of malice, prevailing and crying sins, and the sin against the Holy Ghost: Num. 15:27-31; Luke 12:47-48; Ps. 19:13; Rom. 6:12-14; John 8:34; James 5:4; Matt. 12:31; 1 John 5:16; Heb. 6:4-8. </p>"
                     }
                 ]
             },
             {
-                "type":"qna",
-                "heading":"Of Repentance.",
-                "content":[
+                "type": "qna",
+                "heading": "Of Repentance.",
+                "content": [
                     {
-                        "question":"134. How is forgiveness of sins obtained?",
-                        "answer":"<p> By sincere repentance and true conversion to God.<br> Acts 3:19; 2:37-38. </p>"
+                        "question": "134. How is forgiveness of sins obtained?",
+                        "answer": "<p> By sincere repentance and true conversion to God.<br> Acts 3:19; 2:37-38. </p>"
                     },
                     {
-                        "question":"135. What is repentance?",
-                        "answer":"<p> Repentance is the conversion to God, by faith in Christ Jesus, of a poor sinner who has a knowledge of his sins by the law and experiences sorrow for them. </p> <p> Luke 18:13. The publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying, God be merciful to me sinner. 16:11-32. </p>"
+                        "question": "135. What is repentance?",
+                        "answer": "<p> Repentance is the conversion to God, by faith in Christ Jesus, of a poor sinner who has a knowledge of his sins by the law and experiences sorrow for them. </p> <p> Luke 18:13. The publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying, God be merciful to me sinner. 16:11-32. </p>"
                     },
                     {
-                        "question":"136. How many parts belong to repentance?",
-                        "answer":"<p> Two: Contrition and faith. </p> <p> Ps. 51:17. The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise. 2 Cor. 7:10; Is. 66:2; Joel 2:12-13. </p> <p> Acts 16:30-31. The keeper of the prison said; Sirs, what must I do to be saved? And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house. John 8:24. </p>"
+                        "question": "136. How many parts belong to repentance?",
+                        "answer": "<p> Two: Contrition and faith. </p> <p> Ps. 51:17. The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise. 2 Cor. 7:10; Is. 66:2; Joel 2:12-13. </p> <p> Acts 16:30-31. The keeper of the prison said; Sirs, what must I do to be saved? And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house. John 8:24. </p>"
                     },
                     {
-                        "question":"[*] 137. But how can faith be a part of repentance, when in the New Testament faith and repentance are often placed side by side?",
-                        "answer":"When in the New Testament faith and repentance are joined together, repentance is taken in the sense of contrition. <br>Mark 1:15; Acts 20:21; Matt. 21:32."
+                        "question": "[*] 137. But how can faith be a part of repentance, when in the New Testament faith and repentance are often placed side by side?",
+                        "answer": "When in the New Testament faith and repentance are joined together, repentance is taken in the sense of contrition. <br>Mark 1:15; Acts 20:21; Matt. 21:32."
                     },
                     {
-                        "question":"138. What is contrition?",
-                        "answer":"<p>Contrition is the true and sincere sorrow of a heart which, on account of its sins as disclosed by the divine law, is terrified and distressed in view of the wrath of God and His righteous punishments.</p> <p> Jer. 3:12-13. Return, thou backsliding Israel, saith the Lord, and I will not cause mine anger to fall upon you: for I am merciful, saith the Lord, and I will not keep anger for ever. Only acknowledge thine iniquity, that thou hast transgressed against the Lord thy God. </p> <p> Is. 38:15. I shall go softly all my years in the bitterness of my soul. Ps. 38. </p>"
+                        "question": "138. What is contrition?",
+                        "answer": "<p>Contrition is the true and sincere sorrow of a heart which, on account of its sins as disclosed by the divine law, is terrified and distressed in view of the wrath of God and His righteous punishments.</p> <p> Jer. 3:12-13. Return, thou backsliding Israel, saith the Lord, and I will not cause mine anger to fall upon you: for I am merciful, saith the Lord, and I will not keep anger for ever. Only acknowledge thine iniquity, that thou hast transgressed against the Lord thy God. </p> <p> Is. 38:15. I shall go softly all my years in the bitterness of my soul. Ps. 38. </p>"
                     },
                     {
-                        "question":"139. What is faith?",
-                        "answer":"<p> Faith is that act of the soul by which, having known the truth of God’s Word, it confidently, by the power of the Holy Ghost, lays hold of the grace and mercy of God set forth in the Gospel promise, for the purpose of obtaining eternal life.<br>1 Thess. 2:18. (Qu. 53.) </p> <p> Mark 16:15-16. Go ye into all the world, and preach the gospel to every creature. He that believeth and is baptized shall be saved; but he that believeth not, shall damned.<br> John 3:16. God so loved the world, that He gave His only begotten Son, that whosoever believeth in Him should not perish, but have everlasting life. 4:50.<br> 2 Tim. 1:12. I know whom I have believed, and am persuaded that He is able to keep that which I have committed unto Him against that day.<br> 1 Cor. 12:3. No man can say that Jesus is the Lord, but by the Holy Ghost.<br> Col. 2:12. Ye are risen with Him through the faith of the operation of God. Matt. 16:17; John 6:44, 65; Heb. 12:2. </p> <p> [*] That the Holy Ghost works faith through the word of the Gospel and through the holy sacraments: Rom. 10:17; 1 Cor. 12:13. (Comp. Qu. 185.) </p>"
+                        "question": "139. What is faith?",
+                        "answer": "<p> Faith is that act of the soul by which, having known the truth of God’s Word, it confidently, by the power of the Holy Ghost, lays hold of the grace and mercy of God set forth in the Gospel promise, for the purpose of obtaining eternal life.<br>1 Thess. 2:18. (Qu. 53.) </p> <p> Mark 16:15-16. Go ye into all the world, and preach the gospel to every creature. He that believeth and is baptized shall be saved; but he that believeth not, shall damned.<br> John 3:16. God so loved the world, that He gave His only begotten Son, that whosoever believeth in Him should not perish, but have everlasting life. 4:50.<br> 2 Tim. 1:12. I know whom I have believed, and am persuaded that He is able to keep that which I have committed unto Him against that day.<br> 1 Cor. 12:3. No man can say that Jesus is the Lord, but by the Holy Ghost.<br> Col. 2:12. Ye are risen with Him through the faith of the operation of God. Matt. 16:17; John 6:44, 65; Heb. 12:2. </p> <p> [*] That the Holy Ghost works faith through the word of the Gospel and through the holy sacraments: Rom. 10:17; 1 Cor. 12:13. (Comp. Qu. 185.) </p>"
                     },
                     {
-                        "question":"[*] 140. Is not new obedience also a part of repentance?",
-                        "answer":"<p>Properly speaking it is not a part but an effect of repentance, because it is expressly called a “fruit meet for repentance,” Matt. 3:8; Luke 3:8; Acts 26:20, and therefore it follows conversion. </p> <p> Rom. 4:5. To him that worketh not, but believeth on Him that justifieth the ungodly, his faith is counted for righteousness. John 6:37; Is. 55:1-3. </p>"
+                        "question": "[*] 140. Is not new obedience also a part of repentance?",
+                        "answer": "<p>Properly speaking it is not a part but an effect of repentance, because it is expressly called a “fruit meet for repentance,” Matt. 3:8; Luke 3:8; Acts 26:20, and therefore it follows conversion. </p> <p> Rom. 4:5. To him that worketh not, but believeth on Him that justifieth the ungodly, his faith is counted for righteousness. John 6:37; Is. 55:1-3. </p>"
                     }
                 ]
             },
             {
+                "type": "qna",
+                "heading": "Of Good Works.",
+                "content": [
+                    {
+                        "question": "141. By what fruits must therefore a true repentance be shown?",
+                        "answer": "<p>By good works. Tit. 2:14; Hos. 7:16; Is. 58:5-7.</p>"
+                    },
+                    {
+                        "question": "142. What are good works?",
+                        "answer": "<p>Good works are actions of the regenerate, performed by the power of the Holy Spirit, proceeding from true faith, conforming to God’s commandments, and designed solely to glorify God and manifest due gratitude.</p> <p> Matt. 7:17-18; Gal. 5:22.<br> Rom. 14:23. Whatever is not of faith is sin.<br> Matt. 15:9. In vain do they worship me, teaching for doctrines the commandments of men.<br> John 15:5. I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.<br> 1 Cor. 10:31. Whether therefore ye eat or drink, or whatsoever ye do, do all to the glory of God.<br> Col. 3:17. Whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by Him. </p>"
+                    },
+                    {
+                        "question": "143. Can the regenerate perform perfectly good works, without any fault or blemish?",
+                        "answer": "<p>No; for as the renewal in this life is but commenced and imperfect, the good works which the regenerate perform by the power of the Holy Spirit are but imperfectly good, being tainted by the infirmities of the flesh.<br> Rom. 7:21, 24; Heb. 12:1; 1 Cor. 4:4; Gal. 5:17.</p>"
+                    },
+                    {
+                        "question": "144. Why are these imperfect works of the regenerate pleasing to God?",
+                        "answer": "<ol> <li> Because the persons reconciled by faith are pleasing to Him; </li> <li> Because their imperfections are covered with the robe of the complete perfection of Christ, their Mediator. </li> </ol> <p> Rom. 8:33. Who shall lay anything to the charge of God’s elect? It is God that justifieth.<br> Rom. 8:1; 1 Pet. 2:5. </p>"
+                    },
+                    {
+                        "question": "145. Why must we do good works?",
+                        "answer": "<p> Not that we may by them atone for our sins and merit eternal life; for Christ alone has made atonement and merited for us life everlasting; but that we may by them manifest our faith and give God thanks for the benefits received. </p> Rom. 10:2-4."
+                    },
+                    {
+                        "question": "[*] 146. Do you therefore regard good works to be necessary?",
+                        "answer": "<p> Certainly they are necessary: <ol> <li> <p> On God’s account, that we may dutifully obey the command and will of God; </p> <p> Matt.5:16. Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven. </p> <p> Eph. 2:10. We are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them. </p> </li> <li> <p> On our own account, that we may by them manifest our faith before men; </p> <p> James 2:17-18. Faith, if it hath not works, is dead, being alone. Yea, a man may say, Thou hast faith, and I have works: show me thy faith without thy works, and will show thee my faith by my works. John 13:35; 2 Pet. 1:10. </p> </li> <li> On our neighbor’s account, that by them we may assist, support and edify him.<br> Tit. 3:8; Phil. 2:15. </li> </ol> </p>"
+                    },
+                    {
+                        "question": "[*] 147. But why are they not necessary to merit for us righteousness before God and salvation?",
+                        "answer": "<p> Because we are justified and saved by grace, alone through faith in Christ Jesus. </p> <p> Rom. 3:28. We conclude that a man is justified by faith, without the deeds of the law. v. 20.<br> Eph. 2:8. By grace are ye saved, through faith; and that not of yourselves: it is the gift of God: not of works, lest any man should boast. </p>"
+                    },
+                    {
+                        "question": "[*] 148. But are they not necessary to preserve righteousness and salvation?",
+                        "answer": "<p> No; for we are kept by the power of God through faith unto salvation.<br>1 Pet. 1:5; Phil. 1:6. </p>"
+                    }
+                ]
+            }
+        ],
+        "creed-1": [
+            {
+                "type": "qna",
+                "heading": "Of The First Article Of The Holy Christian Faith.",
+                "content": [
+                    {
+                        "question": "182. Which is the first article concerning the Creation?",
+                        "answer": "<em>I believe in God the Father Almighty, Maker of heaven and earth</em>"
+                    },
+                    {
+                        "question": "183. What does this mean?",
+                        "answer": "I believe that God has made me and all creatures; that He has given me my body and soul, eyes, ears, and all my members, my reason and all my senses, and still preserves them; also clothing and shoes, meat and drink, house and home, wife and children, fields, cattle, and all my goods; that He richly and daily provides me with all that I need to support this body and life; that He defends me against all danger, and guards and protects me from all evil; and all this purely out of fatherly, divine goodness and mercy, without any merit or worthiness in me; for all which it is my duty to thank and praise, to serve and obey Him. This is most certainly true."
+                    },
+                    {
+                        "question": "184. Why do we say I believe, and not WE believe?",
+                        "answer": "Because each one must believe for himself, if he would be saved. <br>Hab. 2:4. The just shall live by his faith. Gal. 2:20."
+                    },
+                    {
+                        "question": "185. What is meant in this article by faith?",
+                        "answer": "<p> Faith means <ol> <li> Not only to have a knowledge of, and </li> <li> Not only to give assent to that which is presented in the articles of faith and in the Gospel, </li> <li> But also with undoubting confidence of the heart to approve it and find peace in it. </li> </ol> <p> Rom. 10:14. How shall they believe in Him of whom they have not heard? (Knowledge.) </p> <p> John 3:36. He that believeth not the Son shall not see life. 20:29; Rom. 4:20-21. (Assent.) Heb. 11:1. Faith is the substance of things hoped for, the evidence of things not seen. Job. 19:25; Is. 9:6; 2 Tim. 1:12; John 20:28. (Confidence.) </p> <p> Acts 15:9. God put no difference between us and them, purifying their hearts by faith. Gal. 5:6. In Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love. (The living, active faith of the heart.) </p> <p> James 2:19-20. Thou believest that there is one God; thou doest well: the devils also believe, and tremble. But wilt thou know, O vain man, that faith without works is dead? 1:3; Tit. 1:16; 2 Tim. 3:5. (The historical, dead faith of the head and mouth.) (Comp. Qu. 139.) </p> </p>"
+                    },
+                    {
+                        "question": "186. What is meant by believing in God?",
+                        "answer": "Believing in God means to be assured, with firm confidence of the heart, that God, the Father of our Lord Jesus Christ, is the one, true, living God, and that He is also my Father, Protector and Defender through Christ and for His sake, in whom He has adopted me as His child. Rom. 8:15."
+                    },
+                    {
+                        "question": "187. Why do you call God Father?",
+                        "answer": "<ol> <li> In respect to His only begotten Son, whom He begat from eternity out of His own essence; </li> <li> In respect to ourselves, because He <ol type='a'> <li>Created us,</li> <li>Adopted us in His dear Son as His own children, and</li> <li> Embraces us with His paternal love and providence, and supplies us with all necessaries, as a father does his children.</li> </ol> </li> </ol> <p> Eph. 3:14-15.<br> Mal. 2:10; Deut. 32:6.<br> John 1:12. (8:41-44; Deut. 32:5. (The wicked are not children of God.)<br> Ps. 103:13. </p>"
+                    },
+                    {
+                        "question": "188. Why do you add the words: Almighty, Maker of heaven and earth?",
+                        "answer": "<p> To indicate the eternal majesty of God and the omnipotence, wisdom, righteousness and goodness, which are displayed most plainly in the work of creation. </p> <p>Ps. 104:24. O Lord, how manifold are Thy works! in wisdom hast Thou made them all: the earth is full of Thy riches. 92:6-7.</p>"
+                    },
+                    {
+                        "question": "189. What benefits are enumerated in the explanation of this article?",
+                        "answer": "Chiefly two: <ol> <li>In general, the creation of all things;</li> <li> The preservation of all created things, or Providence </li> </ol>"
+                    },
+                    {
+                        "question": "190. What is creating?",
+                        "answer": "<p> Creating is to bring forth something of nothing, by the mere power of the Word. </p> <p> Heb. 11:3. Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear. Gen. 1:1-3; Rev. 4:11. </p>"
+                    },
+                    {
+                        "question":"191. What is meant by creatures?",
+                        "answer":"The visible and the invisible; chief among the invisible are the angels, chief among the visible are men. Col. 1:16-17"
+                    },
+                    {
+                        "question":"192. Of how many kinds are the angels?",
+                        "answer":"Two: good and bad."
+                    },
+                    {
+                        "question":"193. What are the good angels?",
+                        "answer":"<p> The good angels are holy and invisible spirits, who are now confirmed in blessedness, and whose employment consists in </p> <ol> <li> Praising God always, </li><li> Executing His commands, and </li><li> Protecting mankind. </li> </ol> <p> Matt. 18:10. In heaven their angels do always behold the face of my Father which is in heaven. (Confirmed in goodness.) </p> <p> Matt. 25:31. Luke 15:10 (holy). 2 Sam. 14:20 (wise). 2 Kin. 19:35 (mighty). Dan. 7:10 (great number). Gen. 3:24. Is. 6:2. Col. 1:16. 1 Thess. 4:16 (orders). Dan. 10:13. Luke 1:19 (names). </p> <p> Ps. 103:20. Bless the Lord, ye his angels, that excel in strength, that do His commandments, hearkening to the voice of His word. Is. 6:3; Luke 2:14. </p> <p> Ps. 104:4. Who maketh His angels spirits; His ministers a flaming fire. </p> <p> Heb. 1:14. Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation? </p> <p> Ps. 91:11-12. He shall give His angels charge over thee, to keep thee in all thy ways. They shall bear thee up in their hands, lest thou dash thy foot against a stone. </p> <p> Ps. 34:7. The angel of the Lord encampeth round about them that fear Him, and delivereth them. Luke 16:22. </p> <p> Gen. 19:1, etc.; 28:12; 32:1-2; 2 Kin. 2:11; 6:15-17; Dan. 3:23, etc.; 6:22; Acts 5:18, etc.; 12:5, etc. </p>"
+                    },
+                    {
+                        "question":"194. What are the bad angels?",
+                        "answer":"<p> The bad angels were created good and holy by God, but voluntarily fell from Him, and became declared enemies of God and men; therefore they strive to offend God and to mislead men and deprive them of salvation. </p> <p> Jude 6. The angels which kept not their first estate, but left their own habitation, He hath reserved in everlasting chains under darkness unto the judgment of the great day. </p> <p> John 8:44. The devil abode not in the truth. </p> <p> Matt. 13:28 (enemy). Eph. 6:11 (wiles). 2 Pet. 2:4 (blinded). Luke 11:21 (strong). Matt. 8:31- 32 (impotence). Mark 5:9 (great number). Luke 11:15 (chief). </p> <p> Matt. 4:1; Gen. 3:1; comp. Rev. 12:9. </p> <p> 1 Pet. 5:8. Be sober, be vigilant: because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour. </p> <p> James 4:7. Resist the devil, and he will flee from you. Eph. 6:12; Luke 8:12; 11:24-26. Luke 22:31; Job 1:2; 1 Chron. 21:1; John 13:2, 27; Acts 5:3; 2 Thess. 2:9 </p>"
+                    },
+                    {
+                        "question":"195. What is meant by visible creatures?",
+                        "answer":"All living and inanimate creatures, as wild and domestic animals, birds, fishes, reptiles, the sun, moon and stars, the grass, flowers, trees, and the like, of which mention is made in Gen. 1:1; but chiefly man"
+                    },
+                    {
+                        "question":"196. How do you prove that man is the chief of all visible creatures?",
+                        "answer":"<p> By the fact that God not only created him, like the other living beings, beautifully forming his body and soul, eyes, ears, and all his members, and giving him reason and all his senses, but that He also, by especial grace, created him in His own image. </p> <p> Gen. 2:7; 21:22; Ps. 139:14. </p> <p> Gen. 1:26-27. God said, Let us make man in our image, after our likeness; and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth. So God created man in His own image, in the image of God created He him; male and female created He them. </p>"
+                    },
+                    {
+                        "question":"[*] 197. What is that image of God?",
+                        "answer":"<p> It is the righteousness and true holiness in which the first man was created, which consisted in the highest perfection of the whole man, in the rectitude, integrity and purity of all the powers of body and soul, and their coincidence with the divine law. </p> <p> Eph. 4:24. Put on the new man, which after God is created in righteousness and true holiness. Eccl. 7:30; Gen. 1:31. (Will.) </p> <p> Col. 3:10. Put on the new man, which is renewed in knowledge after the image of Him that created him. Gen 2:19, 20, 23. (Intellect.) </p> <p> Gen. 1:26 (dominion). 2:8 (happy abode). 2:17 (immortal). 2:25 (without evil lust). </p>"
+                    },
+                    {
+                        "question":"[*] 198. Was this image of God propagated by Adam to his posterity?",
+                        "answer":"<p> By no means; but by Adam’s fall it was lost and became sadly deranged and corrupted. </p> <p> Gen. 3:1-24; 5:1-3.</p>"
+                    },
+                    {
+                        "question":"[*] 199. But is it in no way restored to us?",
+                        "answer":"<p> In this life a beginning is made in believers in its restoration through the gracious satisfaction made by Christ and through the renewal of the Holy Ghost, but in the life to come it will be fully restored in the elect. </p> <p> 2 Cor. 5:17; 3:18. </p> <p> Col. 3:10; Eph. 4:24. (Qu. 197.) </p> <p> Ps. 17:15; 1 Cor. 15:49; 1 John 3:2. </p>"
+                    },
+                    {
+                        "question":"200. In what words of the explanation are the benefits of providence and of the preservation of creatures enumerated?",
+                        "answer":"“I believe that God still preserves me and all creatures; also clothing and shoes, meat and drink, house and home, wife and children, fields, cattle, and all my goods; that He richly and daily provides me with all that I need to support this body and life; that He defends me against all danger, and guards and protects me from all evil."
+                    },
+                    {
+                        "question":"201. Why is this added to the article of the creation?",
+                        "answer":"<p> Because God has not forsaken His work, as the architect leaves the house when it is finished, but He preserves all created things and governs them by His paternal providence. </p> <p> Acts 17:27-28. He is not far from every one of us; for in Him we live, and move, and have our being. John 5:17 </p>"
+                    },
+                    {
+                        "question":"[*] 202. What is divine providence?",
+                        "answer":"<p> It is that act of God in which He governs all created things freely, wisely, powerfully and benevolently, to the glory of His name and to the welfare and salvation of the pious. </p> <p> Heb. 1:3. He upholds all things by the word of His power, Rom. 11:36. </p> <p> Col. 1:17. By Him all things consist. Gen. 8:22. (Preservation) </p> <p> Ps. 145:15-16. The eyes of all wait upon Thee, Lord; and Thou givest them their meat in due season. Thou openest Thy hand, and satisfiest the desires of every living thing 104:27- 32; Job 10:12; 1 Pet. 5:7; Matt. 6:25-32; 5:45; Acts 14:17. (Providence.) </p> <p> Matt. 10:29-30. Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father. But the very hairs of your head are all numbered. Acts 17:26; Prov. 16:9; Is. 28:29; Jer.10:23; Ps. 31:16; Job 14:5. (Government of life.) </p> <p> Ps. 33:13-15. The Lord looketh from heaven; He beholdeth all the sons of men. From the place of His habitation He looketh upon all the inhabitants of the earth. He fashioneth their hearts alike; He considereth all their works. Prov. 21:1. (Direction of the heart.) </p> <p> Gen. 50:20. Ye thought evil against me; but God meant it unto good. (Control of evil.) Rom. 8:28. </p>"
+                    },
+                    {
+                        "question":"203. But how do we merit such great benefits?",
+                        "answer":"<p> We merit none of them, but our kind heavenly Father does “all this purely out of fatherly, divine goodness and mercy, without any merit or worthiness in us.” </p> <p> Gen. 32:10. I am not worthy of the least of all the mercies, and of all the truth, which Thou hast showed unto Thy servant. Ps. 144:38; 1 Cor. 4:7. </p>"
+                    },
+                    {
+                        "question":"204. What is therefore due to our kind Father in heaven?",
+                        "answer":"We are in duty bound <ol> <li> From our heart to thank Him for all this, Sir. 50:24. </li> <li> With our lips to praise Him, Ps. 103:1-2; </li> <li> To serve Him with child-like reverence, Ps. 95:6-7; and </li> <li> To obey Him faithfully throughout our whole lives. </li> </ol>"
+                    },
+                    {
+                        "question":"205. Why are the words, “This is most certainly true,” added to the explanation of this and the following articles?",
+                        "answer":"To testify our joyful confidence in this faith and its immovable certainty, of which we dare not have the least doubt."
+                    }
+                ]
+            }
+        ],
+        "creed-2": [
+            {
+                "type": "qna",
+                "heading": "Of The Second Article Of The Holy Christian Faith.",
+                "content": [
+                    {
+                        "question":"206. Which is the second article, concerning the redemption?",
+                        "answer":"I believe in Jesus Christ, His only Son, our Lord; who was conceived by the Holy Ghost, born of the Virgin Mary; suffered under Pontius Pilate, was crucified, dead, and buried; He descended into hell; the third day He arose again from the dead; He ascended into heaven, and sitteth on the right hand of God the Father Almighty; from thence He shall come to judge the quick and the dead."
+                    },
+                    {
+                        "question":"207. What does this mean?",
+                        "answer":"I believe that Jesus Christ, true God, begotten of the Father from eternity, and also true man, born of the Virgin Mary, is my Lord, who has redeemed me, a lost and condemned creature, purchased and won me from all sins, from death and from the power of the devil, not with gold or silver, but with His holy precious blood and with His innocent suffering and death, that I may be His own, and live under Him in His kingdom, and serve Him in everlasting righteousness, innocence, and blessedness, even as He is risen from the dead, lives and reigns to all eternity. This is most certainly true."
+                    },
+                    {
+                        "question":"208. How many parts are contained in this Article and its explanation?",
+                        "answer":"Chiefly two: <ol> <li> Of the Person of our Lord Jesus Christ; </li> <li> Of the Office of our Lord Jesus Christ. </li> </ol>"
+                    }
+                ]
+                
+            },
+            {
                 "type":"qna",
-                "heading":"Of Good Works.",
+                "heading":"I. Of The Person Of Christ.",
                 "content":[
                     {
-                        "question":"141. By what fruits must therefore a true repentance be shown?",
-                        "answer":"<p>By good works. Tit. 2:14; Hos. 7:16; Is. 58:5-7.</p>"
+                        "question":"209. Which words of this Article treat especially of Christ’s Person?",
+                        "answer":"The words: “And in Jesus Christ, His only Son, our Lord; who was conceived by the Holy Ghost born of the Virgin Mary.”"
                     },
                     {
-                        "question":"142. What are good works?",
-                        "answer":"<p>Good works are actions of the regenerate, performed by the power of the Holy Spirit, proceeding from true faith, conforming to God’s commandments, and designed solely to glorify God and manifest due gratitude.</p> <p> Matt. 7:17-18; Gal. 5:22.<br> Rom. 14:23. Whatever is not of faith is sin.<br> Matt. 15:9. In vain do they worship me, teaching for doctrines the commandments of men.<br> John 15:5. I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.<br> 1 Cor. 10:31. Whether therefore ye eat or drink, or whatsoever ye do, do all to the glory of God.<br> Col. 3:17. Whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by Him. </p>"
+                        "question":"210. Who accordingly is Jesus Christ?",
+                        "answer":"<p> Jesus Christ is the second person or the Godhead and true man, born in time of the Virgin Mary,— the only Redeemer of the human race; or: He is the Son of God and of Mary, true God, begotten of the Father from eternity, and also true man, born of the Virgin Mary, my Lord. </p> <p> 2 Sam. 7:19; Rom. 9:5. (Qu. 213.) </p>"
                     },
                     {
-                        "question":"143. Can the regenerate perform perfectly good works, without any fault or blemish?",
-                        "answer":"<p>No; for as the renewal in this life is but commenced and imperfect, the good works which the regenerate perform by the power of the Holy Spirit are but imperfectly good, being tainted by the infirmities of the flesh.<br> Rom. 7:21, 24; Heb. 12:1; 1 Cor. 4:4; Gal. 5:17.</p>"
+                        "question":"211. Why is He called Jesus?",
+                        "answer":"<p> He is called Jesus, that is Saviour, by the angel, because He should save His people from their sins, and because there is salvation in no other, and there is none other name under heaven given among men whereby we must be saved. </p> <p> Matt. 1:21. She shall bring forth a son, and thou shalt call His name Jesus: for He shall save His people from their sins. </p> <p> Acts 4:12. Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved. </p>"
                     },
                     {
-                        "question":"144. Why are these imperfect works of the regenerate pleasing to God?",
-                        "answer":"<ol> <li> Because the persons reconciled by faith are pleasing to Him; </li> <li> Because their imperfections are covered with the robe of the complete perfection of Christ, their Mediator. </li> </ol> <p> Rom. 8:33. Who shall lay anything to the charge of God’s elect? It is God that justifieth.<br> Rom. 8:1; 1 Pet. 2:5. </p>"
-                    },
-                    {
-                        "question":"145. Why must we do good works?",
-                        "answer":"<p> Not that we may by them atone for our sins and merit eternal life; for Christ alone has made atonement and merited for us life everlasting; but that we may by them manifest our faith and give God thanks for the benefits received. </p> Rom. 10:2-4."
-                    },
-                    {
-                        "question":"[*] 146. Do you therefore regard good works to be necessary?",
-                        "answer":"<p> Certainly they are necessary: <ol> <li> <p> On God’s account, that we may dutifully obey the command and will of God; </p> <p> Matt.5:16. Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven. </p> <p> Eph. 2:10. We are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them. </p> </li> <li> <p> On our own account, that we may by them manifest our faith before men; </p> <p> James 2:17-18. Faith, if it hath not works, is dead, being alone. Yea, a man may say, Thou hast faith, and I have works: show me thy faith without thy works, and will show thee my faith by my works. John 13:35; 2 Pet. 1:10. </p> </li> <li> On our neighbor’s account, that by them we may assist, support and edify him.<br> Tit. 3:8; Phil. 2:15. </li> </ol> </p>"
-                    },
-                    {
-                        "question":"[*] 147. But why are they not necessary to merit for us righteousness before God and salvation?",
-                        "answer":"<p> Because we are justified and saved by grace, alone through faith in Christ Jesus. </p> <p> Rom. 3:28. We conclude that a man is justified by faith, without the deeds of the law. v. 20.<br> Eph. 2:8. By grace are ye saved, through faith; and that not of yourselves: it is the gift of God: not of works, lest any man should boast. </p>"
-                    },
-                    {
-                        "question":"[*] 148. But are they not necessary to preserve righteousness and salvation?",
-                        "answer":"<p> No; for we are kept by the power of God through faith unto salvation.<br>1 Pet. 1:5; Phil. 1:6. </p>"
+                        "question":"212. Why is He called Christ?",
+                        "answer":"<p> He is called Christ, or Messiah, that is the Anointed, because He was anointed without measure by the Holy Ghost to be our Prophet, High Priest, and King. </p> <p> Ps. 45:7. Thou lovest righteousness, and hatest wickedness: therefore God, Thy God, hath anointed Thee with the oil of gladness above Thy fellows. Acts 10:38; John 1:41-49; Is. 61:1-3. (Comp. Luke 4:17-21.) </p> <p> Ex 23:41; 1 Kin. 19:15-16. </p>"
                     }
                 ]
             }
