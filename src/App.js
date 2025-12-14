@@ -25,6 +25,7 @@ import Henkel from './Translations/henkel.json';
 import Jacobs from './Translations/jacobs.json';
 import Stump from './Translations/stump.json';
 import JCDietrich from './Translations/dietrich.json';
+import Translation1912 from './Translations/1912.json';
 
 import Vietnamese from './Translations/vietnamese.json';
 
@@ -53,6 +54,9 @@ function App() {
         break;
       case 'jcdietrich':
         setTranslation(JCDietrich);
+        break;
+      case '1912':
+        setTranslation(Translation1912);
         break;
 
       case 'vietnamese':
@@ -116,8 +120,9 @@ function App() {
             <optgroup label='English'>
               <option value="henkel">Henkel BoC (1854)</option>
               <option value="jacobs">Henry E. Jacobs (1882)</option>
-              <option value="stump">Joseph Stump (1910)</option>
               <option value="jcdietrich">J.C. Dietrich (1902)</option>
+              <option value="stump">Joseph Stump (1910)</option>
+              <option value="1912">Synodical Conference (1912)</option>
             </optgroup>
             <optgroup label='Other Languages'>
               <option value="vietnamese">2022 Giáo Lý Căn Bản (Vietnamese) </option>
