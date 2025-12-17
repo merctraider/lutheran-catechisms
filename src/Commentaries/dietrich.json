@@ -1004,7 +1004,7 @@
                 "content":[
                     {
                         "question":"209. Which words of this Article treat especially of Christ's Person?",
-                        "answer":"The words: "And in Jesus Christ, His only Son, our Lord; who was conceived by the Holy Ghost born of the Virgin Mary.""
+                        "answer":"The words: \"And in Jesus Christ, His only Son, our Lord; who was conceived by the Holy Ghost born of the Virgin Mary.\""
                     },
                     {
                         "question":"210. Who accordingly is Jesus Christ?",
@@ -1224,7 +1224,7 @@
                     },
                     {
                         "question":"258. In which words of the Creed is this state of exaltation expressed?",
-                        "answer":"In these: "He descended into hell; the third day He rose again from the dead; He ascended into heaven, and sitteth on the right hand of God the Father Almighty; from thence He shall come to judge the quick and the dead.""
+                        "answer":"In these: \"He descended into hell; the third day He rose again from the dead; He ascended into heaven, and sitteth on the right hand of God the Father Almighty; from thence He shall come to judge the quick and the dead.\""
                     },
                     {
                         "question":"259. Why did He descend into hell?",
@@ -1260,7 +1260,7 @@
                     },
                     {
                         "question":"[*] 267. Why then do we say in the Creed: From thence He shall come to judge the quick and the dead?",
-                        "answer":"<p>The words "from thence" do not denote a local inclusion in heaven, but indicate that Christ our Saviour will come again from heaven in a visible form, Acts 1:11, and will with great glory and majesty judge the living and the dead.</p><p>Acts 3:21. Whom the heaven must receive.</p><p>Eph. 4:10. He that descended is the same also that ascended far above all heavens, that He might fill all things.</p>"
+                        "answer":"<p>The words \"from thence\" do not denote a local inclusion in heaven, but indicate that Christ our Saviour will come again from heaven in a visible form, Acts 1:11, and will with great glory and majesty judge the living and the dead.</p><p>Acts 3:21. Whom the heaven must receive.</p><p>Eph. 4:10. He that descended is the same also that ascended far above all heavens, that He might fill all things.</p>"
                     },
                     {
                         "question":"[*] 268. Do you then believe that the judgment of the living and the dead will certainly take place?",
@@ -1280,7 +1280,6 @@
                     }
                 ]
             }
-        ],
-        "creed-3": [
+        ]
     }
 }
