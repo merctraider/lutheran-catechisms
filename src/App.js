@@ -141,7 +141,7 @@ function App() {
 
         <BrowserRouter>
           <Routes>
-            <Route path={'/'} element={<Home />} />
+            <Route path={'/'} element={<Home translationID={translationID} />} />
             <Route path='/about' element={<About />} />
             <Route path={'/preface'} element={<CatechismChiefPart id="preface" translation={translation.preface} />} />
             <Route path='/ten-commandments' element={<CatechismChiefPart id="tencommandments" translation={translation.tencommandments} />} />

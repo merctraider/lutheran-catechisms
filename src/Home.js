@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function Home() {
-    const hash = window.location.hash;
+export default function Home({ translationID }) {
+    const hash = translationID ? `#${translationID}` : '';
 
     return (
         <div>
